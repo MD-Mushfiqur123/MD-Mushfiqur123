@@ -13,6 +13,8 @@
 
 - 👯 I’m looking to collaborate on [Gemini and Other Ai Models](https://aistudio.google.com/)
 
+- 🤝 I’m looking for help with [github](https://github.com/)
+
 - 👨‍💻 All of my projects are available at [https://github.com/MD-Mushfiqur123](https://github.com/MD-Mushfiqur123)
 
 - 📝 I regularly write articles on [https://www.facebook.com/profile.php?id=61560964815012](https://www.facebook.com/profile.php?id=61560964815012)
