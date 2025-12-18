@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on Google Cloud<br><br>🌱 I’m currently learning Rust,Go,Php<br><br>👯 I’m looking to collaborate on Gemini and Other Ai Models<br><br>🤝 I’m looking for help with github<br><br>👨‍💻 All of my projects are available at https://github.com/MD-Mushfiqur123<br><br>📝 I regularly write articles on https://www.facebook.com/profile.php?id=61560964815012<br><br>💬 Ask me about anything<br><br>📫 How to reach me 20mahin2020@gmail.com<br><br>📄 Know about my experiences https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a<br><br>⚡ Fun fact A cat(github) tell you code<br>
 
+![image alt](https://github.com/MD-Mushfiqur123/fgh/blob/main/zym5pybotlja1.gif?raw=true)
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/md-mushfiqur123) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/md-mushfiqur123) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/md-mushfiqur123) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/61560964815012) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/md-mushfiqur123) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-mushfiqur123) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@md-mushfiqur123) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/md-mushfiqur123) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/md-mushfiqur123) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/md-mushfiqur123) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/md-mushfiqur123) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@md-mushfiqur123) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/md-mushfiqur123) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/md-mushfiqur123) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@md-mushfiqur123) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/md-mushfiqur123) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@md-mushfiqur123) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:20mahin2020@gmail.com) 
@@ -19,5 +20,11 @@
 
 
 ![image alt](https://github.com/iamarghamallick/iamarghamallick/raw/main/assets/Cool.gif)
+
+![image alt](https://github.com/MD-Mushfiqur123/fgh/blob/main/beautiful-pixelated-cartoon-landscape.webp?raw=true)
+![image alt](https://github.com/MD-Mushfiqur123/fgh/blob/main/images%20(1).jpg?raw=true)
+![image alt](https://github.com/MD-Mushfiqur123/fgh/blob/main/images%20(2).jpg?raw=true)
+![image alt](https://github.com/MD-Mushfiqur123/fgh/blob/main/images%20(3).jpg?raw=true)
+![image alt](https://github.com/MD-Mushfiqur123/fgh/blob/main/images.jpg?raw=true)
 
 
