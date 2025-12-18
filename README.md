@@ -1,4 +1,4 @@
-![image alt](https://i.gifer.com/QHJ.gif)
+![image alt](https://i.gifer.com/QHJ.gif) ![image alt](https://i.gifer.com/fyrY.gif)
 # 💫 About Me:
 🔭 I’m currently working on Google Cloud<br><br>🌱 I’m currently learning Rust,Go,Php<br><br>👯 I’m looking to collaborate on Gemini and Other Ai Models<br><br>🤝 I’m looking for help with github<br><br>👨‍💻 All of my projects are available at https://github.com/MD-Mushfiqur123<br><br>📝 I regularly write articles on https://www.facebook.com/profile.php?id=61560964815012<br><br>💬 Ask me about anything<br><br>📫 How to reach me 20mahin2020@gmail.com<br><br>📄 Know about my experiences https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a<br><br>⚡ Fun fact A cat(github) tell you code<br>
 
