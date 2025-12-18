@@ -39,4 +39,4 @@
 google skill Badges
 
 
-![image alt](https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a)
+![image alt]([https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a](https://cdn.qwiklabs.com/PWXvAEI5GTj%2FirWbFtURQZ3N3NctajABBJ8A8uzlas0%3D))
