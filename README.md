@@ -41,4 +41,4 @@
 
 google skill Badges
 
-[![Google Skills Profile](https://img.shields.io/badge/Google_Cloud-Skills_Profile-blue?logo=google-cloud&logoColor=white)](https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a)
+![image alt](https://github.com/MD-Mushfiqur123/ddd/blob/main/www-skills-google-public_profiles-f65660d4-2a1e-48ba-8431-998055be793a.jpg?raw=true)
