@@ -41,4 +41,4 @@
 
 google skill Badges
 
-![image alt](https://github.com/MD-Mushfiqur123/ddd/blob/main/www-skills-google-public_profiles-f65660d4-2a1e-48ba-8431-998055be793a.jpg?raw=true)
+![image alt](https://raw.githubusercontent.com/MD-Mushfiqur123/repo-google-dev/refs/heads/main/www-skills-google-public_profiles-f65660d4-2a1e-48ba-8431-998055be793a.jpg)
