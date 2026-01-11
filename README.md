@@ -1,29 +1,4 @@
-
----
-
-## Scoring
-Add your wins below:
-
-**Player X (❌) Wins:** 0  
-**Player O (⭕) Wins:** 0  
-**Draws:** 0
-
----
-
-## Winning Combinations
-Check if you have 3 in a row:
-- Rows: (1,2,3), (4,5,6), (7,8,9)
-- Columns: (1,4,7), (2,5,8), (3,6,9)
-- Diagonals: (1,5,9), (3,5,7)
-
----
-
-## Game History
-1. Start new game
-2. Copy this template
-3. Update board after each move
-4. Mark winner when game ends
-5. ![image alt](https://i.gifer.com/QHJ.gif) 
+ ![image alt](https://i.gifer.com/QHJ.gif) 
 # 💫 About Me:
 🔭 I’m currently working on Google Cloud<br><br>🌱 I’m currently learning Rust,Go,Php<br><br>👯 I’m looking to collaborate on Gemini and Other Ai Models<br><br>🤝 I’m looking for help with github<br><br>👨‍💻 All of my projects are available at https://github.com/MD-Mushfiqur123<br><br>📝 I regularly write articles on https://www.facebook.com/profile.php?id=61560964815012<br><br>💬 Ask me about anything<br><br>📫 How to reach me 20mahin2020@gmail.com<br><br>📄 Know about my experiences https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a<br><br>⚡ Fun fact A cat(github) tell you code<br>
 
