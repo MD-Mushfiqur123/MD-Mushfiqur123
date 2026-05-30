@@ -49,8 +49,12 @@ me.say_hi()
 ## 🏆 GitHub Achievements
 
 <div align="center">
-[![](https://user-images.githubusercontent.com/31789752/147340893-655b9fa5-138f-4f29-91ec-2a17c93822d1.png)]
-[![image](https://user-images.githubusercontent.com/31789752/152659041-de5b23cb-1be8-4e6b-b07b-726127ab8c3a.png)]
+![Image 1](https://user-images.githubusercontent.com/31789752/147340893-655b9fa5-138f-4f29-91ec-2a17c93822d1.png)
+
+![Image 2](https://user-images.githubusercontent.com/31789752/152659041-de5b23cb-1be8-4e6b-b07b-726127ab8c3a.png)
+
+![Image 3](https://private-user-images.githubusercontent.com/86977383/352791777-18a2266c-9a88-4882-940d-162c0c4d36e0.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODAxNTAxMDMsIm5iZiI6MTc4MDE0OTgwMywicGF0aCI6Ii84Njk3NzM4My8zNTI3OTE3NzctMThhMjI2NmMtOWE4OC00ODgyLTk0MGQtMTYyYzBjNGQzNmUwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA1MzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNTMwVDE0MDMyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ0ZmVjMmIyZDFmZjcwZTUxYjcxOGIzNTJlNTkwMGQzYTYyMjRjNmJjYTlmODViMGIwZjhmYWE5NzY2NzkyZTEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.yrVPpIiEQ8u0FxtlLAQaBk1OmfX6U8gUL48zcpGCjk8)
+
 </div>
 
 ---
