@@ -49,8 +49,9 @@ me.say_hi()
 ## 🏆 GitHub Achievements
 
 <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=MD-Mushfiqur123&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://user-images.githubusercontent.com/31789752/147340893-655b9fa5-138f-4f29-91ec-2a17c93822d1.png)
+![](https://user-images.githubusercontent.com/31789752/152659041-de5b23cb-1be8-4e6b-b07b-726127ab8c3a.png)
+![](https://private-user-images.githubusercontent.com/86977383/352791777-18a2266c-9a88-4882-940d-162c0c4d36e0.png?jwt=...)
 
 </div>
 
