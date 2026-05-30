@@ -49,7 +49,6 @@ me.say_hi()
 ## 🏆 GitHub Achievements
 
 <div align="center">
-![Image 1](https://user-images.githubusercontent.com/31789752/147340893-655b9fa5-138f-4f29-91ec-2a17c93822d1.png)
 
 ![Image 2](https://user-images.githubusercontent.com/31789752/152659041-de5b23cb-1be8-4e6b-b07b-726127ab8c3a.png)
 
