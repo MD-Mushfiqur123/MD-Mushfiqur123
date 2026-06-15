@@ -64,6 +64,15 @@ me.say_hi()
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MD-Mushfiqur123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" />
 &nbsp;
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-Mushfiqur123&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+## Star History
+
+<a href="https://www.star-history.com/?repos=MD-Mushfiqur123%2FMD-Mushfiqur123&type=timeline&logscale=&legend=bottom-right">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=MD-Mushfiqur123/MD-Mushfiqur123&type=timeline&theme=dark&logscale&legend=bottom-right" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=MD-Mushfiqur123/MD-Mushfiqur123&type=timeline&logscale&legend=bottom-right" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=MD-Mushfiqur123/MD-Mushfiqur123&type=timeline&logscale&legend=bottom-right" />
+ </picture>
+</a>
 
 </div>
 
