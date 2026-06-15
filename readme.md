@@ -57,7 +57,7 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Stats
+
 
 <div align="center">
 
