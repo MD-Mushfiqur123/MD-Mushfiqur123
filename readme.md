@@ -83,6 +83,44 @@ me.say_hi()
 
 ---
 
+## 🛠️ Complete Tech Stack & Skills Matrix
+
+### 💻 Programming Languages & Runtimes
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,python,ts,js,rust,java,cpp,c,php,html,css,bash,sql&theme=dark" alt="Programming Languages" />
+  </a>
+</div>
+
+<br />
+
+### 🤖 AI, Machine Learning & Web Frameworks
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,react,nextjs,nodejs,express,fastapi,tailwind,bootstrap&theme=dark" alt="AI & Frameworks" />
+  </a>
+</div>
+
+<br />
+
+### ☁️ Cloud Platforms, DevOps & Infrastructure
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gcp,aws,docker,kubernetes,firebase,cloudflare,vercel,githubactions,linux&theme=dark" alt="Cloud & DevOps" />
+  </a>
+</div>
+
+<br />
+
+### 🗄️ Databases, Developer Tools & Ecosystem
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,graphql,git,github,vscode,postman,neovim&theme=dark" alt="Databases & Tools" />
+  </a>
+</div>
+
+---
+
 ## 🏆 Official Google Cloud & DeepMind Badges
 
 > *Official Skill Badges earned on [Google Skills Boost](https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a) (104+ Verified Badges)*
@@ -160,25 +198,6 @@ me.say_hi()
 
 ---
 
-## 🌐 Google Developer Program Highlights
-
-> *Verified Badges on [Google Developer Profile](https://me.developers.google.com/u/Mushfiqur)*
-
-| Badge Shield | Program Focus | Profile Link |
-| :---: | :--- | :---: |
-| <img src="https://img.shields.io/badge/Google_Developer-Official_Program_Member-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developer Member" /> | 🏆 **Official Program Member** | [Verify Profile](https://me.developers.google.com/u/Mushfiqur) |
-| <img src="https://img.shields.io/badge/Vertex_AI-Gemini_LLM_Explorer-34A853?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Vertex AI Explorer" /> | 🤖 **Vertex AI & Gemini LLM** | [Verify Profile](https://me.developers.google.com/u/Mushfiqur) |
-| <img src="https://img.shields.io/badge/GCP_Infra-Cloud_Architecture-FBBC05?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP Infra" /> | ☁️ **GCP Infrastructure Builder** | [Verify Profile](https://me.developers.google.com/u/Mushfiqur) |
-| <img src="https://img.shields.io/badge/GenAI-Prompt_%26_LLM_Engineering-EA4335?style=for-the-badge&logo=google&logoColor=white" alt="GenAI Engineering" /> | ⚙️ **GenAI & Prompt Engineering** | [Verify Profile](https://me.developers.google.com/u/Mushfiqur) |
-| <img src="https://img.shields.io/badge/GCP_Security-IAM_%26_Governance-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP Security" /> | 🔐 **Cloud Security Governance** | [Verify Profile](https://me.developers.google.com/u/Mushfiqur) |
-| <img src="https://img.shields.io/badge/Data_Engineering-BigQuery_%26_Analytics-34A853?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Data Engineering" /> | 📊 **BigQuery Data Analytics** | [Verify Profile](https://me.developers.google.com/u/Mushfiqur) |
-| <img src="https://img.shields.io/badge/Serverless-Cloud_Functions_%26_Gateway-FBBC05?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Serverless" /> | 🚀 **Serverless Microservices** | [Verify Profile](https://me.developers.google.com/u/Mushfiqur) |
-| <img src="https://img.shields.io/badge/Google_Developer-Verified_Contributor-EA4335?style=for-the-badge&logo=google&logoColor=white" alt="Verified Contributor" /> | 📱 **Google Dev Verified Profile** | [Verify Profile](https://me.developers.google.com/u/Mushfiqur) |
-| <img src="https://img.shields.io/badge/Workspace-Apps_Script_%26_AppSheet-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Workspace Dev" /> | 🛠️ **Apps Script Automation** | [Verify Profile](https://me.developers.google.com/u/Mushfiqur) |
-| <img src="https://img.shields.io/badge/Cloud_Networking-NCC_%26_Connectivity-34A853?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Networking" /> | 🌐 **Cloud Network Connectivity** | [Verify Profile](https://me.developers.google.com/u/Mushfiqur) |
-
----
-
 ## 🎓 Anthropic AI Certifications
 
 > **Certified by Anthropic** — Creators of Claude 🤖
@@ -216,36 +235,6 @@ me.say_hi()
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MD-Mushfiqur123&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </a>
 
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,python,ts,js,rust,java,cpp,bash&theme=dark" alt="Languages" />
-  </a>
-</div>
-
-### 🤖 AI, LLM & Machine Learning
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Claude_API-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude API" />
-  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini" />
-  <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Vertex AI" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-</div>
-
-### ☁️ Cloud, DevOps & Infrastructure
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,aws,firebase,githubactions,cloudflare&theme=dark" alt="Cloud & DevOps Skills" />
-  </a>
 </div>
 
 ---
