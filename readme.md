@@ -26,7 +26,7 @@
 
 - 🎯 **Age:** 16-Year-Old High-Impact Developer & Open Source Contributor from Bangladesh 🇧🇩
 - 🏛️ **Open Source Contributions:** Merged PRs in **Docker (Moby Engine)**, **Google (`go-cmp`)**, **AWS Labs (`mcp`)**, **Prometheus & etcd (CNCF)**, **GoFiber**, **Oh My Zsh**, and **ClickHouse**.
-- 🌐 **Google Profiles:** Verified [Google Developer Profile](https://me.developers.google.com/u/Mushfiqur) & [Google Skills Boost Profile](https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a)
+- 🌐 **Google Profiles:** Verified [Google Developer Profile](https://me.developers.google.com/u/Mushfiqur) & [Google Skills Boost Profile](https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a) (104+ Badges)
 - 📊 **Contributions:** 108+ Merged PRs across 66+ Global Open-Source Repositories & 520+ Public Repos.
 - 🎓 **AI Certifications:** Certified by **Anthropic** (Claude Code, Claude on Vertex AI, AI Fluency).
 
@@ -83,28 +83,86 @@ me.say_hi()
 
 ---
 
-## 🏆 Top Google Badges & Certifications Showcase
+## 🏆 Official Google Cloud & DeepMind Badges
 
-> *Verified credentials across [Google Skills Boost](https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a) & [Google Developer Program](https://me.developers.google.com/u/Mushfiqur)*
+> *Official Skill Badges earned on [Google Skills Boost](https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a) (104+ Verified Badges)*
 
-### 🎓 Top 10 Google Skills Boost Badges
+<div align="center">
 
-| Badge Shield | Domain / Specialty | Profile Link |
-| :---: | :--- | :---: |
-| <img src="https://img.shields.io/badge/Google_DeepMind-Train_Small_LLM-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google DeepMind" /> | 🧠 **DeepMind & SLM Training** | [Verify Profile](https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a) |
-| <img src="https://img.shields.io/badge/Vertex_AI-Gemini_Generative_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Vertex AI Gemini" /> | 🤖 **Generative AI & Gemini API** | [Verify Profile](https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a) |
-| <img src="https://img.shields.io/badge/Google_TPU-Inference_Optimization-34A853?style=for-the-badge&logo=google&logoColor=white" alt="Google TPU" /> | ⚡ **TPU Hardware Acceleration** | [Verify Profile](https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a) |
-| <img src="https://img.shields.io/badge/AI_Stack-Inference_Architecture-FBBC05?style=for-the-badge&logo=google&logoColor=white" alt="AI Stack" /> | 🏛️ **AI Systems & Inference Stack** | [Verify Profile](https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a) |
-| <img src="https://img.shields.io/badge/BigQuery-Multimodal_Vector_Search-EA4335?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Multimodal Vector Search" /> | 🔍 **Multimodal Vector Search (RAG)** | [Verify Profile](https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a) |
-| <img src="https://img.shields.io/badge/GenAI_Agents-Enterprise_Transformation-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="GenAI Agents" /> | 🤖 **Autonomous Agent Systems** | [Verify Profile](https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a) |
-| <img src="https://img.shields.io/badge/BigQuery-Secure_Lakehouse_Data-34A853?style=for-the-badge&logo=google-cloud&logoColor=white" alt="BigQuery Lakehouse" /> | 🔒 **Lakehouse Security Governance** | [Verify Profile](https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a) |
-| <img src="https://img.shields.io/badge/API_Gateway-Serverless_Security-FBBC05?style=for-the-badge&logo=google-cloud&logoColor=white" alt="API Gateway" /> | 🌐 **Serverless API Architecture** | [Verify Profile](https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a) |
-| <img src="https://img.shields.io/badge/Google_IAM-Privileged_Access_Control-EA4335?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google IAM" /> | 🔑 **Privileged IAM & Cloud Access** | [Verify Profile](https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a) |
-| <img src="https://img.shields.io/badge/GCloud_CLI-Essential_Developer_Tools-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCloud CLI" /> | 💻 **Cloud CLI (`gcloud`) Mastery** | [Verify Profile](https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a) |
+<table>
+  <tr>
+    <td align="center" width="20%">
+      <a href="https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a">
+        <img src="https://cdn.qwiklabs.com/%2BoWdm%2FHzI%2FCAdbH%2BVisNVqZNrjaLwl24mARfInT99b0%3D" width="135" alt="Google DeepMind" /><br />
+        <sub><b>Google DeepMind: Train SLM</b></sub>
+      </a>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a">
+        <img src="https://cdn.qwiklabs.com/cmS6mobYbWrdL%2BfShmyvQnXt2P%2Bhm9S2ZpTTQ4Rase4%3D" width="135" alt="Generative AI Agent Platform" /><br />
+        <sub><b>GenAI Agent Platform</b></sub>
+      </a>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a">
+        <img src="https://cdn.qwiklabs.com/ptFjKJhCElCLWeQv%2BT%2F%2Bquj23pUL5YzWprpljt6ceJ0%3D" width="135" alt="Multimodal Vector Search" /><br />
+        <sub><b>Multimodal Vector Search</b></sub>
+      </a>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a">
+        <img src="https://cdn.qwiklabs.com/JgPRhq41EzENxiYuPxIxIjltIQ5N%2B12dUJ2WhSSJBHk%3D" width="135" alt="TPUs for Inference" /><br />
+        <sub><b>TPUs for AI Inference</b></sub>
+      </a>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a">
+        <img src="https://cdn.qwiklabs.com/ycNP3ECYwlCmnK%2BsmzhkgFqNonyaBZd9Hnmm6iLfB7Q%3D" width="135" alt="AI Inference Stack" /><br />
+        <sub><b>Architecting AI Inference</b></sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%">
+      <a href="https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a">
+        <img src="https://cdn.qwiklabs.com/CNcT7ezXSyoEtWiY3x3aMfDGf%2FNKLr438ZEAcOb8h9I%3D" width="135" alt="Secure Lakehouse Data" /><br />
+        <sub><b>Secure Lakehouse Data</b></sub>
+      </a>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a">
+        <img src="https://cdn.qwiklabs.com/EFGPECr6937xLaP3rj21MfvRCQQ8o%2FbLcZgk%2B2Mbi7c%3D" width="135" alt="Gen AI Agents" /><br />
+        <sub><b>Gen AI Enterprise Agents</b></sub>
+      </a>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a">
+        <img src="https://cdn.qwiklabs.com/DwXCndxZ9wTIUw0bormrGKgr2nV%2BQq2jDHoXxEkveEs%3D" width="135" alt="Serverless API Gateway" /><br />
+        <sub><b>Serverless API Gateway</b></sub>
+      </a>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a">
+        <img src="https://cdn.qwiklabs.com/tmZQxqBEeqfv83nxHyrpBPzCV9pWK1AR7LoQrKq1Dhw%3D" width="135" alt="Privileged Access IAM" /><br />
+        <sub><b>Privileged Access IAM</b></sub>
+      </a>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a">
+        <img src="https://cdn.qwiklabs.com/OqjoZqKWLcQKma%2By4IeqqCw8kyxUY9XzHyZybWcvfsc%3D" width="135" alt="Essential GCP CLI" /><br />
+        <sub><b>Essential GCP CLI Tools</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
-### 🌐 Top 10 Google Developer Program Badges
+## 🌐 Google Developer Program Highlights
+
+> *Verified Badges on [Google Developer Profile](https://me.developers.google.com/u/Mushfiqur)*
 
 | Badge Shield | Program Focus | Profile Link |
 | :---: | :--- | :---: |
