@@ -96,13 +96,13 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Stats & Metrics
+## 📊 GitHub Activity & Metrics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MD-Mushfiqur123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-Mushfiqur123&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MD-Mushfiqur123&theme=tokyo-night&hide_border=true&area=true" alt="Mushfiqur's Activity Graph" width="100%" />
+</a>
 
 </div>
 
@@ -111,8 +111,16 @@ me.say_hi()
 <div align="center">
 
 <a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MD-Mushfiqur123&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MD-Mushfiqur123&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </a>
+
+</div>
+
+<br />
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=MD-Mushfiqur123&theme=tokyonight&no-bg=true&column=6" alt="GitHub Trophies" />
 
 </div>
 
