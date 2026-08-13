@@ -14,9 +14,18 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=650&lines=Hey+there!+I'm+Mushfiqur+%F0%9F%91%8B;AI+%26+Cloud+Developer+%F0%9F%A4%96%E2%98%81%EF%B8%8F;Open+Source+Contributor+%F0%9F%9A%80;Anthropic+Certified+Developer+%F0%9F%8F%85;Building+the+Future+with+Claude+%F0%9F%A7%A0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=750&lines=Hey+there!+I'm+Mushfiqur+%F0%9F%91%8B;16-Year-Old+Open+Source+Contributor+%F0%9F%9A%80;Docker%2C+Google+%26+AWS+Contributor+%F0%9F%8F%85;Anthropic+Certified+AI+Developer+%F0%9F%A4%96;500%2B+Public+Repos+%26+Counting+%F0%9F%92%A1)](https://git.io/typing-svg)
 
 </div>
+
+---
+
+## ⚡ Quick Highlights
+
+- 🎯 **Age:** 16-Year-Old High-Impact Developer & Open Source Contributor from Bangladesh 🇧🇩
+- 🏛️ **Open Source Contributions:** Merged PRs in **Docker (Moby Engine)**, **Google (`go-cmp`)**, **AWS Labs (`mcp`)**, **Prometheus & etcd (CNCF)**, **GoFiber**, **Oh My Zsh**, and **ClickHouse**.
+- 📊 **Contributions:** 108+ Merged PRs across 66+ Global Open-Source Repositories & 520+ Public Repos.
+- 🎓 **AI Certifications:** Certified by **Anthropic** (Claude Code, Claude on Vertex AI, AI Fluency).
 
 ---
 
@@ -27,18 +36,21 @@ class MdMushfiqurRahim:
     def __init__(self):
         self.name       = "Md Mushfiqur Rahim"
         self.username   = "MD-Mushfiqur123"
+        self.age        = 16
         self.location   = "Bangladesh 🇧🇩"
-        self.role       = "AI Developer & Open Source Contributor"
-        self.languages  = ["Python", "Java", "JavaScript", "Go", "Rust", "PHP"]
-        self.cloud      = ["Google Cloud ☁️", "Vertex AI", "Firebase"]
-        self.ai_tools   = ["Claude API 🤖", "Gemini", "Anthropic SDK"]
-        self.currently  = "Building AI-powered open source projects"
-        self.learning   = ["Cloud Architecture", "Advanced AI", "Rust & Go"]
-        self.collab_on  = ["AI Models", "Gemini Projects", "Open Source"]
-        self.fun_fact   = "A cat (GitHub) will review your code 🐱"
+        self.role       = "AI & Cloud Systems Developer | Open Source Contributor"
+        self.languages  = ["Go", "Python", "TypeScript", "Rust", "Java", "C/C++"]
+        self.cloud_infra= ["Google Cloud (GCP)", "Docker", "Kubernetes", "AWS", "Firebase"]
+        self.ai_stack   = ["Claude API", "Anthropic SDK", "Google Gemini", "Vertex AI"]
+        self.highlights = [
+            "Contributed to Docker (moby/moby), Google (go-cmp), & AWS Labs",
+            "108+ Merged PRs in Top Open-Source Repos",
+            "Anthropic Certified Developer"
+        ]
+        self.currently  = "Building AI Agents, CLI Tools (Matcha TUI), and Cloud Infrastructure"
 
     def say_hi(self):
-        print("Thanks for stopping by! Let's build something amazing together 🚀")
+        print("Age is just a number — code and impact speak loudest! 🚀 Let's build together.")
 
 me = MdMushfiqurRahim()
 me.say_hi()
@@ -46,33 +58,49 @@ me.say_hi()
 
 ---
 
-## 🏆 GitHub Achievements
+## 🌟 High-Impact Open Source Contributions
+
+> *Proud contributor to industry-standard tech stack and cloud-native infrastructure:*
+
+| 🏛️ Organization / Project | 🎯 Role / Impact | 📦 Stars / Reach |
+| :--- | :--- | :---: |
+| 🐳 **[Docker (moby/moby)](https://github.com/moby/moby)** | Core Container Engine Contributor | 69.8k+ ⭐ |
+| 🔍 **[Google (google/go-cmp)](https://github.com/google/go-cmp)** | Google Official Go Equality Package | 4.1k+ ⭐ |
+| ☁️ **[AWS Labs (awslabs/mcp)](https://github.com/awslabs/mcp)** | Model Context Protocol for AWS | AWS Official |
+| 📊 **[CNCF Prometheus (prometheus/client_golang)](https://github.com/prometheus/client_golang)** | Cloud-Native Monitoring Library | 5.3k+ ⭐ |
+| ☸️ **[CNCF etcd (etcd-io/raft)](https://github.com/etcd-io/raft)** | Kubernetes Raft Consensus Algorithm | 4.8k+ ⭐ |
+| ⚡ **[GoFiber (gofiber/fiber)](https://github.com/gofiber/fiber)** | #1 Fastest Go Web Framework | 35.5k+ ⭐ |
+| 🐚 **[Oh My Zsh (ohmyzsh/ohmyzsh)](https://github.com/ohmyzsh/ohmyzsh)** | World-famous Zsh Terminal Framework | 175k+ ⭐ |
+| 🗄️ **[ClickHouse (ClickHouse/clickhouse-go)](https://github.com/ClickHouse/clickhouse-go)** | High-Performance Analytical Database Driver | 1.8k+ ⭐ |
+
+---
+
+## 🎓 Anthropic AI Certifications
+
+> **Certified by Anthropic** — Creators of Claude 🤖
 
 <div align="center">
 
-![Image 2](https://user-images.githubusercontent.com/31789752/152659041-de5b23cb-1be8-4e6b-b07b-726127ab8c3a.png)
-
+| 🏅 Certificate | 🏢 Issuer | 📅 Status |
+|---|---|---|
+| **AI Fluency for Students** | Anthropic × UCC × Ringling × HEA | ✅ Certified |
+| **AI Fluency: Framework & Foundations** | Anthropic × UCC × Ringling × HEA | ✅ Completed |
+| **Claude 101** | Anthropic | ✅ Completed |
+| **Claude Code 101** | Anthropic | ✅ Completed |
+| **Claude Code in Action** | Anthropic | ✅ [Verify](https://verify.skilljar.com/c/qp3mi4hhbpdk) |
+| **Claude with Google Vertex AI** | Anthropic | ✅ [Verify](https://verify.skilljar.com/c/6euhyoyfxevg) |
 
 </div>
 
 ---
 
-
+## 📊 GitHub Stats & Metrics
 
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MD-Mushfiqur123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" />
 &nbsp;
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-Mushfiqur123&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-
-
-<a href="https://www.star-history.com/?repos=MD-Mushfiqur123%2FMD-Mushfiqur123&type=timeline&logscale=&legend=bottom-right">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=MD-Mushfiqur123/MD-Mushfiqur123&type=timeline&theme=dark&logscale&legend=bottom-right" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=MD-Mushfiqur123/MD-Mushfiqur123&type=timeline&logscale&legend=bottom-right" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=MD-Mushfiqur123/MD-Mushfiqur123&type=timeline&logscale&legend=bottom-right" />
- </picture>
-</a>
 
 </div>
 
@@ -84,73 +112,44 @@ me.say_hi()
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Mushfiqur's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MD-Mushfiqur123&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🎓 Anthropic AI Certifications
-
-> Proudly certified by **Anthropic** — the makers of Claude 🤖
-
-<div align="center">
-
-| 🏅 Certificate | 🏢 Issuer | 📅 Status |
-|---|---|---|
-| **AI Fluency for Students** | Anthropic × UCC × Ringling × HEA | ✅ May 23, 2026 |
-| **AI Fluency: Framework & Foundations** | Anthropic × UCC × Ringling × HEA | ✅ Completed |
-| **Claude 101** | Anthropic | ✅ Completed |
-| **Claude Code 101** | Anthropic | ✅ Completed |
-| **Claude Code in Action** | Anthropic | ✅ [Verify](https://verify.skilljar.com/c/qp3mi4hhbpdk) |
-| **Claude with Google Vertex AI** | Anthropic | ✅ [Verify](https://verify.skilljar.com/c/6euhyoyfxevg) |
-
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
+<div align="center">
+  [![My Skills](https://skillicons.dev/icons?i=go,python,ts,js,rust,java,cpp,bash&theme=dark)](https://skillicons.dev)
+</div>
+
+### 🤖 AI, LLM & Machine Learning
+<div align="center">
+  ![Claude API](https://img.shields.io/badge/Claude_API-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+  ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+  ![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+</div>
+
+### ☁️ Cloud, DevOps & Infrastructure
+<div align="center">
+  [![Cloud Skills](https://skillicons.dev/icons?i=docker,kubernetes,gcp,aws,firebase,githubactions,cloudflare&theme=dark)](https://skillicons.dev)
+</div>
+
+---
+
+## 🏅 Badges & Achievements
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,js,go,rust,php,ts,bash&theme=dark)](https://skillicons.dev)
+![Developer Program](https://img.shields.io/badge/GitHub-Developer_Program_Member-black?style=for-the-badge&logo=github)
+![Open Source](https://img.shields.io/badge/Open_Source-108%2B_Merged_PRs-brightgreen?style=for-the-badge&logo=git)
+![Docker Contributor](https://img.shields.io/badge/Docker-Contributor-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AI Certified](https://img.shields.io/badge/Anthropic-AI_Certified_Developer-CC785C?style=for-the-badge)
 
 </div>
 
-### 🤖 AI & Machine Learning
-
-<div align="center">
-
-![Claude API](https://img.shields.io/badge/Claude_API-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-CC785C?style=for-the-badge&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-</div>
-
-### ☁️ Cloud & DevOps
-
-<div align="center">
-
-[![Cloud Skills](https://skillicons.dev/icons?i=gcp,firebase,aws,docker,githubactions,cloudflare&theme=dark)](https://skillicons.dev)
-
-</div>
-
-### 🗄️ Databases & Tools
-
-<div align="center">
-
-[![Tool Skills](https://skillicons.dev/icons?i=mysql,mongodb,git,vscode,linux,postman&theme=dark)](https://skillicons.dev)
-
-</div>
+- ⭐ **Starstruck** — Created popular repositories
+- 🦈 **Pull Shark ×2** — 160+ total PRs merged across GitHub
+- 👥 **Pair Extraordinaire ×2** — Co-authored commits in major projects
+- 🧠 **Galaxy Brain ×3** — Marked as helpful in technical discussions
 
 ---
 
@@ -162,60 +161,16 @@ me.say_hi()
 [![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MDMushfiqur123)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100090048324727)
 [![Google Dev](https://img.shields.io/badge/Google_Dev-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/Mushfiqur)
-[![Google Skills](https://img.shields.io/badge/Google_Skills_Profile-34A853?style=for-the-badge&logo=google&logoColor=white)](https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:20mahin2020@gmail.com)
 
 </div>
 
 ---
 
-## 🚀 What I'm Up To
-
-```text
-🔭  Currently Working On   →  Google Cloud Projects & AI Integration
-🌱  Currently Learning     →  Rust · Go · PHP · Advanced Cloud Architecture
-👯  Looking to Collaborate →  Gemini AI · Claude API · Open Source AI Tools
-💡  Ask Me About           →  Python · Java · AI APIs · Cloud · Open Source
-📍  Location               →  Bangladesh 🇧🇩  (UTC +06:00)
-🤖  AI Stack               →  Claude API · Google Gemini · Vertex AI
-⚡  Fun Fact               →  206+ repos and counting — always shipping! 🚀
-```
-
----
-
-## 🏅 GitHub Badges & Achievements
-
 <div align="center">
-
-![Developer Program](https://img.shields.io/badge/GitHub-Developer_Program_Member-black?style=for-the-badge&logo=github)
-![Open Source](https://img.shields.io/badge/Open_Source-❤️_Contributor-red?style=for-the-badge)
-![AI Certified](https://img.shields.io/badge/Anthropic-AI_Certified_Developer-CC785C?style=for-the-badge)
-![Google](https://img.shields.io/badge/Google-Affiliated_Developer-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-</div>
-
-**Unlocked GitHub Achievements:**
-- ⭐ **Starstruck** — Created a repository with many stars
-- 🦈 **Pull Shark ×2** — Opened pull requests that got merged
-- 👥 **Pair Extraordinaire ×2** — Coauthored commits
-- 🧠 **Galaxy Brain ×3** — Answered discussions marked as helpful
-- 🎯 **YOLO** — Merged a pull request without a review
-- ⚡ **Quickdraw** — Closed an issue or PR within 5 minutes
-
----
-
-<div align="center">
-
-### 💬 A Quote I Live By
 
 > *"The best way to predict the future is to create it."* — Alan Kay
 
----
-
-**Thanks for visiting! Drop a ⭐ on any repo you find useful — it means a lot!**
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+**Thanks for stopping by! If you like my work, feel free to drop a ⭐ on my repos!**
 
 </div>
-
-i am just 16
