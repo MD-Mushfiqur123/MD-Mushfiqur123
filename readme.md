@@ -83,33 +83,41 @@ me.say_hi()
 
 ---
 
-## 🏆 Top Google Badges & Certifications
+## 🏆 Top Google Badges & Certifications Showcase
 
-> Verified Badges & Credentials across [Google Developer Program](https://me.developers.google.com/u/Mushfiqur) & [Google Skills Boost](https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a)
+> *Verified credentials across [Google Skills Boost](https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a) & [Google Developer Program](https://me.developers.google.com/u/Mushfiqur)*
 
 ### 🎓 Top 10 Google Skills Boost Badges
-1. 🧠 **Google DeepMind:** *Train A Small Language Model (SLM)*
-2. 🤖 **Vertex AI & Gemini API:** *Explore Generative AI with Gemini API in Vertex AI*
-3. ⚡ **Google Cloud TPU:** *How to Use TPUs for High-Performance Inference*
-4. 🏛️ **AI Systems Architecture:** *Architecting an AI Inference Stack*
-5. 🔍 **BigQuery Vector Search:** *Implement Multimodal Vector Search with BigQuery*
-6. 🤖 **GenAI Agents:** *Generative AI Agents: Transform Your Organization*
-7. 🔒 **BigQuery Security:** *Secure Lakehouse Data in BigQuery*
-8. 🌐 **Serverless APIs:** *Deploy & Secure Serverless APIs with API Gateway*
-9. 🔑 **Google Cloud IAM:** *Privileged Access & Cloud Identity Security*
-10. 💻 **Google Cloud CLI:** *Essential Google Cloud CLI Tools (`gcloud`)*
+
+| Badge Shield | Domain / Specialty | Profile Link |
+| :---: | :--- | :---: |
+| <img src="https://img.shields.io/badge/Google_DeepMind-Train_Small_LLM-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google DeepMind" /> | 🧠 **DeepMind & SLM Training** | [Verify Profile](https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a) |
+| <img src="https://img.shields.io/badge/Vertex_AI-Gemini_Generative_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Vertex AI Gemini" /> | 🤖 **Generative AI & Gemini API** | [Verify Profile](https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a) |
+| <img src="https://img.shields.io/badge/Google_TPU-Inference_Optimization-34A853?style=for-the-badge&logo=google&logoColor=white" alt="Google TPU" /> | ⚡ **TPU Hardware Acceleration** | [Verify Profile](https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a) |
+| <img src="https://img.shields.io/badge/AI_Stack-Inference_Architecture-FBBC05?style=for-the-badge&logo=google&logoColor=white" alt="AI Stack" /> | 🏛️ **AI Systems & Inference Stack** | [Verify Profile](https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a) |
+| <img src="https://img.shields.io/badge/BigQuery-Multimodal_Vector_Search-EA4335?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Multimodal Vector Search" /> | 🔍 **Multimodal Vector Search (RAG)** | [Verify Profile](https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a) |
+| <img src="https://img.shields.io/badge/GenAI_Agents-Enterprise_Transformation-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="GenAI Agents" /> | 🤖 **Autonomous Agent Systems** | [Verify Profile](https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a) |
+| <img src="https://img.shields.io/badge/BigQuery-Secure_Lakehouse_Data-34A853?style=for-the-badge&logo=google-cloud&logoColor=white" alt="BigQuery Lakehouse" /> | 🔒 **Lakehouse Security Governance** | [Verify Profile](https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a) |
+| <img src="https://img.shields.io/badge/API_Gateway-Serverless_Security-FBBC05?style=for-the-badge&logo=google-cloud&logoColor=white" alt="API Gateway" /> | 🌐 **Serverless API Architecture** | [Verify Profile](https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a) |
+| <img src="https://img.shields.io/badge/Google_IAM-Privileged_Access_Control-EA4335?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google IAM" /> | 🔑 **Privileged IAM & Cloud Access** | [Verify Profile](https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a) |
+| <img src="https://img.shields.io/badge/GCloud_CLI-Essential_Developer_Tools-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCloud CLI" /> | 💻 **Cloud CLI (`gcloud`) Mastery** | [Verify Profile](https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a) |
+
+---
 
 ### 🌐 Top 10 Google Developer Program Badges
-1. 🏆 **Google Developer Program Member:** *Official Verified Member*
-2. 🤖 **Google Vertex AI & Gemini Explorer:** *Generative AI Specialist*
-3. ☁️ **Google Cloud Infrastructure:** *Cloud Architecture Practitioner*
-4. ⚙️ **Generative AI Practitioner:** *LLM & Prompt Engineering*
-5. 🔐 **Cloud Security Specialist:** *IAM & Cloud Security Governance*
-6. 📊 **BigQuery & Data Engineering:** *Data Analytics Specialist*
-7. 🚀 **Serverless Architect:** *Cloud Functions & API Gateway*
-8. 📱 **Google Developer Contributor:** *Verified Profile*
-9. 🛠️ **Workspace Automation:** *Apps Script & AppSheet Developer*
-10. 🌐 **Cloud Networking:** *Cloud Connectivity & Network Architecture*
+
+| Badge Shield | Program Focus | Profile Link |
+| :---: | :--- | :---: |
+| <img src="https://img.shields.io/badge/Google_Developer-Official_Program_Member-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developer Member" /> | 🏆 **Official Program Member** | [Verify Profile](https://me.developers.google.com/u/Mushfiqur) |
+| <img src="https://img.shields.io/badge/Vertex_AI-Gemini_LLM_Explorer-34A853?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Vertex AI Explorer" /> | 🤖 **Vertex AI & Gemini LLM** | [Verify Profile](https://me.developers.google.com/u/Mushfiqur) |
+| <img src="https://img.shields.io/badge/GCP_Infra-Cloud_Architecture-FBBC05?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP Infra" /> | ☁️ **GCP Infrastructure Builder** | [Verify Profile](https://me.developers.google.com/u/Mushfiqur) |
+| <img src="https://img.shields.io/badge/GenAI-Prompt_%26_LLM_Engineering-EA4335?style=for-the-badge&logo=google&logoColor=white" alt="GenAI Engineering" /> | ⚙️ **GenAI & Prompt Engineering** | [Verify Profile](https://me.developers.google.com/u/Mushfiqur) |
+| <img src="https://img.shields.io/badge/GCP_Security-IAM_%26_Governance-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP Security" /> | 🔐 **Cloud Security Governance** | [Verify Profile](https://me.developers.google.com/u/Mushfiqur) |
+| <img src="https://img.shields.io/badge/Data_Engineering-BigQuery_%26_Analytics-34A853?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Data Engineering" /> | 📊 **BigQuery Data Analytics** | [Verify Profile](https://me.developers.google.com/u/Mushfiqur) |
+| <img src="https://img.shields.io/badge/Serverless-Cloud_Functions_%26_Gateway-FBBC05?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Serverless" /> | 🚀 **Serverless Microservices** | [Verify Profile](https://me.developers.google.com/u/Mushfiqur) |
+| <img src="https://img.shields.io/badge/Google_Developer-Verified_Contributor-EA4335?style=for-the-badge&logo=google&logoColor=white" alt="Verified Contributor" /> | 📱 **Google Dev Verified Profile** | [Verify Profile](https://me.developers.google.com/u/Mushfiqur) |
+| <img src="https://img.shields.io/badge/Workspace-Apps_Script_%26_AppSheet-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Workspace Dev" /> | 🛠️ **Apps Script Automation** | [Verify Profile](https://me.developers.google.com/u/Mushfiqur) |
+| <img src="https://img.shields.io/badge/Cloud_Networking-NCC_%26_Connectivity-34A853?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Networking" /> | 🌐 **Cloud Network Connectivity** | [Verify Profile](https://me.developers.google.com/u/Mushfiqur) |
 
 ---
 
