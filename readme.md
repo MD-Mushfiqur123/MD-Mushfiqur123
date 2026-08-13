@@ -15,7 +15,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=750&lines=Hey+there!+I'm+Mushfiqur+%F0%9F%91%8B;16-Year-Old+Open+Source+Contributor+%F0%9F%9A%80;Docker%2C+Google+%26+AWS+Contributor+%F0%9F%8F%85;Anthropic+Certified+AI+Developer+%F0%9F%A4%96;Google+Cloud+%26+Skills+Certified+%F0%9F%AAAA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=750&lines=Hey+there!+I'm+Mushfiqur+%F0%9F%91%8B;16-Year-Old+Open+Source+Contributor+%F0%9F%9A%80;Docker%2C+Google+%26+AWS+Contributor+%F0%9F%8F%85;Anthropic+Certified+AI+Developer+%F0%9F%A4%96;Google+Cloud+%26+DeepMind+Certified+%F0%9F%AAAA" alt="Typing SVG" />
 </a>
 
 </div>
@@ -53,7 +53,7 @@ class MdMushfiqurRahim:
         self.highlights = [
             "Contributed to Docker (moby/moby), Google (go-cmp), & AWS Labs",
             "108+ Merged PRs in Top Open-Source Repos",
-            "Anthropic Certified Developer"
+            "Anthropic & Google DeepMind Certified Developer"
         ]
         self.currently  = "Building AI Agents, CLI Tools (Matcha TUI), and Cloud Infrastructure"
 
@@ -80,6 +80,36 @@ me.say_hi()
 | ⚡ **[GoFiber (gofiber/fiber)](https://github.com/gofiber/fiber)** | #1 Fastest Go Web Framework | 35.5k+ ⭐ |
 | 🐚 **[Oh My Zsh (ohmyzsh/ohmyzsh)](https://github.com/ohmyzsh/ohmyzsh)** | World-famous Zsh Terminal Framework | 175k+ ⭐ |
 | 🗄️ **[ClickHouse (ClickHouse/clickhouse-go)](https://github.com/ClickHouse/clickhouse-go)** | High-Performance Analytical Database Driver | 1.8k+ ⭐ |
+
+---
+
+## 🏆 Top Google Badges & Certifications
+
+> Verified Badges & Credentials across [Google Developer Program](https://me.developers.google.com/u/Mushfiqur) & [Google Skills Boost](https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a)
+
+### 🎓 Top 10 Google Skills Boost Badges
+1. 🧠 **Google DeepMind:** *Train A Small Language Model (SLM)*
+2. 🤖 **Vertex AI & Gemini API:** *Explore Generative AI with Gemini API in Vertex AI*
+3. ⚡ **Google Cloud TPU:** *How to Use TPUs for High-Performance Inference*
+4. 🏛️ **AI Systems Architecture:** *Architecting an AI Inference Stack*
+5. 🔍 **BigQuery Vector Search:** *Implement Multimodal Vector Search with BigQuery*
+6. 🤖 **GenAI Agents:** *Generative AI Agents: Transform Your Organization*
+7. 🔒 **BigQuery Security:** *Secure Lakehouse Data in BigQuery*
+8. 🌐 **Serverless APIs:** *Deploy & Secure Serverless APIs with API Gateway*
+9. 🔑 **Google Cloud IAM:** *Privileged Access & Cloud Identity Security*
+10. 💻 **Google Cloud CLI:** *Essential Google Cloud CLI Tools (`gcloud`)*
+
+### 🌐 Top 10 Google Developer Program Badges
+1. 🏆 **Google Developer Program Member:** *Official Verified Member*
+2. 🤖 **Google Vertex AI & Gemini Explorer:** *Generative AI Specialist*
+3. ☁️ **Google Cloud Infrastructure:** *Cloud Architecture Practitioner*
+4. ⚙️ **Generative AI Practitioner:** *LLM & Prompt Engineering*
+5. 🔐 **Cloud Security Specialist:** *IAM & Cloud Security Governance*
+6. 📊 **BigQuery & Data Engineering:** *Data Analytics Specialist*
+7. 🚀 **Serverless Architect:** *Cloud Functions & API Gateway*
+8. 📱 **Google Developer Contributor:** *Verified Profile*
+9. 🛠️ **Workspace Automation:** *Apps Script & AppSheet Developer*
+10. 🌐 **Cloud Networking:** *Cloud Connectivity & Network Architecture*
 
 ---
 
