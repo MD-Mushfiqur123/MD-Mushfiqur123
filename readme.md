@@ -14,7 +14,9 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=750&lines=Hey+there!+I'm+Mushfiqur+%F0%9F%91%8B;16-Year-Old+Open+Source+Contributor+%F0%9F%9A%80;Docker%2C+Google+%26+AWS+Contributor+%F0%9F%8F%85;Anthropic+Certified+AI+Developer+%F0%9F%A4%96;500%2B+Public+Repos+%26+Counting+%F0%9F%92%A1)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=750&lines=Hey+there!+I'm+Mushfiqur+%F0%9F%91%8B;16-Year-Old+Open+Source+Contributor+%F0%9F%9A%80;Docker%2C+Google+%26+AWS+Contributor+%F0%9F%8F%85;Anthropic+Certified+AI+Developer+%F0%9F%A4%96;500%2B+Public+Repos+%26+Counting+%F0%9F%92%A1" alt="Typing SVG" />
+</a>
 
 </div>
 
@@ -98,15 +100,19 @@ me.say_hi()
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MD-Mushfiqur123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MD-Mushfiqur123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-Mushfiqur123&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-Mushfiqur123&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
 
 </div>
 
+<br />
+
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MD-Mushfiqur123&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MD-Mushfiqur123&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</a>
 
 </div>
 
@@ -115,22 +121,29 @@ me.say_hi()
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
+
 <div align="center">
-  [![My Skills](https://skillicons.dev/icons?i=go,python,ts,js,rust,java,cpp,bash&theme=dark)](https://skillicons.dev)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,python,ts,js,rust,java,cpp,bash&theme=dark" alt="Languages" />
+  </a>
 </div>
 
 ### 🤖 AI, LLM & Machine Learning
+
 <div align="center">
-  ![Claude API](https://img.shields.io/badge/Claude_API-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
-  ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-  ![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-  ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  <img src="https://img.shields.io/badge/Claude_API-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude API" />
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Vertex AI" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
 </div>
 
 ### ☁️ Cloud, DevOps & Infrastructure
+
 <div align="center">
-  [![Cloud Skills](https://skillicons.dev/icons?i=docker,kubernetes,gcp,aws,firebase,githubactions,cloudflare&theme=dark)](https://skillicons.dev)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,aws,firebase,githubactions,cloudflare&theme=dark" alt="Cloud & DevOps Skills" />
+  </a>
 </div>
 
 ---
@@ -139,12 +152,14 @@ me.say_hi()
 
 <div align="center">
 
-![Developer Program](https://img.shields.io/badge/GitHub-Developer_Program_Member-black?style=for-the-badge&logo=github)
-![Open Source](https://img.shields.io/badge/Open_Source-108%2B_Merged_PRs-brightgreen?style=for-the-badge&logo=git)
-![Docker Contributor](https://img.shields.io/badge/Docker-Contributor-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AI Certified](https://img.shields.io/badge/Anthropic-AI_Certified_Developer-CC785C?style=for-the-badge)
+<img src="https://img.shields.io/badge/GitHub-Developer_Program_Member-black?style=for-the-badge&logo=github" alt="Developer Program" />
+<img src="https://img.shields.io/badge/Open_Source-108%2B_Merged_PRs-brightgreen?style=for-the-badge&logo=git" alt="Open Source" />
+<img src="https://img.shields.io/badge/Docker-Contributor-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Contributor" />
+<img src="https://img.shields.io/badge/Anthropic-AI_Certified_Developer-CC785C?style=for-the-badge" alt="AI Certified" />
 
 </div>
+
+<br />
 
 - ⭐ **Starstruck** — Created popular repositories
 - 🦈 **Pull Shark ×2** — 160+ total PRs merged across GitHub
@@ -157,11 +172,11 @@ me.say_hi()
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MD-Mushfiqur123)
-[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MDMushfiqur123)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100090048324727)
-[![Google Dev](https://img.shields.io/badge/Google_Dev-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/Mushfiqur)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:20mahin2020@gmail.com)
+<a href="https://github.com/MD-Mushfiqur123"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://x.com/MDMushfiqur123"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" /></a>
+<a href="https://www.facebook.com/profile.php?id=100090048324727"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://g.dev/Mushfiqur"><img src="https://img.shields.io/badge/Google_Dev-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Dev" /></a>
+<a href="mailto:20mahin2020@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
