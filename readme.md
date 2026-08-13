@@ -15,7 +15,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=750&lines=Hey+there!+I'm+Mushfiqur+%F0%9F%91%8B;16-Year-Old+Open+Source+Contributor+%F0%9F%9A%80;Docker%2C+Google+%26+AWS+Contributor+%F0%9F%8F%85;Anthropic+Certified+AI+Developer+%F0%9F%A4%96;500%2B+Public+Repos+%26+Counting+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=750&lines=Hey+there!+I'm+Mushfiqur+%F0%9F%91%8B;16-Year-Old+Open+Source+Contributor+%F0%9F%9A%80;Docker%2C+Google+%26+AWS+Contributor+%F0%9F%8F%85;Anthropic+Certified+AI+Developer+%F0%9F%A4%96;Google+Developer+Profile+Verified+%F0%9F%AAAA" alt="Typing SVG" />
 </a>
 
 </div>
@@ -26,6 +26,7 @@
 
 - 🎯 **Age:** 16-Year-Old High-Impact Developer & Open Source Contributor from Bangladesh 🇧🇩
 - 🏛️ **Open Source Contributions:** Merged PRs in **Docker (Moby Engine)**, **Google (`go-cmp`)**, **AWS Labs (`mcp`)**, **Prometheus & etcd (CNCF)**, **GoFiber**, **Oh My Zsh**, and **ClickHouse**.
+- 🌐 **Google Developer:** Verified Google Developer Profile — [me.developers.google.com/u/Mushfiqur](https://me.developers.google.com/u/Mushfiqur)
 - 📊 **Contributions:** 108+ Merged PRs across 66+ Global Open-Source Repositories & 520+ Public Repos.
 - 🎓 **AI Certifications:** Certified by **Anthropic** (Claude Code, Claude on Vertex AI, AI Fluency).
 
@@ -44,6 +45,10 @@ class MdMushfiqurRahim:
         self.languages  = ["Go", "Python", "TypeScript", "Rust", "Java", "C/C++"]
         self.cloud_infra= ["Google Cloud (GCP)", "Docker", "Kubernetes", "AWS", "Firebase"]
         self.ai_stack   = ["Claude API", "Anthropic SDK", "Google Gemini", "Vertex AI"]
+        self.profiles   = {
+            "Google Dev": "https://me.developers.google.com/u/Mushfiqur",
+            "GitHub": "https://github.com/MD-Mushfiqur123"
+        }
         self.highlights = [
             "Contributed to Docker (moby/moby), Google (go-cmp), & AWS Labs",
             "108+ Merged PRs in Top Open-Source Repos",
@@ -116,14 +121,6 @@ me.say_hi()
 
 </div>
 
-<br />
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MD-Mushfiqur123&theme=tokyonight&no-bg=true&column=6" alt="GitHub Trophies" />
-
-</div>
-
 ---
 
 ## 🛠️ Tech Stack
@@ -161,6 +158,7 @@ me.say_hi()
 <div align="center">
 
 <img src="https://img.shields.io/badge/GitHub-Developer_Program_Member-black?style=for-the-badge&logo=github" alt="Developer Program" />
+<a href="https://me.developers.google.com/u/Mushfiqur"><img src="https://img.shields.io/badge/Google_Developer-Verified_Profile-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developer Profile" /></a>
 <img src="https://img.shields.io/badge/Open_Source-108%2B_Merged_PRs-brightgreen?style=for-the-badge&logo=git" alt="Open Source" />
 <img src="https://img.shields.io/badge/Docker-Contributor-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Contributor" />
 <img src="https://img.shields.io/badge/Anthropic-AI_Certified_Developer-CC785C?style=for-the-badge" alt="AI Certified" />
@@ -181,9 +179,9 @@ me.say_hi()
 <div align="center">
 
 <a href="https://github.com/MD-Mushfiqur123"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://me.developers.google.com/u/Mushfiqur"><img src="https://img.shields.io/badge/Google_Developer-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developer Profile" /></a>
 <a href="https://x.com/MDMushfiqur123"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" /></a>
 <a href="https://www.facebook.com/profile.php?id=100090048324727"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-<a href="https://g.dev/Mushfiqur"><img src="https://img.shields.io/badge/Google_Dev-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Dev" /></a>
 <a href="mailto:20mahin2020@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
