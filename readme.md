@@ -1,129 +1,108 @@
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=MD-Mushfiqur123&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/MD-Mushfiqur123?label=Followers&style=social" alt="GitHub Followers" />
-&nbsp;
-<a href="https://github.com/MD-Mushfiqur123?tab=repositories&sort=stargazers">
-  <img src="https://img.shields.io/github/stars/MD-Mushfiqur123?label=Total%20Stars&style=social" alt="Total Stars" />
-</a>
+# 💫 Md Mushfiqur Rahim
+### Aspiring Computer Scientist • AI Systems & Cloud Engineer • Open Source Contributor
 
-</div>
+[![Profile Views](https://komarev.com/ghpvc/?username=MD-Mushfiqur123&label=Profile%20Views&color=0088cc&style=flat-square)](https://github.com/MD-Mushfiqur123)
+[![Followers](https://img.shields.io/github/followers/MD-Mushfiqur123?label=Followers&style=flat-square&color=238636)](https://github.com/MD-Mushfiqur123?tab=followers)
+[![Public Repos](https://img.shields.io/badge/Public_Repos-520%2B-blue?style=flat-square)](https://github.com/MD-Mushfiqur123?tab=repositories)
+[![Verified Google Dev](https://img.shields.io/badge/Google_Developer-Verified-4285F4?style=flat-square&logo=google&logoColor=white)](https://me.developers.google.com/u/Mushfiqur)
+[![Google Skills Badges](https://img.shields.io/badge/Google_Skills-104%2B_Badges-34A853?style=flat-square&logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a)
+[![Anthropic Certified](https://img.shields.io/badge/Anthropic-Certified_AI_Dev-D97706?style=flat-square)](https://verify.skilljar.com/c/qp3mi4hhbpdk)
 
----
-
-<div align="center">
+<br />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=750&lines=Hey+there!+I'm+Mushfiqur+%F0%9F%91%8B;16-Year-Old+Open+Source+Contributor+%F0%9F%9A%80;Docker%2C+Google+%26+AWS+Contributor+%F0%9F%8F%85;Anthropic+Certified+AI+Developer+%F0%9F%A4%96;Google+Cloud+%26+DeepMind+Certified+%F0%9F%AAAA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&multiline=false&width=750&lines=Building+Scalable+AI+Agents+%26+Cloud+Systems+%F0%9F%A4%96;Open-Source+Contributor+to+Docker%2C+Google+%26+AWS+%F0%9F%8C%90;DeepMind+%26+Anthropic+Certified+Developer+%F0%9F%8F%85;Passionate+STEM+Scholar+%26+Builder+%F0%9F%9A%80" alt="Typing Header" />
 </a>
 
 </div>
 
 ---
 
-## ⚡ Quick Highlights
+## 🌟 Executive Summary
 
-- 🎯 **Age:** 16-Year-Old High-Impact Developer & Open Source Contributor from Bangladesh 🇧🇩
-- 🏛️ **Open Source Contributions:** Merged PRs in **Docker (Moby Engine)**, **Google (`go-cmp`)**, **AWS Labs (`mcp`)**, **Prometheus & etcd (CNCF)**, **GoFiber**, **Oh My Zsh**, and **ClickHouse**.
-- 🌐 **Google Profiles:** Verified [Google Developer Profile](https://me.developers.google.com/u/Mushfiqur) & [Google Skills Boost Profile](https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a) (104+ Badges)
-- 📊 **Contributions:** 108+ Merged PRs across 66+ Global Open-Source Repositories & 520+ Public Repos.
-- 🎓 **AI Certifications:** Certified by **Anthropic** (Claude Code, Claude on Vertex AI, AI Fluency).
+Hello world! I am **Md Mushfiqur Rahim**, an enthusiastic young developer and STEM researcher from **Bangladesh 🇧🇩**. I specialize in **AI Agent architectures, Cloud Infrastructure, and Systems Programming (Go, Rust, Python, TypeScript)**.
 
----
+With over **108+ merged pull requests** across industry-defining organizations including **Docker, Google, AWS Labs, and CNCF**, I bridge first-principles computer science with real-world, high-performance software engineering.
 
-## 🧑‍💻 About Me
-
-```python
-class MdMushfiqurRahim:
-    def __init__(self):
-        self.name       = "Md Mushfiqur Rahim"
-        self.username   = "MD-Mushfiqur123"
-        self.age        = 16
-        self.location   = "Bangladesh 🇧🇩"
-        self.role       = "AI & Cloud Systems Developer | Open Source Contributor"
-        self.languages  = ["Go", "Python", "TypeScript", "Rust", "Java", "C/C++"]
-        self.cloud_infra= ["Google Cloud (GCP)", "Docker", "Kubernetes", "AWS", "Firebase"]
-        self.ai_stack   = ["Claude API", "Anthropic SDK", "Google Gemini", "Vertex AI"]
-        self.profiles   = {
-            "Google Dev": "https://me.developers.google.com/u/Mushfiqur",
-            "Google Skills": "https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a",
-            "GitHub": "https://github.com/MD-Mushfiqur123"
-        }
-        self.highlights = [
-            "Contributed to Docker (moby/moby), Google (go-cmp), & AWS Labs",
-            "108+ Merged PRs in Top Open-Source Repos",
-            "Anthropic & Google DeepMind Certified Developer"
-        ]
-        self.currently  = "Building AI Agents, CLI Tools (Matcha TUI), and Cloud Infrastructure"
-
-    def say_hi(self):
-        print("Age is just a number — code and impact speak loudest! 🚀 Let's build together.")
-
-me = MdMushfiqurRahim()
-me.say_hi()
-```
+> 📚 *Currently dedicated to rigorous academic prep (Notre Dame College Aspirant) alongside continuous research in autonomous agent swarms, distributed consensus, and machine intelligence.*
 
 ---
 
-## 🌟 High-Impact Open Source Contributions
+## 🏛️ High-Impact Open-Source Contributions
 
-> *Proud contributor to industry-standard tech stack and cloud-native infrastructure:*
+A track record of contributing to upstream industry standards and cloud-native backbones:
 
-| 🏛️ Organization / Project | 🎯 Role / Impact | 📦 Stars / Reach |
+| Organization / Repository | Focus Area & Impact | Project Stars |
 | :--- | :--- | :---: |
-| 🐳 **[Docker (moby/moby)](https://github.com/moby/moby)** | Core Container Engine Contributor | 69.8k+ ⭐ |
-| 🔍 **[Google (google/go-cmp)](https://github.com/google/go-cmp)** | Google Official Go Equality Package | 4.1k+ ⭐ |
-| ☁️ **[AWS Labs (awslabs/mcp)](https://github.com/awslabs/mcp)** | Model Context Protocol for AWS | AWS Official |
-| 📊 **[CNCF Prometheus (prometheus/client_golang)](https://github.com/prometheus/client_golang)** | Cloud-Native Monitoring Library | 5.3k+ ⭐ |
-| ☸️ **[CNCF etcd (etcd-io/raft)](https://github.com/etcd-io/raft)** | Kubernetes Raft Consensus Algorithm | 4.8k+ ⭐ |
-| ⚡ **[GoFiber (gofiber/fiber)](https://github.com/gofiber/fiber)** | #1 Fastest Go Web Framework | 35.5k+ ⭐ |
-| 🐚 **[Oh My Zsh (ohmyzsh/ohmyzsh)](https://github.com/ohmyzsh/ohmyzsh)** | World-famous Zsh Terminal Framework | 175k+ ⭐ |
-| 🗄️ **[ClickHouse (ClickHouse/clickhouse-go)](https://github.com/ClickHouse/clickhouse-go)** | High-Performance Analytical Database Driver | 1.8k+ ⭐ |
+| 🐳 **[Docker (moby/moby)](https://github.com/moby/moby)** | Container runtime engine, daemon stability & tooling | `69.8k+ ⭐` |
+| 🔍 **[Google (google/go-cmp)](https://github.com/google/go-cmp)** | Equality checking and diff algorithm utilities in Go | `4.1k+ ⭐` |
+| ☁️ **[AWS Labs (awslabs/mcp)](https://github.com/awslabs/mcp)** | Model Context Protocol integration servers for AWS ecosystem | `AWS Official` |
+| 📊 **[CNCF Prometheus (prometheus/client_golang)](https://github.com/prometheus/client_golang)** | Cloud-native telemetry & metrics instrumentation | `5.3k+ ⭐` |
+| ☸️ **[CNCF etcd (etcd-io/raft)](https://github.com/etcd-io/raft)** | Distributed Raft consensus implementation for Kubernetes | `4.8k+ ⭐` |
+| ⚡ **[GoFiber (gofiber/fiber)](https://github.com/gofiber/fiber)** | Ultra-fast Express-inspired web framework for Go | `35.5k+ ⭐` |
+| 🐚 **[Oh My Zsh (ohmyzsh/ohmyzsh)](https://github.com/ohmyzsh/ohmyzsh)** | Community-driven framework for Zsh shell environments | `175k+ ⭐` |
+| 🗄️ **[ClickHouse (ClickHouse/clickhouse-go)](https://github.com/ClickHouse/clickhouse-go)** | High-throughput columnar database driver in Golang | `1.8k+ ⭐` |
 
 ---
 
-## 🛠️ Complete Tech Stack & Skills Matrix
+## 🚀 Featured Projects
 
-### 💻 Programming Languages & Runtimes
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,python,ts,js,rust,java,cpp,c,php,html,css,bash,sql&theme=dark" alt="Programming Languages" />
-  </a>
-</div>
 
-<br />
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[`matcha`](https://github.com/MD-Mushfiqur123/matcha)** | Sleek, fast, keyboard-driven terminal email client built with Go and Bubble Tea TUI. | `Go` `Bubble Tea` `TUI` `IMAP/SMTP` |
+| **[`500-AI-Projects`](https://github.com/MD-Mushfiqur123/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)** | Curated, production-ready repository of 500+ AI, Machine Learning, Deep Learning, CV, and NLP solutions. | `Python` `PyTorch` `TensorFlow` `NLP` `CV` |
+| **[`Vibe-Trading`](https://github.com/MD-Mushfiqur123/Vibe-Trading)** | Autonomous AI-assisted market analysis and trading agent with quantitative backtesting. | `Python` `FastAPI` `LangChain` `FinTech` |
+| **[`mcp`](https://github.com/MD-Mushfiqur123/mcp)** | AWS Model Context Protocol implementation extending LLM tool capabilities with AWS services. | `TypeScript` `AWS` `MCP` `LLM Tools` |
 
-### 🤖 AI, Machine Learning & Web Frameworks
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,react,nextjs,nodejs,express,fastapi,tailwind,bootstrap&theme=dark" alt="AI & Frameworks" />
-  </a>
-</div>
-
-<br />
-
-### ☁️ Cloud Platforms, DevOps & Infrastructure
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gcp,aws,docker,kubernetes,firebase,cloudflare,vercel,githubactions,linux&theme=dark" alt="Cloud & DevOps" />
-  </a>
-</div>
-
-<br />
-
-### 🗄️ Databases, Developer Tools & Ecosystem
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,graphql,git,github,vscode,postman,neovim&theme=dark" alt="Databases & Tools" />
-  </a>
 </div>
 
 ---
 
-## 🏆 Official Google Cloud & DeepMind Badges
+## 🛠️ Technical Arsenal & Skills
 
-> *Official Skill Badges earned on [Google Skills Boost](https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a) (104+ Verified Badges)*
+### 💻 Systems & Programming Languages
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,rust,python,ts,js,cpp,c,java,bash,sql,html,css&theme=dark" alt="Languages" />
+  </a>
+</div>
+
+<br />
+
+### 🤖 AI, Machine Learning & Agent Frameworks
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,nodejs,react,nextjs,tailwind&theme=dark" alt="AI & Frameworks" />
+  </a>
+</div>
+
+<br />
+
+### ☁️ Cloud Platforms, Containers & DevOps
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gcp,aws,docker,kubernetes,linux,githubactions,cloudflare,vercel,firebase&theme=dark" alt="Cloud & DevOps" />
+  </a>
+</div>
+
+<br />
+
+### 🗄️ Databases, Tooling & Architecture
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,graphql,git,github,vscode,neovim,postman&theme=dark" alt="Databases & Tools" />
+  </a>
+</div>
+
+---
+
+## 🏆 Verified Google Cloud & DeepMind Credentials
+
+> Verified credentials on [Google Skills Boost](https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a) *(104+ Verified Skill Badges)*
 
 <div align="center">
 
@@ -131,31 +110,31 @@ me.say_hi()
   <tr>
     <td align="center" width="20%">
       <a href="https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a">
-        <img src="https://cdn.qwiklabs.com/%2BoWdm%2FHzI%2FCAdbH%2BVisNVqZNrjaLwl24mARfInT99b0%3D" width="135" alt="Google DeepMind" /><br />
+        <img src="https://cdn.qwiklabs.com/%2BoWdm%2FHzI%2FCAdbH%2BVisNVqZNrjaLwl24mARfInT99b0%3D" width="125" alt="Google DeepMind" /><br />
         <sub><b>Google DeepMind: Train SLM</b></sub>
       </a>
     </td>
     <td align="center" width="20%">
       <a href="https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a">
-        <img src="https://cdn.qwiklabs.com/cmS6mobYbWrdL%2BfShmyvQnXt2P%2Bhm9S2ZpTTQ4Rase4%3D" width="135" alt="Generative AI Agent Platform" /><br />
+        <img src="https://cdn.qwiklabs.com/cmS6mobYbWrdL%2BfShmyvQnXt2P%2Bhm9S2ZpTTQ4Rase4%3D" width="125" alt="GenAI Agent Platform" /><br />
         <sub><b>GenAI Agent Platform</b></sub>
       </a>
     </td>
     <td align="center" width="20%">
       <a href="https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a">
-        <img src="https://cdn.qwiklabs.com/ptFjKJhCElCLWeQv%2BT%2F%2Bquj23pUL5YzWprpljt6ceJ0%3D" width="135" alt="Multimodal Vector Search" /><br />
+        <img src="https://cdn.qwiklabs.com/ptFjKJhCElCLWeQv%2BT%2F%2Bquj23pUL5YzWprpljt6ceJ0%3D" width="125" alt="Multimodal Vector Search" /><br />
         <sub><b>Multimodal Vector Search</b></sub>
       </a>
     </td>
     <td align="center" width="20%">
       <a href="https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a">
-        <img src="https://cdn.qwiklabs.com/JgPRhq41EzENxiYuPxIxIjltIQ5N%2B12dUJ2WhSSJBHk%3D" width="135" alt="TPUs for Inference" /><br />
+        <img src="https://cdn.qwiklabs.com/JgPRhq41EzENxiYuPxIxIjltIQ5N%2B12dUJ2WhSSJBHk%3D" width="125" alt="TPUs for Inference" /><br />
         <sub><b>TPUs for AI Inference</b></sub>
       </a>
     </td>
     <td align="center" width="20%">
       <a href="https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a">
-        <img src="https://cdn.qwiklabs.com/ycNP3ECYwlCmnK%2BsmzhkgFqNonyaBZd9Hnmm6iLfB7Q%3D" width="135" alt="AI Inference Stack" /><br />
+        <img src="https://cdn.qwiklabs.com/ycNP3ECYwlCmnK%2BsmzhkgFqNonyaBZd9Hnmm6iLfB7Q%3D" width="125" alt="AI Inference Stack" /><br />
         <sub><b>Architecting AI Inference</b></sub>
       </a>
     </td>
@@ -163,31 +142,31 @@ me.say_hi()
   <tr>
     <td align="center" width="20%">
       <a href="https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a">
-        <img src="https://cdn.qwiklabs.com/CNcT7ezXSyoEtWiY3x3aMfDGf%2FNKLr438ZEAcOb8h9I%3D" width="135" alt="Secure Lakehouse Data" /><br />
+        <img src="https://cdn.qwiklabs.com/CNcT7ezXSyoEtWiY3x3aMfDGf%2FNKLr438ZEAcOb8h9I%3D" width="125" alt="Secure Lakehouse Data" /><br />
         <sub><b>Secure Lakehouse Data</b></sub>
       </a>
     </td>
     <td align="center" width="20%">
       <a href="https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a">
-        <img src="https://cdn.qwiklabs.com/EFGPECr6937xLaP3rj21MfvRCQQ8o%2FbLcZgk%2B2Mbi7c%3D" width="135" alt="Gen AI Agents" /><br />
+        <img src="https://cdn.qwiklabs.com/EFGPECr6937xLaP3rj21MfvRCQQ8o%2FbLcZgk%2B2Mbi7c%3D" width="125" alt="Gen AI Agents" /><br />
         <sub><b>Gen AI Enterprise Agents</b></sub>
       </a>
     </td>
     <td align="center" width="20%">
       <a href="https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a">
-        <img src="https://cdn.qwiklabs.com/DwXCndxZ9wTIUw0bormrGKgr2nV%2BQq2jDHoXxEkveEs%3D" width="135" alt="Serverless API Gateway" /><br />
+        <img src="https://cdn.qwiklabs.com/DwXCndxZ9wTIUw0bormrGKgr2nV%2BQq2jDHoXxEkveEs%3D" width="125" alt="Serverless API Gateway" /><br />
         <sub><b>Serverless API Gateway</b></sub>
       </a>
     </td>
     <td align="center" width="20%">
       <a href="https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a">
-        <img src="https://cdn.qwiklabs.com/tmZQxqBEeqfv83nxHyrpBPzCV9pWK1AR7LoQrKq1Dhw%3D" width="135" alt="Privileged Access IAM" /><br />
+        <img src="https://cdn.qwiklabs.com/tmZQxqBEeqfv83nxHyrpBPzCV9pWK1AR7LoQrKq1Dhw%3D" width="125" alt="Privileged Access IAM" /><br />
         <sub><b>Privileged Access IAM</b></sub>
       </a>
     </td>
     <td align="center" width="20%">
       <a href="https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a">
-        <img src="https://cdn.qwiklabs.com/OqjoZqKWLcQKma%2By4IeqqCw8kyxUY9XzHyZybWcvfsc%3D" width="135" alt="Essential GCP CLI" /><br />
+        <img src="https://cdn.qwiklabs.com/OqjoZqKWLcQKma%2By4IeqqCw8kyxUY9XzHyZybWcvfsc%3D" width="125" alt="Essential GCP CLI" /><br />
         <sub><b>Essential GCP CLI Tools</b></sub>
       </a>
     </td>
@@ -200,77 +179,48 @@ me.say_hi()
 
 ## 🎓 Anthropic AI Certifications
 
-> **Certified by Anthropic** — Creators of Claude 🤖
-
 <div align="center">
 
-| 🏅 Certificate | 🏢 Issuer | 📅 Status |
-|---|---|---|
-| **AI Fluency for Students** | Anthropic × UCC × Ringling × HEA | ✅ Certified |
-| **AI Fluency: Framework & Foundations** | Anthropic × UCC × Ringling × HEA | ✅ Completed |
-| **Claude 101** | Anthropic | ✅ Completed |
-| **Claude Code 101** | Anthropic | ✅ Completed |
-| **Claude Code in Action** | Anthropic | ✅ [Verify](https://verify.skilljar.com/c/qp3mi4hhbpdk) |
-| **Claude with Google Vertex AI** | Anthropic | ✅ [Verify](https://verify.skilljar.com/c/6euhyoyfxevg) |
+| 🏅 Certificate Program | 🏢 Issuer | 📅 Verification |
+|---|---|:---:|
+| **AI Fluency for Students** | Anthropic × UCC × Ringling × HEA | [Official Badge](https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a) |
+| **AI Fluency: Framework & Foundations** | Anthropic × UCC × Ringling × HEA | [Verified](https://verify.skilljar.com/c/qp3mi4hhbpdk) |
+| **Claude Code in Action** | Anthropic | [Verify](https://verify.skilljar.com/c/qp3mi4hhbpdk) |
+| **Claude with Google Vertex AI** | Anthropic | [Verify](https://verify.skilljar.com/c/6euhyoyfxevg) |
+| **Claude & Claude Code 101** | Anthropic | Completed |
 
 </div>
 
 ---
 
-## 📊 GitHub Activity & Metrics
+## 📊 Activity & Community Metrics
 
 <div align="center">
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MD-Mushfiqur123&theme=tokyo-night&hide_border=true&area=true" alt="Mushfiqur's Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MD-Mushfiqur123&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="95%" />
 </a>
 
-</div>
-
-<br />
-
-<div align="center">
+<br /><br />
 
 <a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MD-Mushfiqur123&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MD-Mushfiqur123&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </a>
 
 </div>
 
 ---
 
-## 🏅 Badges & Achievements
+## 🌐 Connect & Collaborate
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/GitHub-Developer_Program_Member-black?style=for-the-badge&logo=github" alt="Developer Program" />
-<a href="https://me.developers.google.com/u/Mushfiqur"><img src="https://img.shields.io/badge/Google_Developer-Verified_Profile-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developer Profile" /></a>
-<a href="https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a"><img src="https://img.shields.io/badge/Google_Skills_Boost-Verified_Profile-34A853?style=for-the-badge&logo=google&logoColor=white" alt="Google Skills Boost Profile" /></a>
-<img src="https://img.shields.io/badge/Open_Source-108%2B_Merged_PRs-brightgreen?style=for-the-badge&logo=git" alt="Open Source" />
-<img src="https://img.shields.io/badge/Docker-Contributor-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Contributor" />
-<img src="https://img.shields.io/badge/Anthropic-AI_Certified_Developer-CC785C?style=for-the-badge" alt="AI Certified" />
-
-</div>
-
-<br />
-
-- ⭐ **Starstruck** — Created popular repositories
-- 🦈 **Pull Shark ×2** — 160+ total PRs merged across GitHub
-- 👥 **Pair Extraordinaire ×2** — Co-authored commits in major projects
-- 🧠 **Galaxy Brain ×3** — Marked as helpful in technical discussions
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/MD-Mushfiqur123"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://me.developers.google.com/u/Mushfiqur"><img src="https://img.shields.io/badge/Google_Developer-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developer Profile" /></a>
-<a href="https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a"><img src="https://img.shields.io/badge/Google_Skills-34A853?style=for-the-badge&logo=google&logoColor=white" alt="Google Skills Profile" /></a>
-<a href="https://x.com/MDMushfiqur123"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" /></a>
-<a href="https://www.facebook.com/profile.php?id=100090048324727"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-<a href="mailto:20mahin2020@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MD-Mushfiqur123)
+[![Google Developer](https://img.shields.io/badge/Google_Developer-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://me.developers.google.com/u/Mushfiqur)
+[![Google Skills](https://img.shields.io/badge/Google_Skills-34A853?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a)
+[![X / Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MDMushfiqur123)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100090048324727)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:20mahin2020@gmail.com)
 
 </div>
 
@@ -278,8 +228,9 @@ me.say_hi()
 
 <div align="center">
 
-> *"The best way to predict the future is to create it."* — Alan Kay
+> *“Code with purpose, build with passion, and engineer for impact.”*
 
-**Thanks for stopping by! If you like my work, feel free to drop a ⭐ on my repos!**
+**⭐️ Star any repository you find helpful & feel free to connect!**
 
 </div>
+
