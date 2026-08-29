@@ -197,14 +197,25 @@ A track record of contributing to upstream industry standards and cloud-native b
 
 <div align="center">
 
+<table border="0" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td align="center" style="border: none;" width="50%">
+      <a href="https://github.com/MD-Mushfiqur123">
+        <img src="https://github-readme-stats.vercel.app/api?username=MD-Mushfiqur123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" />
+      </a>
+    </td>
+    <td align="center" style="border: none;" width="50%">
+      <a href="https://github.com/MD-Mushfiqur123">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=MD-Mushfiqur123&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br />
+
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MD-Mushfiqur123&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="95%" />
-</a>
-
-<br /><br />
-
-<a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MD-Mushfiqur123&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MD-Mushfiqur123&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 </a>
 
 </div>
@@ -218,8 +229,10 @@ A track record of contributing to upstream industry standards and cloud-native b
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MD-Mushfiqur123)
 [![Google Developer](https://img.shields.io/badge/Google_Developer-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://me.developers.google.com/u/Mushfiqur)
 [![Google Skills](https://img.shields.io/badge/Google_Skills-34A853?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-mushfiqur123)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/md-mushfiqur123)
 [![X / Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MDMushfiqur123)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100090048324727)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/profile.php?id=100090048324727)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:20mahin2020@gmail.com)
 
 </div>
@@ -233,4 +246,5 @@ A track record of contributing to upstream industry standards and cloud-native b
 **⭐️ Star any repository you find helpful & feel free to connect!**
 
 </div>
+
 
