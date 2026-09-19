@@ -69,32 +69,36 @@
 
 ---
 
-<!-- Verified Google Cloud Credentials & Terminal ASCII Player Section -->
+<!-- Skill Profile Wireframe: Hi, wanna see my skill profile lets gooo -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MD-Mushfiqur123/MD-Mushfiqur123/main/assets/banners/skills_banner.svg" width="100%" alt="Skill Profile Banner" />
+</p>
+
 <table border="0" width="100%">
   <tr>
-    <td width="42%" align="center" valign="middle">
-      <h4>🏆 Google Cloud Verified Skills</h4>
+    <td width="45%" align="center" valign="middle">
+      <h4>🏆 Google Skills Public Profile</h4>
       <p align="center">
         <a href="https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a">
-          <img src="https://raw.githubusercontent.com/MD-Mushfiqur123/MD-Mushfiqur123/main/assets/badges/google_skills_arcade_trivia.png" width="175" style="border-radius: 50%; border: 2px solid #30363d;" alt="Google Cloud Skills Arcade Trivia Badge" />
+          <img src="https://raw.githubusercontent.com/MD-Mushfiqur123/MD-Mushfiqur123/main/assets/badges/google_skills_arcade_trivia.png" width="165" style="border-radius: 50%; border: 2px solid #30363d;" alt="Google Skills Arcade Trivia Badge" />
         </a>
       </p>
       <p align="center">
-        🔗 <b><a href="https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a">View Public Google Skills Profile ↗</a></b>
+        🔗 <b><a href="https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a">View Verified Skills Profile ↗</a></b>
       </p>
       <p align="center">
-        <sub><i>Arcade Trivia Champion • Cloud Computing Foundations</i></sub>
+        <sub><i>Md Mushfiqur Rahim • Google Cloud Skills Arcade Champion</i></sub>
       </p>
     </td>
-    <td width="58%" align="center" valign="middle">
-      <h4>💻 Terminal Matrix &amp; ASCII Player</h4>
+    <td width="55%" align="center" valign="middle">
+      <h4>🎩 Luffy Terminal ASCII Player</h4>
       <p align="center">
         <a href="https://github.com/maxcurzi/tplay">
-          <img src="https://raw.githubusercontent.com/MD-Mushfiqur123/MD-Mushfiqur123/main/assets/ascii/ascii_tplay_art.jpg" width="100%" style="border-radius: 8px; border: 1px solid #30363d;" alt="Terminal ASCII Player Art" />
+          <img src="https://raw.githubusercontent.com/MD-Mushfiqur123/MD-Mushfiqur123/main/assets/ascii/luffy_ascii.png" width="300" style="border-radius: 10px; border: 1px solid #30363d;" alt="Luffy ASCII Art" />
         </a>
       </p>
       <p align="center">
-        <sub><i>Terminal ASCII rendering engine powered by <a href="https://github.com/maxcurzi/tplay">tplay</a></i></sub>
+        <sub><i>ASCII media rendering engine powered by <a href="https://github.com/maxcurzi/tplay">tplay</a></i></sub>
       </p>
     </td>
   </tr>

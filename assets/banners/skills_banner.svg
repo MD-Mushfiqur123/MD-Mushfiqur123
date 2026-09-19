@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 110" width="100%" height="110">
+  <defs>
+    <linearGradient id="sgrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF512F" />
+      <stop offset="50%" stop-color="#DD2476" />
+      <stop offset="100%" stop-color="#0d1117" />
+    </linearGradient>
+    <linearGradient id="stextGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFD700" />
+      <stop offset="100%" stop-color="#FFFFFF" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="110" rx="12" fill="#0d1117" />
+  <path d="M0,50 C200,90 400,-10 600,45 C800,90 1000,10 1200,50 L1200,110 L0,110 Z" fill="url(#sgrad)" opacity="0.3"/>
+  <text x="600" y="55" fill="url(#stextGrad)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="23" font-weight="700" text-anchor="middle" letter-spacing="1">✨ Hi, wanna see my skill profile? Let's gooo!</text>
+  <text x="600" y="82" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" text-anchor="middle">Google Cloud Verified Badges • Terminal Matrix ASCII Engine</text>
+</svg>
