@@ -66,3 +66,36 @@
     </td>
   </tr>
 </table>
+
+---
+
+<!-- Verified Google Cloud Credentials & Terminal ASCII Player Section -->
+<table border="0" width="100%">
+  <tr>
+    <td width="42%" align="center" valign="middle">
+      <h4>🏆 Google Cloud Verified Skills</h4>
+      <p align="center">
+        <a href="https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a">
+          <img src="https://raw.githubusercontent.com/MD-Mushfiqur123/MD-Mushfiqur123/main/assets/badges/google_skills_arcade_trivia.png" width="175" style="border-radius: 50%; border: 2px solid #30363d;" alt="Google Cloud Skills Arcade Trivia Badge" />
+        </a>
+      </p>
+      <p align="center">
+        🔗 <b><a href="https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a">View Public Google Skills Profile ↗</a></b>
+      </p>
+      <p align="center">
+        <sub><i>Arcade Trivia Champion • Cloud Computing Foundations</i></sub>
+      </p>
+    </td>
+    <td width="58%" align="center" valign="middle">
+      <h4>💻 Terminal Matrix &amp; ASCII Player</h4>
+      <p align="center">
+        <a href="https://github.com/maxcurzi/tplay">
+          <img src="https://raw.githubusercontent.com/MD-Mushfiqur123/MD-Mushfiqur123/main/assets/ascii/ascii_tplay_art.jpg" width="100%" style="border-radius: 8px; border: 1px solid #30363d;" alt="Terminal ASCII Player Art" />
+        </a>
+      </p>
+      <p align="center">
+        <sub><i>Terminal ASCII rendering engine powered by <a href="https://github.com/maxcurzi/tplay">tplay</a></i></sub>
+      </p>
+    </td>
+  </tr>
+</table>
