@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- Cyber Wave Dynamic Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=200&section=header&text=Md%20Mushfiqur%20Rahim&fontSize=42&fontColor=58a6ff&fontAlignY=38&desc=%F0%9F%A7%A0%20AI%20Systems%20%26%20Silicon%20Architect%20%E2%80%A2%20Govt.%20Azizul%20Haque%20College%20(HSC%20'28)&descFontSize=16&descAlignY=62&descAlign=50" width="100%" alt="Md Mushfiqur Rahim Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=210&section=header&text=Md%20Mushfiqur%20Rahim&fontSize=42&fontColor=58a6ff&fontAlignY=38&desc=%F0%9F%A7%A0%20AI%20Systems%20%26%20Silicon%20Architect%20%E2%80%A2%20Govt.%20Azizul%20Haque%20College%20(HSC%20%2728)&descFontSize=16&descAlignY=62&descAlign=50" width="100%" alt="Md Mushfiqur Rahim Header" />
 
 <br />
 
 <!-- Dynamic Typing SVG Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&multiline=false&width=860&lines=Building+Mlych+LLM+%26+DeepSeek-V4.1+Engines+%F0%9F%A7%A0;DropLychee+AI+Founder+%26+Foundation+Model+Builder+%F0%9F%8D%92;Govt.+Azizul+Haque+College+HSC+'28+Scholar+%F0%9F%8F%9B%EF%B8%8F;Harvard+CS50x+%26+Univ+of+Helsinki+Grade+5+Honors+%F0%9F%8F%85;Contributor+to+Docker%2C+Google%2C+AWS+%26+CNCF+%F0%9F%8C%90;Creator+of+M-2LRF+Extreme+Ternary+Quantization+%E2%9A%A1" alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=860&lines=Building+Mlych+LLM+%26+DeepSeek-V4.1+Engines+%F0%9F%A7%A0;DropLychee+AI+Founder+%26+Foundation+Model+Builder+%F0%9F%8D%92;Govt.+Azizul+Haque+College+HSC+%2728+Scholar+%F0%9F%8F%9B%EF%B8%8F;Harvard+CS50x+%26+Univ+of+Helsinki+Grade+5+Honors+%F0%9F%8F%85;Contributor+to+Docker%2C+Google%2C+AWS+%26+CNCF+%F0%9F%8C%90;Creator+of+M-2LRF+Extreme+Ternary+Quantization+%E2%9A%A1;40%2C000%2B+HuggingFace+Model+Downloads+%F0%9F%A4%97" alt="Typing Header" />
 </a>
 
 <br /><br />
@@ -15,7 +15,7 @@
 <!-- Animated Badges & Metrics -->
 [![Profile Views](https://komarev.com/ghpvc/?username=MD-Mushfiqur123&label=Profile%20Views&color=0088cc&style=for-the-badge&logo=eye)](https://github.com/MD-Mushfiqur123)
 [![Followers](https://img.shields.io/github/followers/MD-Mushfiqur123?label=Followers&style=for-the-badge&color=238636&logo=github)](https://github.com/MD-Mushfiqur123?tab=followers)
-[![Public Repos](https://img.shields.io/badge/Public_Repos-530%2B-blue?style=for-the-badge&logo=git&logoColor=white)](https://github.com/MD-Mushfiqur123?tab=repositories)
+[![Public Repos](https://img.shields.io/badge/Public_Repos-531%2B-blue?style=for-the-badge&logo=git&logoColor=white)](https://github.com/MD-Mushfiqur123?tab=repositories)
 [![Hugging Face Models](https://img.shields.io/badge/HuggingFace-DropLychee_Org-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/droplychee)
 [![Hugging Face Profile](https://img.shields.io/badge/HuggingFace-MD--Mushfiqur123-FF9D00?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/MD-Mushfiqur123)
 [![Verified Google Dev](https://img.shields.io/badge/Google_Developer-Verified-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://me.developers.google.com/u/Mushfiqur)
@@ -38,10 +38,10 @@
       <h3>?? Welcome to my engineering galaxy!</h3>
       <p>I am <b>Md Mushfiqur Rahim</b>, an AI systems researcher, silicon/software architect, and open-source engineer from <b>Bangladesh ????</b>.</p>
       <ul>
-        <li>??? <b>Academic Base:</b> <b>Govt. Azizul Haque College, Bogura</b> ? <b>HSC Batch 2028 (HSC '28)</b></li>
-        <li>?? <b>Frontier LLM Architectures:</b> Scaled foundation models (<b>Mission Mlych</b>, DeepSeek-V4.1 patterns, Hyper-Connections, Engram, DSpark).</li>
-        <li>? <b>Extreme Quantization:</b> 1.58-bit & 2-bit Ternary Residual Quantization (<b>M-2LRF</b>) with 0-DSP multiplier arithmetic and .000\%$ catastrophic forgetting across ,000,000+$ lines.</li>
-        <li>?? <b>Hugging Face Ecosystem:</b> Founder of <b><a href="https://huggingface.co/droplychee">DropLychee</a></b> (40,000+ total downloads) & <b><a href="https://huggingface.co/MD-Mushfiqur123">MD-Mushfiqur123</a></b>.</li>
+        <li>??? <b>Academic Base:</b> <b>Govt. Azizul Haque College, Bogura</b> ? <b>HSC Batch 2028 (HSC '28)</b>.</li>
+        <li>?? <b>Frontier Foundation LLM Architectures:</b> Scaled multi-modal foundation models (<b>Mission Mlych</b>, DeepSeek-V4.1 patterns, Hyper-Connections, Engram N-Gram Hash Memory, DSpark Speculative Draft Heads).</li>
+        <li>? <b>Extreme Quantization Research:</b> 1.58-bit & 2-bit Ternary Residual Quantization (<b>M-2LRF</b>) with 0-DSP multiplier arithmetic and .000\%$ catastrophic forgetting across ,000,000+$ lines.</li>
+        <li>?? <b>Hugging Face Hub Ecosystem:</b> Founder of <b><a href="https://huggingface.co/droplychee">DropLychee</a></b> (40,000+ total downloads) & <b><a href="https://huggingface.co/MD-Mushfiqur123">MD-Mushfiqur123</a></b>.</li>
         <li>?? <b>Industry Upstream Impact:</b> <b>108+ merged pull requests</b> across <b>Docker, Google, AWS Labs, CNCF etcd, and Prometheus</b>.</li>
         <li>??? <b>Cyber Defense & Aerospace:</b> Creator of <b>Shadow-Omni</b> full-spectrum security suite and <b>Aero-Propulsion</b> rocket CFD engine.</li>
         <li>?? <b>Polyglot Systems Hacker:</b> Python, Go, Rust, C++, TypeScript, CUDA, Assembly & SystemVerilog.</li>
@@ -155,6 +155,16 @@
           <td>? <b><a href="https://github.com/gofiber/fiber">GoFiber (gofiber/fiber)</a></b></td>
           <td>Ultra-fast Express-inspired web framework</td>
           <td><code>35.5k+ ?</code></td>
+        </tr>
+        <tr>
+          <td>?? <b><a href="https://github.com/ohmyzsh/ohmyzsh">Oh My Zsh (ohmyzsh/ohmyzsh)</a></b></td>
+          <td>Community-driven framework for Zsh environments</td>
+          <td><code>175k+ ?</code></td>
+        </tr>
+        <tr>
+          <td>??? <b><a href="https://github.com/ClickHouse/clickhouse-go">ClickHouse (ClickHouse/clickhouse-go)</a></b></td>
+          <td>High-throughput columnar database driver</td>
+          <td><code>1.8k+ ?</code></td>
         </tr>
       </table>
     </td>
