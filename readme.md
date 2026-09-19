@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Cyber Matrix Animation Banner -->
-<img src="https://raw.githubusercontent.com/MD-Mushfiqur123/MD-Mushfiqur123/main/assets/gifs/matrix_rain.gif" width="100%" height="180" style="object-fit: cover; border-radius: 12px; box-shadow: 0 4px 25px rgba(0,255,255,0.25);" alt="Matrix Banner" />
+<img src="https://raw.githubusercontent.com/MD-Mushfiqur123/MD-Mushfiqur123/main/assets/gifs/matrix_rain.gif" width="100%" height="180" style="object-fit: cover; border-radius: 14px; box-shadow: 0 4px 30px rgba(0,255,255,0.3);" alt="Matrix Rain Banner" />
 
 <br /><br />
 
@@ -13,7 +13,7 @@
 
 <!-- Dynamic Typing SVG Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&multiline=false&width=860&lines=Building+Mlych+LLM+%26+DeepSeek-V4.1+Engines+%F0%9F%A7%A0;DropLychee+AI+Founder+%26+Foundation+Model+Builder+%F0%9F%8D%92;Govt.+Azizul+Haque+College+HSC+'28+Scholar+%F0%9F%8F%9B%EF%B8%8F;Harvard+CS50x+%26+Univ+of+Helsinki+Grade+5+Honors+%F0%9F%8F%85;Contributor+to+Docker%2C+Google%2C+AWS+%26+CNCF+%F0%9F%8C%90;Creator+of+M-2LRF+Extreme+Ternary+Quantization+%E2%9A%A1;Architecting+Autonomous+Agent+Swarms+%26+Silicon+%F0%9F%9A%80" alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&multiline=false&width=860&lines=Building+Mlych+LLM+%26+DeepSeek-V4.1+Engines+%F0%9F%A7%A0;DropLychee+AI+Founder+%26+Foundation+Model+Builder+%F0%9F%8D%92;Govt.+Azizul+Haque+College+HSC+'28+Scholar+%F0%9F%8F%9B%EF%B8%8F;Harvard+CS50x+%26+Univ+of+Helsinki+Grade+5+Honors+%F0%9F%8F%85;Contributor+to+Docker%2C+Google%2C+AWS+%26+CNCF+%F0%9F%8C%90;Creator+of+M-2LRF+Extreme+Ternary+Quantization+%E2%9A%A1" alt="Typing Header" />
 </a>
 
 <br /><br />
@@ -54,7 +54,7 @@
       </ul>
     </td>
     <td width="36%" align="center" style="border: none; vertical-align: middle;">
-      <img src="https://raw.githubusercontent.com/MD-Mushfiqur123/MD-Mushfiqur123/main/assets/gifs/neon_code.gif" width="300" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(88,166,255,0.3);" alt="Coding Animation" />
+      <img src="https://raw.githubusercontent.com/MD-Mushfiqur123/MD-Mushfiqur123/main/assets/gifs/cute_cat_coding.gif" width="280" style="border-radius: 14px; box-shadow: 0 4px 20px rgba(88,166,255,0.4);" alt="Cute Coding Cat Animation" />
     </td>
   </tr>
 </table>
@@ -129,7 +129,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MD-Mushfiqur123/MD-Mushfiqur123/main/assets/gifs/terminal_hacker.gif" width="230" align="right" style="border-radius: 8px;" alt="Terminal Animation" />
+<img src="https://raw.githubusercontent.com/MD-Mushfiqur123/MD-Mushfiqur123/main/assets/gifs/neon_terminal.gif" width="240" align="right" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,255,255,0.25);" alt="Cyber Terminal Animation" />
 
 | Organization / Repository | Focus Area & Impact | Project Stars |
 | :--- | :--- | :---: |
