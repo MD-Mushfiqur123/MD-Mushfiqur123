@@ -1,7 +1,15 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,8,12,18&height=250&section=header&text=Md%20Mushfiqur%20Rahim&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20%26%20Silicon%20Architect%20%E2%80%A2%20Open-Source%20Contributor%20%E2%80%A2%20STEM%20Scholar&descFontSize=20&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+<!-- Cyber Matrix Animation Banner -->
+<img src="assets/gifs/matrix_rain.gif" width="100%" height="160" style="object-fit: cover; border-radius: 10px;" alt="Matrix Banner" />
+
+<br /><br />
+
+# 💫 Md Mushfiqur Rahim
+### 🧠 AI Systems & Silicon Architect • 🌐 Open-Source Contributor • 🎓 STEM Scholar
+#### 🏛️ Higher Secondary Student (HSC '28) at Govt. Azizul Haque College, Bogura
+
+<br />
 
 <!-- Dynamic Typing SVG Animation -->
 <a href="https://git.io/typing-svg">
@@ -41,7 +49,7 @@
       </ul>
     </td>
     <td width="40%" align="center" style="border: none; vertical-align: middle;">
-      <img src="https://media.giphy.com/media/qgQUwnD5xNWVqGstaw/giphy.gif" width="300" alt="Coding GIF" />
+      <img src="assets/gifs/neon_code.gif" width="280" alt="Coding GIF" />
     </td>
   </tr>
 </table>
@@ -51,6 +59,10 @@
 ## 🚀 Flagship Inventions & Research Architecture
 
 <div align="center">
+
+<img src="assets/gifs/neural_network.gif" width="100%" height="140" style="object-fit: cover; border-radius: 8px;" alt="Neural Network GIF" />
+
+<br /><br />
 
 ```
                            ┌──────────────────────────┐
@@ -90,7 +102,7 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="220" align="right" alt="Git Hub GIF" />
+<img src="assets/gifs/terminal_hacker.gif" width="220" align="right" alt="Hacker GIF" />
 
 | Organization / Repository | Focus Area & Impact | Project Stars |
 | :--- | :--- | :---: |
@@ -322,7 +334,7 @@
 <div align="center">
 
 <p>
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="50" alt="Connect GIF" />
+  <img src="assets/gifs/connect_glow.gif" width="55" alt="Connect GIF" />
   <b>Let's build the next generation of intelligent computing together!</b>
 </p>
 
@@ -337,7 +349,7 @@
 
 <br /><br />
 
-<!-- Animated Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,12,8,4,2,0&height=120&section=footer" width="100%" alt="Footer Banner" />
+<!-- Animated Quantum Core Footer -->
+<img src="assets/gifs/quantum_core.gif" width="100%" height="80" style="object-fit: cover; border-radius: 8px;" alt="Quantum Footer" />
 
 </div>
