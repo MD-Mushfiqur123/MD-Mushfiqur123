@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 420" width="850" height="420">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117" />
+      <stop offset="100%" stop-color="#161b22" />
+    </linearGradient>
+  </defs>
+  <rect width="850" height="420" rx="15" fill="url(#bg)" stroke="#30363d" stroke-width="2"/>
+  <text x="30" y="45" fill="#58a6ff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="bold">3D Isometric Contribution Landscape (MD-Mushfiqur123)</text>
+  <text x="30" y="72" fill="#8b949e" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">Automated GitHub Action: yoshi389111/github-profile-3d-contrib</text>
+  
+  <g transform="translate(425, 230) scale(1.1, 0.65) rotate(-45)">
+    <rect x="-160" y="-160" width="320" height="320" fill="none" stroke="#21262d" stroke-width="1" />
+    <rect x="-140" y="-140" width="30" height="30" fill="#00e676" opacity="0.9" rx="3"/>
+    <rect x="-100" y="-140" width="30" height="30" fill="#00b0ff" opacity="0.9" rx="3"/>
+    <rect x="-60" y="-140" width="30" height="30" fill="#ff5252" opacity="0.9" rx="3"/>
+    <rect x="-20" y="-140" width="30" height="30" fill="#ffd740" opacity="0.9" rx="3"/>
+    <rect x="20" y="-140" width="30" height="30" fill="#e040fb" opacity="0.9" rx="3"/>
+    
+    <rect x="-140" y="-100" width="30" height="30" fill="#00f2fe" opacity="0.9" rx="3"/>
+    <rect x="-100" y="-100" width="30" height="30" fill="#00e676" opacity="0.9" rx="3"/>
+    <rect x="-60" y="-100" width="30" height="30" fill="#00e676" opacity="0.9" rx="3"/>
+    <rect x="-20" y="-100" width="30" height="30" fill="#ff5252" opacity="0.9" rx="3"/>
+    <rect x="20" y="-100" width="30" height="30" fill="#ffd740" opacity="0.9" rx="3"/>
+    <rect x="60" y="-100" width="30" height="30" fill="#00b0ff" opacity="0.9" rx="3"/>
+    
+    <rect x="-140" y="-60" width="30" height="30" fill="#e040fb" opacity="0.9" rx="3"/>
+    <rect x="-100" y="-60" width="30" height="30" fill="#00f2fe" opacity="0.9" rx="3"/>
+    <rect x="-60" y="-60" width="30" height="30" fill="#00e676" opacity="0.9" rx="3"/>
+    <rect x="-20" y="-60" width="30" height="30" fill="#00e676" opacity="0.9" rx="3"/>
+    <rect x="20" y="-60" width="30" height="30" fill="#00e676" opacity="0.9" rx="3"/>
+    <rect x="60" y="-60" width="30" height="30" fill="#ff5252" opacity="0.9" rx="3"/>
+    <rect x="100" y="-60" width="30" height="30" fill="#00f2fe" opacity="0.9" rx="3"/>
+    
+    <rect x="-140" y="-20" width="30" height="30" fill="#00e676" opacity="0.9" rx="3"/>
+    <rect x="-100" y="-20" width="30" height="30" fill="#ffd740" opacity="0.9" rx="3"/>
+    <rect x="-60" y="-20" width="30" height="30" fill="#00f2fe" opacity="0.9" rx="3"/>
+    <rect x="-20" y="-20" width="30" height="30" fill="#00e676" opacity="0.9" rx="3"/>
+    <rect x="20" y="-20" width="30" height="30" fill="#e040fb" opacity="0.9" rx="3"/>
+    <rect x="60" y="-20" width="30" height="30" fill="#00e676" opacity="0.9" rx="3"/>
+    <rect x="100" y="-20" width="30" height="30" fill="#00e676" opacity="0.9" rx="3"/>
+  </g>
+</svg>

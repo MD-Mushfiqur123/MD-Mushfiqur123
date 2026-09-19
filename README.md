@@ -29,3 +29,38 @@
     </td>
   </tr>
 </table>
+
+---
+
+<!-- Full Contribution History with Flowing Background Waves -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=120&section=header&text=Full%20Contribution%20History%20%26%20Global%20Impact&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%" alt="Contribution Waves Header" />
+</p>
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h4>🌐 3D Isometric Contribution Graph</h4>
+      <p align="center">
+        <a href="https://github.com/yoshi389111/github-profile-3d-contrib">
+          <img src="https://raw.githubusercontent.com/MD-Mushfiqur123/MD-Mushfiqur123/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Profile Night Rainbow" onerror="this.src='https://github-readme-activity-graph.vercel.app/graph?username=MD-Mushfiqur123&theme=tokyo-night&bg_color=0D1117&color=00F2FE&line=00F2FE&point=FFFFFF&area=true&hide_border=true';" />
+        </a>
+      </p>
+      <p align="center">
+        <sub><i>Powered by <a href="https://github.com/yoshi389111/github-profile-3d-contrib">github-profile-3d-contrib</a></i></sub>
+      </p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h4>📊 Contribution Dynamics & Visual Mastery</h4>
+      <p align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=MD-Mushfiqur123&theme=tokyo-night&bg_color=0D1117&color=00F2FE&line=00F2FE&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+      </p>
+      <p align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=MD-Mushfiqur123&theme=tokyonight&hide_border=true" width="95%" alt="Streak Metrics" />
+      </p>
+      <p align="center">
+        <sub><i>Visual displays inspired by <a href="https://medium.com/@guptashubhang2000/visual-mastery-elevating-github-with-impactful-displays-8abbea39d022">Visual Mastery in GitHub</a></i></sub>
+      </p>
+    </td>
+  </tr>
+</table>
