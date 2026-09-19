@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Cyber Matrix Animation Banner -->
-<img src="assets/gifs/matrix_rain.gif" width="100%" height="160" style="object-fit: cover; border-radius: 10px;" alt="Matrix Banner" />
+<img src="https://raw.githubusercontent.com/MD-Mushfiqur123/MD-Mushfiqur123/main/assets/gifs/matrix_rain.gif" width="100%" height="160" style="object-fit: cover; border-radius: 10px;" alt="Matrix Banner" />
 
 <br /><br />
 
@@ -49,7 +49,7 @@
       </ul>
     </td>
     <td width="40%" align="center" style="border: none; vertical-align: middle;">
-      <img src="assets/gifs/neon_code.gif" width="280" alt="Coding GIF" />
+      <img src="https://raw.githubusercontent.com/MD-Mushfiqur123/MD-Mushfiqur123/main/assets/gifs/neon_code.gif" width="280" alt="Coding GIF" />
     </td>
   </tr>
 </table>
@@ -60,7 +60,7 @@
 
 <div align="center">
 
-<img src="assets/gifs/neural_network.gif" width="100%" height="140" style="object-fit: cover; border-radius: 8px;" alt="Neural Network GIF" />
+<img src="https://raw.githubusercontent.com/MD-Mushfiqur123/MD-Mushfiqur123/main/assets/gifs/neural_network.gif" width="100%" height="140" style="object-fit: cover; border-radius: 8px;" alt="Neural Network GIF" />
 
 <br /><br />
 
@@ -102,7 +102,7 @@
 
 <div align="center">
 
-<img src="assets/gifs/terminal_hacker.gif" width="220" align="right" alt="Hacker GIF" />
+<img src="https://raw.githubusercontent.com/MD-Mushfiqur123/MD-Mushfiqur123/main/assets/gifs/terminal_hacker.gif" width="220" align="right" alt="Hacker GIF" />
 
 | Organization / Repository | Focus Area & Impact | Project Stars |
 | :--- | :--- | :---: |
@@ -280,21 +280,21 @@
   <tr>
     <td align="center" width="33%">
       <a href="https://cs50.harvard.edu/certificates/9fde6ff7-e81e-4c04-89cf-735b736004dd">
-        <img src="assets/certificates/harvard_cs50x_certificate.png" width="260" alt="Harvard CS50x Certificate" /><br />
+        <img src="https://raw.githubusercontent.com/MD-Mushfiqur123/MD-Mushfiqur123/main/assets/certificates/harvard_cs50x_certificate.png" width="260" alt="Harvard CS50x Certificate" /><br />
         <sub><b>Harvard CS50x: Computer Science</b></sub><br />
         <sub><i>Prof. David J. Malan</i></sub>
       </a>
     </td>
     <td align="center" width="33%">
       <a href="https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/fr/2459fbce85ad3bee10439f37870edb84">
-        <img src="assets/certificates/helsinki_fullstack_grade5_certificate.png" width="260" alt="Univ of Helsinki Full Stack Grade 5" /><br />
+        <img src="https://raw.githubusercontent.com/MD-Mushfiqur123/MD-Mushfiqur123/main/assets/certificates/helsinki_fullstack_grade5_certificate.png" width="260" alt="Univ of Helsinki Full Stack Grade 5" /><br />
         <sub><b>Univ of Helsinki: Full Stack</b></sub><br />
         <sub><i>Grade 5 / 5 (Max Honors, 7 ECTS)</i></sub>
       </a>
     </td>
     <td align="center" width="33%">
       <a href="https://certificates.mooc.fi/validate/1xw084tnsab">
-        <img src="assets/certificates/helsinki_elements_of_ai_certificate.png" width="260" alt="Univ of Helsinki Elements of AI" /><br />
+        <img src="https://raw.githubusercontent.com/MD-Mushfiqur123/MD-Mushfiqur123/main/assets/certificates/helsinki_elements_of_ai_certificate.png" width="260" alt="Univ of Helsinki Elements of AI" /><br />
         <sub><b>Univ of Helsinki: Elements of AI</b></sub><br />
         <sub><i>2 ECTS Credits (25/25 Exercises)</i></sub>
       </a>
@@ -303,14 +303,14 @@
   <tr>
     <td align="center" width="33%">
       <a href="https://cert.efset.org/G7yoSe">
-        <img src="assets/certificates/efset_c1_english_certificate.png" width="260" alt="EF SET C1 English Certificate" /><br />
+        <img src="https://raw.githubusercontent.com/MD-Mushfiqur123/MD-Mushfiqur123/main/assets/certificates/efset_c1_english_certificate.png" width="260" alt="EF SET C1 English Certificate" /><br />
         <sub><b>EF SET: C1 Advanced English</b></sub><br />
         <sub><i>Score: 62/100 (C2 Reading: 78)</i></sub>
       </a>
     </td>
     <td align="center" width="33%">
       <a href="https://learn.opswatacademy.com/certificate/VuQ0lw-m0Q">
-        <img src="assets/certificates/opswat_icip_critical_infrastructure_certificate.png" width="260" alt="OPSWAT ICIP Certificate" /><br />
+        <img src="https://raw.githubusercontent.com/MD-Mushfiqur123/MD-Mushfiqur123/main/assets/certificates/opswat_icip_critical_infrastructure_certificate.png" width="260" alt="OPSWAT ICIP Certificate" /><br />
         <sub><b>OPSWAT: Critical Infrastructure Protection</b></sub><br />
         <sub><i>Graduate Credential (ID: VuQ0lw-m0Q)</i></sub>
       </a>
@@ -334,7 +334,7 @@
 <div align="center">
 
 <p>
-  <img src="assets/gifs/connect_glow.gif" width="55" alt="Connect GIF" />
+  <img src="https://raw.githubusercontent.com/MD-Mushfiqur123/MD-Mushfiqur123/main/assets/gifs/connect_glow.gif" width="55" alt="Connect GIF" />
   <b>Let's build the next generation of intelligent computing together!</b>
 </p>
 
@@ -350,6 +350,6 @@
 <br /><br />
 
 <!-- Animated Quantum Core Footer -->
-<img src="assets/gifs/quantum_core.gif" width="100%" height="80" style="object-fit: cover; border-radius: 8px;" alt="Quantum Footer" />
+<img src="https://raw.githubusercontent.com/MD-Mushfiqur123/MD-Mushfiqur123/main/assets/gifs/quantum_core.gif" width="100%" height="80" style="object-fit: cover; border-radius: 8px;" alt="Quantum Footer" />
 
 </div>
