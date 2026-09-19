@@ -28,7 +28,7 @@
 
 Hello world! I am **Md Mushfiqur Rahim**, an AI systems researcher, silicon/software architect, and STEM scholar from **Bangladesh 🇧🇩**.
 
-- 🏛️ **Academic Institution:** **Govt. Azizul Haque College, Bogura** (সরকারি আজিজুল হক কলেজ, বগুড়া) — **HSC Batch 2028 (HSC '28)**
+- 🏛️ **Academic Institution:** **Govt. Azizul Haque College, Bogura** — **HSC Batch 2028 (HSC '28)**
 - 🔬 **Core Specialization:** Deep Learning Foundations, Extreme Low-Bit Quantization (1.58-bit & 2-bit M-2LRF), Autonomous Multi-Agent Swarms, and High-Throughput Distributed Systems (Go, Rust, Python, C++, TypeScript).
 - 🌐 **Industry Upstream Impact:** **108+ merged pull requests** across global standard backbones including **Docker, Google, AWS Labs, CNCF etcd, and Prometheus**.
 
@@ -147,6 +147,57 @@ A proven track record of contributing to upstream industry standards and cloud-n
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MD-Mushfiqur123&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 </a>
+
+</div>
+
+---
+
+## 🎖️ Verified Certificates & Credentials Gallery
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://cs50.harvard.edu/certificates/9fde6ff7-e81e-4c04-89cf-735b736004dd">
+        <img src="assets/certificates/harvard_cs50x_certificate.png" width="240" alt="Harvard CS50x Certificate" /><br />
+        <sub><b>Harvard CS50x: Computer Science</b></sub>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/fr/2459fbce85ad3bee10439f37870edb84">
+        <img src="assets/certificates/helsinki_fullstack_grade5_certificate.png" width="240" alt="Univ of Helsinki Full Stack Grade 5" /><br />
+        <sub><b>Univ of Helsinki: Full Stack (Grade 5, 7 ECTS)</b></sub>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://certificates.mooc.fi/validate/1xw084tnsab">
+        <img src="assets/certificates/helsinki_elements_of_ai_certificate.png" width="240" alt="Univ of Helsinki Elements of AI" /><br />
+        <sub><b>Univ of Helsinki: Elements of AI (2 ECTS)</b></sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://cert.efset.org/G7yoSe">
+        <img src="assets/certificates/efset_c1_english_certificate.png" width="240" alt="EF SET C1 English Certificate" /><br />
+        <sub><b>EF SET: C1 Advanced English (62/100)</b></sub>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://learn.opswatacademy.com/certificate/VuQ0lw-m0Q">
+        <img src="assets/certificates/opswat_icip_critical_infrastructure_certificate.png" width="240" alt="OPSWAT ICIP Certificate" /><br />
+        <sub><b>OPSWAT: Critical Infrastructure Protection</b></sub>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a">
+        <img src="https://cdn.qwiklabs.com/%2BoWdm%2FHzI%2FCAdbH%2BVisNVqZNrjaLwl24mARfInT99b0%3D" width="130" alt="Google Cloud Skills" /><br />
+        <sub><b>Google Cloud & DeepMind: 104+ Badges</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
