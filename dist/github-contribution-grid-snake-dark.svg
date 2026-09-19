@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 170" width="100%" height="170">
+  <defs>
+    <linearGradient id="sbg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117" />
+      <stop offset="100%" stop-color="#161b22" />
+    </linearGradient>
+  </defs>
+  <rect width="850" height="170" rx="10" fill="url(#sbg)" stroke="#30363d" stroke-width="1"/>
+  <text x="30" y="32" fill="#58a6ff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="600">🐍 Contribution Grid Snake Game</text>
+  <text x="30" y="52" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12">Automated grid eater powered by Platane/snk</text>
+  
+  <!-- Contribution grid dots simulation -->
+  <g transform="translate(30, 70)">
+    <circle cx="10" cy="10" r="4" fill="#0e4429" />
+    <circle cx="25" cy="10" r="4" fill="#006d32" />
+    <circle cx="40" cy="10" r="4" fill="#26a641" />
+    <circle cx="55" cy="10" r="4" fill="#39d353" />
+    <circle cx="70" cy="10" r="4" fill="#39d353" />
+    <circle cx="85" cy="10" r="4" fill="#006d32" />
+    <circle cx="100" cy="10" r="4" fill="#26a641" />
+    <circle cx="115" cy="10" r="4" fill="#39d353" />
+    <circle cx="130" cy="10" r="4" fill="#00f2fe" />
+    <circle cx="145" cy="10" r="4" fill="#00f2fe" />
+    <circle cx="160" cy="10" r="4" fill="#ff7b72" />
+    <circle cx="175" cy="10" r="4" fill="#0e4429" />
+    
+    <circle cx="10" cy="25" r="4" fill="#0e4429" />
+    <circle cx="25" cy="25" r="4" fill="#006d32" />
+    <circle cx="40" cy="25" r="4" fill="#39d353" />
+    <circle cx="55" cy="25" r="4" fill="#39d353" />
+    <circle cx="70" cy="25" r="4" fill="#00f2fe" />
+    <circle cx="85" cy="25" r="4" fill="#00f2fe" />
+    <circle cx="100" cy="25" r="4" fill="#39d353" />
+    <circle cx="115" cy="25" r="4" fill="#26a641" />
+    <circle cx="130" cy="25" r="4" fill="#006d32" />
+    
+    <!-- Snake head and body -->
+    <rect x="185" y="6" width="12" height="12" rx="3" fill="#ffa657" stroke="#ff7b72" stroke-width="1.5"/>
+    <circle cx="191" cy="9" r="1.5" fill="#000" />
+    <rect x="200" y="6" width="10" height="10" rx="2" fill="#3fb950" />
+    <rect x="212" y="6" width="10" height="10" rx="2" fill="#2ea043" />
+    <rect x="224" y="6" width="10" height="10" rx="2" fill="#238636" />
+    <rect x="236" y="6" width="10" height="10" rx="2" fill="#196c2e" />
+  </g>
+</svg>

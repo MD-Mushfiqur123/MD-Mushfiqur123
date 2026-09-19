@@ -103,3 +103,19 @@
     </td>
   </tr>
 </table>
+
+---
+
+<!-- Contribution Grid Snake Game Section -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MD-Mushfiqur123/MD-Mushfiqur123/main/assets/banners/snake_banner.svg" width="100%" alt="Snake Game Banner" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Platane/snk">
+    <img src="https://raw.githubusercontent.com/MD-Mushfiqur123/MD-Mushfiqur123/main/dist/github-contribution-grid-snake-dark.svg" width="100%" style="border-radius: 10px; border: 1px solid #30363d;" alt="GitHub Contribution Grid Snake Game" />
+  </a>
+</p>
+<p align="center">
+  <sub><i>Interactive snake eating contribution points generated daily via <a href="https://github.com/Platane/snk">Platane/snk</a></i></sub>
+</p>
