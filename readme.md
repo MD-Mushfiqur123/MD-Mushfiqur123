@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Cyber Matrix Animation Banner -->
-<img src="https://raw.githubusercontent.com/MD-Mushfiqur123/MD-Mushfiqur123/main/assets/gifs/matrix_rain.gif" width="100%" height="160" style="object-fit: cover; border-radius: 10px;" alt="Matrix Banner" />
+<img src="https://raw.githubusercontent.com/MD-Mushfiqur123/MD-Mushfiqur123/main/assets/gifs/matrix_rain.gif" width="100%" height="170" style="object-fit: cover; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,255,255,0.2);" alt="Matrix Banner" />
 
 <br /><br />
 
@@ -13,7 +13,7 @@
 
 <!-- Dynamic Typing SVG Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&multiline=false&width=860&lines=Building+Mlych+LLM+%26+DeepSeek-V4.1+Engines+%F0%9F%A7%A0;Govt.+Azizul+Haque+College+HSC+'28+Scholar+%F0%9F%8F%9B%EF%B8%8F;Harvard+CS50x+%26+Univ+of+Helsinki+Certified+%F0%9F%8F%85;Contributor+to+Docker%2C+Google%2C+AWS+%26+CNCF+%F0%9F%8C%90;Creator+of+M-2LRF+Extreme+Ternary+Quantization+%E2%9A%A1;Architecting+Autonomous+Agent+Swarms+%26+Silicon+%F0%9F%9A%80" alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&multiline=false&width=860&lines=Building+Mlych+LLM+%26+DeepSeek-V4.1+Engines+%F0%9F%A7%A0;DropLychee+AI+Founder+%26+Foundation+Model+Builder+%F0%9F%8D%92;Govt.+Azizul+Haque+College+HSC+'28+Scholar+%F0%9F%8F%9B%EF%B8%8F;Harvard+CS50x+%26+Univ+of+Helsinki+Grade+5+Honors+%F0%9F%8F%85;Contributor+to+Docker%2C+Google%2C+AWS+%26+CNCF+%F0%9F%8C%90;Creator+of+M-2LRF+Extreme+Ternary+Quantization+%E2%9A%A1" alt="Typing Header" />
 </a>
 
 <br /><br />
@@ -21,7 +21,9 @@
 <!-- Animated Badges & Metrics -->
 [![Profile Views](https://komarev.com/ghpvc/?username=MD-Mushfiqur123&label=Profile%20Views&color=0088cc&style=for-the-badge&logo=eye)](https://github.com/MD-Mushfiqur123)
 [![Followers](https://img.shields.io/github/followers/MD-Mushfiqur123?label=Followers&style=for-the-badge&color=238636&logo=github)](https://github.com/MD-Mushfiqur123?tab=followers)
-[![Public Repos](https://img.shields.io/badge/Public_Repos-520%2B-blue?style=for-the-badge&logo=git&logoColor=white)](https://github.com/MD-Mushfiqur123?tab=repositories)
+[![Public Repos](https://img.shields.io/badge/Public_Repos-530%2B-blue?style=for-the-badge&logo=git&logoColor=white)](https://github.com/MD-Mushfiqur123?tab=repositories)
+[![Hugging Face Models](https://img.shields.io/badge/HuggingFace-DropLychee_Org-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/droplychee)
+[![Hugging Face Profile](https://img.shields.io/badge/HuggingFace-MD--Mushfiqur123-FF9D00?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/MD-Mushfiqur123)
 [![Verified Google Dev](https://img.shields.io/badge/Google_Developer-Verified-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://me.developers.google.com/u/Mushfiqur)
 [![Harvard CS50x Certified](https://img.shields.io/badge/Harvard_CS50x-Certified-A51C30?style=for-the-badge&logo=harvard&logoColor=white)](https://cs50.harvard.edu/certificates/9fde6ff7-e81e-4c04-89cf-735b736004dd)
 [![Helsinki Full Stack Grade 5](https://img.shields.io/badge/Univ_of_Helsinki-FullStack_Grade_5-006699?style=for-the-badge)](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/fr/2459fbce85ad3bee10439f37870edb84)
@@ -34,33 +36,35 @@
 
 ---
 
-## 🌟 About Me & Vision
+## 🌟 Executive Summary & Engineering Vision
 
 <table border="0" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
-    <td width="60%" style="border: none; vertical-align: top;">
+    <td width="62%" style="border: none; vertical-align: top;">
       <h3>👋 Welcome to my engineering galaxy!</h3>
-      <p>I am <b>Md Mushfiqur Rahim</b>, an AI systems researcher, silicon architect, and open-source engineer based in <b>Bangladesh 🇧🇩</b>.</p>
+      <p>I am <b>Md Mushfiqur Rahim</b>, an AI systems researcher, silicon/software architect, and open-source engineer from <b>Bangladesh 🇧🇩</b>.</p>
       <ul>
         <li>🏛️ <b>Academic Base:</b> <b>Govt. Azizul Haque College, Bogura</b> — <b>HSC Batch 2028 (HSC '28)</b></li>
-        <li>🧬 <b>Frontier Focus:</b> Large Language Model Architectures (DeepSeek-V4.1, Hyper-Connections, Engram, DSpark), 1.58-bit & 2-bit Ternary Residual Quantization (<b>M-2LRF</b>), and Autonomous Multi-Agent Swarms.</li>
-        <li>🌐 <b>Upstream Contributions:</b> <b>108+ merged pull requests</b> across industry backbone repositories including <b>Docker, Google, AWS Labs, CNCF etcd, and Prometheus</b>.</li>
+        <li>🧬 <b>Frontier LLM Architectures:</b> Scaled foundation models (<b>Mission Mlych</b>, DeepSeek-V4.1 patterns, Hyper-Connections, Engram, DSpark).</li>
+        <li>⚡ <b>Extreme Quantization:</b> 1.58-bit & 2-bit Ternary Residual Quantization (<b>M-2LRF</b>) with 0-DSP multiplier arithmetic and $0.000\%$ catastrophic forgetting.</li>
+        <li>🤗 <b>Hugging Face Ecosystem:</b> Founder of <b><a href="https://huggingface.co/droplychee">DropLychee</a></b> (40,000+ total downloads) & <b><a href="https://huggingface.co/MD-Mushfiqur123">MD-Mushfiqur123</a></b>.</li>
+        <li>🌐 <b>Industry Upstream Impact:</b> <b>108+ merged pull requests</b> across <b>Docker, Google, AWS Labs, CNCF etcd, and Prometheus</b>.</li>
         <li>💻 <b>Polyglot Systems Hacker:</b> Python, Go, Rust, C++, TypeScript, CUDA, Assembly & SystemVerilog.</li>
       </ul>
     </td>
-    <td width="40%" align="center" style="border: none; vertical-align: middle;">
-      <img src="https://raw.githubusercontent.com/MD-Mushfiqur123/MD-Mushfiqur123/main/assets/gifs/neon_code.gif" width="280" alt="Coding GIF" />
+    <td width="38%" align="center" style="border: none; vertical-align: middle;">
+      <img src="https://raw.githubusercontent.com/MD-Mushfiqur123/MD-Mushfiqur123/main/assets/gifs/neon_code.gif" width="300" style="border-radius: 10px;" alt="Coding Animation" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 🚀 Flagship Inventions & Research Architecture
+## 🚀 Flagship Research Inventions & Systems
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MD-Mushfiqur123/MD-Mushfiqur123/main/assets/gifs/neural_network.gif" width="100%" height="140" style="object-fit: cover; border-radius: 8px;" alt="Neural Network GIF" />
+<img src="https://raw.githubusercontent.com/MD-Mushfiqur123/MD-Mushfiqur123/main/assets/gifs/neural_network.gif" width="100%" height="150" style="object-fit: cover; border-radius: 8px;" alt="Neural Network Animation" />
 
 <br /><br />
 
@@ -98,11 +102,31 @@
 
 ---
 
-## 🏛️ Upstream Industry Open-Source Track Record
+## 🤗 Hugging Face Model Ecosystem & Releases
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MD-Mushfiqur123/MD-Mushfiqur123/main/assets/gifs/terminal_hacker.gif" width="220" align="right" alt="Hacker GIF" />
+| Model / Organization | Parameters & Focus | Downloads / Status | Direct Link |
+| :--- | :--- | :---: | :---: |
+| 🍒 **[`droplychee/droplychee-2.2`](https://huggingface.co/droplychee/droplychee-2.2)** | High-Throughput Reasoning & Instruction Model | **39,560+ ⬇️** | [View on HuggingFace](https://huggingface.co/droplychee/droplychee-2.2) |
+| 🍒 **[`droplychee/droplychee-1b-tts`](https://huggingface.co/droplychee/droplychee-1b-tts)** | 1B Neural Text-To-Speech Synthesizer | **270+ ⬇️** | [View on HuggingFace](https://huggingface.co/droplychee/droplychee-1b-tts) |
+| 🍒 **[`droplychee/droplychee-code-big`](https://huggingface.co/droplychee/droplychee-code-big)** | Enterprise Multi-Language Coding LLM | **166+ ⬇️** | [View on HuggingFace](https://huggingface.co/droplychee/droplychee-code-big) |
+| 🍒 **[`droplychee/droplychee-2.0-40b`](https://huggingface.co/droplychee/droplychee-2.0-40b)** | 40B Scaled MoE Multimodal Foundation Model | **140+ ⬇️** | [View on HuggingFace](https://huggingface.co/droplychee/droplychee-2.0-40b) |
+| 🍒 **[`MD-Mushfiqur123/m-droplychee`](https://huggingface.co/MD-Mushfiqur123/m-droplychee)** | DropLychee Core Multilingual Foundation | **370+ ⬇️** | [View on HuggingFace](https://huggingface.co/MD-Mushfiqur123/m-droplychee) |
+| 🍒 **[`MD-Mushfiqur123/xe-droplychee-v2`](https://huggingface.co/MD-Mushfiqur123/xe-droplychee-v2)** | High-Efficiency DropLychee Quantized Engine | **240+ ⬇️** | [View on HuggingFace](https://huggingface.co/MD-Mushfiqur123/xe-droplychee-v2) |
+| 🍒 **[`MD-Mushfiqur123/M-3T-Moe`](https://huggingface.co/MD-Mushfiqur123/M-3T-Moe)** | 3-Trillion Token MoE Foundation Research Model | **Verified** | [View on HuggingFace](https://huggingface.co/MD-Mushfiqur123/M-3T-Moe) |
+
+👉 Explore all releases: **[HuggingFace / droplychee](https://huggingface.co/droplychee)** • **[HuggingFace / MD-Mushfiqur123](https://huggingface.co/MD-Mushfiqur123)**
+
+</div>
+
+---
+
+## 🏛️ Upstream Industry Open-Source Contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/MD-Mushfiqur123/MD-Mushfiqur123/main/assets/gifs/terminal_hacker.gif" width="230" align="right" style="border-radius: 8px;" alt="Terminal Animation" />
 
 | Organization / Repository | Focus Area & Impact | Project Stars |
 | :--- | :--- | :---: |
@@ -243,30 +267,27 @@
 <table border="0" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td align="center" style="border: none;" width="50%">
-      <a href="https://github.com/MD-Mushfiqur123">
-        <img src="https://github-readme-stats.vercel.app/api?username=MD-Mushfiqur123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="100%" />
-      </a>
+      <table border="1" cellpadding="10" style="border-collapse: collapse; border-color: #30363d; background: #0d1117; width: 100%; border-radius: 8px;">
+        <tr>
+          <td align="left" style="color: #58a6ff; font-family: monospace;">
+            <b>⚡ GITHUB LIVE AUDIT METRICS</b><br />
+            ────────────────────────────<br />
+            • <b>Total Public Repositories:</b> <code>530+</code><br />
+            • <b>Total Contributions Logged:</b> <code>136,885+</code><br />
+            • <b>Merged Industry Upstream PRs:</b> <code>108+</code><br />
+            • <b>Global Followers:</b> <code>50+</code><br />
+            • <b>Account Status:</b> <code>Active Contributor & Scholar</code>
+          </td>
+        </tr>
+      </table>
     </td>
     <td align="center" style="border: none;" width="50%">
       <a href="https://github.com/MD-Mushfiqur123">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=MD-Mushfiqur123&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
-      </a>
-    </td>
-  </tr>
-  <tr style="border: none;">
-    <td align="center" colspan="2" style="border: none;" width="100%">
-      <a href="https://github.com/MD-Mushfiqur123">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-Mushfiqur123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="65%" />
+        <img src="https://streak-stats.demolab.com?user=MD-Mushfiqur123&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
       </a>
     </td>
   </tr>
 </table>
-
-<br />
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MD-Mushfiqur123&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
-</a>
 
 </div>
 
@@ -339,6 +360,7 @@
 </p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MD-Mushfiqur123)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/droplychee)
 [![Google Developer](https://img.shields.io/badge/Google_Developer-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://me.developers.google.com/u/Mushfiqur)
 [![Google Skills](https://img.shields.io/badge/Google_Skills-34A853?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-mushfiqur123)
