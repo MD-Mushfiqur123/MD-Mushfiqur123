@@ -147,6 +147,83 @@
 
 ---
 
+## ⚡ Top 10 Google DeepMind & Cloud Aura Badges
+
+> Verified on [Google Skills Boost Profile](https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a) *(104+ Verified Badges Earned)*
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="20%">
+      <a href="https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a/badges/20687330">
+        <img src="https://cdn.qwiklabs.com/%2BoWdm%2FHzI%2FCAdbH%2BVisNVqZNrjaLwl24mARfInT99b0%3D" width="125" alt="Google DeepMind: Train SLM" /><br />
+        <sub><b>Google DeepMind: Train SLM</b></sub>
+      </a>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a/badges/20671108">
+        <img src="https://cdn.qwiklabs.com/JgPRhq41EzENxiYuPxIxIjltIQ5N%2B12dUJ2WhSSJBHk%3D" width="125" alt="TPUs for Inference" /><br />
+        <sub><b>How to Use TPUs for AI Inference</b></sub>
+      </a>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a/badges/20781063">
+        <img src="https://cdn.qwiklabs.com/ptFjKJhCElCLWeQv%2BT%2F%2Bquj23pUL5YzWprpljt6ceJ0%3D" width="125" alt="Multimodal Vector Search" /><br />
+        <sub><b>Multimodal Vector Search (BigQuery)</b></sub>
+      </a>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a/badges/20671071">
+        <img src="https://cdn.qwiklabs.com/ycNP3ECYwlCmnK%2BsmzhkgFqNonyaBZd9Hnmm6iLfB7Q%3D" width="125" alt="AI Inference Stack" /><br />
+        <sub><b>Architecting an AI Inference Stack</b></sub>
+      </a>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a/badges/20665721">
+        <img src="https://cdn.qwiklabs.com/EFGPECr6937xLaP3rj21MfvRCQQ8o%2FbLcZgk%2B2Mbi7c%3D" width="125" alt="Gen AI Enterprise Agents" /><br />
+        <sub><b>Gen AI Enterprise Agents Platform</b></sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%">
+      <a href="https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a/badges/20671471">
+        <img src="https://cdn.qwiklabs.com/ZXg%2B4U7BZRgMVSZAj2uwxeY9mGWGLQAMfFLG954BKxo%3D" width="125" alt="Gemini Enterprise" /><br />
+        <sub><b>Architect Gemini Enterprise Suite</b></sub>
+      </a>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a/badges/26039952">
+        <img src="https://cdn.qwiklabs.com/CNcT7ezXSyoEtWiY3x3aMfDGf%2FNKLr438ZEAcOb8h9I%3D" width="125" alt="Secure Lakehouse Data" /><br />
+        <sub><b>Secure Lakehouse Architecture</b></sub>
+      </a>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a/badges/20824093">
+        <img src="https://cdn.qwiklabs.com/DwXCndxZ9wTIUw0bormrGKgr2nV%2BQq2jDHoXxEkveEs%3D" width="125" alt="Serverless API Gateway" /><br />
+        <sub><b>Deploy Serverless API Gateways</b></sub>
+      </a>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a/badges/20804023">
+        <img src="https://cdn.qwiklabs.com/tmZQxqBEeqfv83nxHyrpBPzCV9pWK1AR7LoQrKq1Dhw%3D" width="125" alt="Privileged Access IAM" /><br />
+        <sub><b>Privileged Access & IAM Defense</b></sub>
+      </a>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a/badges/20892522">
+        <img src="https://cdn.qwiklabs.com/OqjoZqKWLcQKma%2By4IeqqCw8kyxUY9XzHyZybWcvfsc%3D" width="125" alt="Essential GCP CLI" /><br />
+        <sub><b>Essential Google Cloud CLI Tools</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 ## 📊 Live GitHub Telemetry & Stats
 
 <div align="center">
