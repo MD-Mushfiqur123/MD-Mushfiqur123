@@ -1,60 +1,96 @@
 <div align="center">
 
-# 💫 Md Mushfiqur Rahim
-### AI Systems & Silicon Architect • Open Source Contributor • STEM Scholar
-#### 🏛️ Higher Secondary Student (HSC '28) at Govt. Azizul Haque College, Bogura
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,8,12,18&height=250&section=header&text=Md%20Mushfiqur%20Rahim&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20%26%20Silicon%20Architect%20%E2%80%A2%20Open-Source%20Contributor%20%E2%80%A2%20STEM%20Scholar&descFontSize=20&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=MD-Mushfiqur123&label=Profile%20Views&color=0088cc&style=flat-square)](https://github.com/MD-Mushfiqur123)
-[![Followers](https://img.shields.io/github/followers/MD-Mushfiqur123?label=Followers&style=flat-square&color=238636)](https://github.com/MD-Mushfiqur123?tab=followers)
-[![Public Repos](https://img.shields.io/badge/Public_Repos-520%2B-blue?style=flat-square)](https://github.com/MD-Mushfiqur123?tab=repositories)
-[![Verified Google Dev](https://img.shields.io/badge/Google_Developer-Verified-4285F4?style=flat-square&logo=google&logoColor=white)](https://me.developers.google.com/u/Mushfiqur)
-[![Google Skills Badges](https://img.shields.io/badge/Google_Skills-104%2B_Badges-34A853?style=flat-square&logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a)
-[![Harvard CS50x Certified](https://img.shields.io/badge/Harvard_CS50x-Certified-A51C30?style=flat-square&logo=harvard&logoColor=white)](https://cs50.harvard.edu/certificates/9fde6ff7-e81e-4c04-89cf-735b736004dd)
-[![Helsinki Full Stack Grade 5](https://img.shields.io/badge/Univ_of_Helsinki-FullStack_Grade_5-006699?style=flat-square)](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/fr/2459fbce85ad3bee10439f37870edb84)
-[![EF SET C1 English](https://img.shields.io/badge/EF_SET-C1_Advanced_(62%2F100)-E02475?style=flat-square)](https://cert.efset.org/G7yoSe)
-[![OPSWAT ICIP Graduate](https://img.shields.io/badge/OPSWAT-ICIP_Graduate-0B2F64?style=flat-square)](https://learn.opswatacademy.com/certificate/VuQ0lw-m0Q)
+<!-- Dynamic Typing SVG Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&multiline=false&width=860&lines=Building+Mlych+LLM+%26+DeepSeek-V4.1+Engines+%F0%9F%A7%A0;Govt.+Azizul+Haque+College+HSC+'28+Scholar+%F0%9F%8F%9B%EF%B8%8F;Harvard+CS50x+%26+Univ+of+Helsinki+Certified+%F0%9F%8F%85;Contributor+to+Docker%2C+Google%2C+AWS+%26+CNCF+%F0%9F%8C%90;Creator+of+M-2LRF+Extreme+Ternary+Quantization+%E2%9A%A1;Architecting+Autonomous+Agent+Swarms+%26+Silicon+%F0%9F%9A%80" alt="Typing Header" />
+</a>
+
+<br /><br />
+
+<!-- Animated Badges & Metrics -->
+[![Profile Views](https://komarev.com/ghpvc/?username=MD-Mushfiqur123&label=Profile%20Views&color=0088cc&style=for-the-badge&logo=eye)](https://github.com/MD-Mushfiqur123)
+[![Followers](https://img.shields.io/github/followers/MD-Mushfiqur123?label=Followers&style=for-the-badge&color=238636&logo=github)](https://github.com/MD-Mushfiqur123?tab=followers)
+[![Public Repos](https://img.shields.io/badge/Public_Repos-520%2B-blue?style=for-the-badge&logo=git&logoColor=white)](https://github.com/MD-Mushfiqur123?tab=repositories)
+[![Verified Google Dev](https://img.shields.io/badge/Google_Developer-Verified-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://me.developers.google.com/u/Mushfiqur)
+[![Harvard CS50x Certified](https://img.shields.io/badge/Harvard_CS50x-Certified-A51C30?style=for-the-badge&logo=harvard&logoColor=white)](https://cs50.harvard.edu/certificates/9fde6ff7-e81e-4c04-89cf-735b736004dd)
+[![Helsinki Full Stack Grade 5](https://img.shields.io/badge/Univ_of_Helsinki-FullStack_Grade_5-006699?style=for-the-badge)](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/fr/2459fbce85ad3bee10439f37870edb84)
+[![EF SET C1 English](https://img.shields.io/badge/EF_SET-C1_Advanced_(62%2F100)-E02475?style=for-the-badge)](https://cert.efset.org/G7yoSe)
+[![OPSWAT ICIP Graduate](https://img.shields.io/badge/OPSWAT-ICIP_Graduate-0B2F64?style=for-the-badge)](https://learn.opswatacademy.com/certificate/VuQ0lw-m0Q)
+
+</div>
 
 <br />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&multiline=false&width=800&lines=Building+Mlych+LLM+%26+DeepSeek-V4.1+Architectures+%F0%9F%A7%A0;Govt.+Azizul+Haque+College+HSC+'28+Scholar+%F0%9F%8F%9B%EF%B8%8F;Harvard+CS50x+%26+Univ+of+Helsinki+Certified+%F0%9F%8F%85;Contributor+to+Docker%2C+Google%2C+AWS+%26+CNCF+%F0%9F%8C%90;Creator+of+M-2LRF+Extreme+Ternary+Quantization+%E2%9A%A1" alt="Typing Header" />
-</a>
+---
 
-</div>
+## 🌟 About Me & Vision
+
+<table border="0" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td width="60%" style="border: none; vertical-align: top;">
+      <h3>👋 Welcome to my engineering galaxy!</h3>
+      <p>I am <b>Md Mushfiqur Rahim</b>, an AI systems researcher, silicon architect, and open-source engineer based in <b>Bangladesh 🇧🇩</b>.</p>
+      <ul>
+        <li>🏛️ <b>Academic Base:</b> <b>Govt. Azizul Haque College, Bogura</b> — <b>HSC Batch 2028 (HSC '28)</b></li>
+        <li>🧬 <b>Frontier Focus:</b> Large Language Model Architectures (DeepSeek-V4.1, Hyper-Connections, Engram, DSpark), 1.58-bit & 2-bit Ternary Residual Quantization (<b>M-2LRF</b>), and Autonomous Multi-Agent Swarms.</li>
+        <li>🌐 <b>Upstream Contributions:</b> <b>108+ merged pull requests</b> across industry backbone repositories including <b>Docker, Google, AWS Labs, CNCF etcd, and Prometheus</b>.</li>
+        <li>💻 <b>Polyglot Systems Hacker:</b> Python, Go, Rust, C++, TypeScript, CUDA, Assembly & SystemVerilog.</li>
+      </ul>
+    </td>
+    <td width="40%" align="center" style="border: none; vertical-align: middle;">
+      <img src="https://media.giphy.com/media/qgQUwnD5xNWVqGstaw/giphy.gif" width="300" alt="Coding GIF" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🌟 Executive Summary
-
-Hello world! I am **Md Mushfiqur Rahim**, an AI systems researcher, silicon/software architect, and STEM scholar from **Bangladesh 🇧🇩**.
-
-- 🏛️ **Academic Institution:** **Govt. Azizul Haque College, Bogura** — **HSC Batch 2028 (HSC '28)**
-- 🔬 **Core Specialization:** Deep Learning Foundations, Extreme Low-Bit Quantization (1.58-bit & 2-bit M-2LRF), Autonomous Multi-Agent Swarms, and High-Throughput Distributed Systems (Go, Rust, Python, C++, TypeScript).
-- 🌐 **Industry Upstream Impact:** **108+ merged pull requests** across global standard backbones including **Docker, Google, AWS Labs, CNCF etcd, and Prometheus**.
-
----
-
-## 🎓 Verified Global University & Enterprise Credentials
+## 🚀 Flagship Inventions & Research Architecture
 
 <div align="center">
 
-| Credential / Certificate | Institution / Issuer | Honors / Grade / Verification | Global Verification Link |
-| :--- | :--- | :---: | :---: |
-| 🏛️ **CS50x: Introduction to Computer Science** | **Harvard University** *(Prof. David J. Malan)* | 10 Problem Sets + 1 Final Project | [Verify Harvard Certificate](https://cs50.harvard.edu/certificates/9fde6ff7-e81e-4c04-89cf-735b736004dd) |
-| 🇫🇮 **Full Stack Open (7 ECTS Credits)** | **University of Helsinki** | **Grade 5 / 5** *(Max Honors, 158/158 Ex)* | [Verify Helsinki FullStack](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/fr/2459fbce85ad3bee10439f37870edb84) |
-| 🤖 **Elements of AI (2 ECTS Credits)** | **University of Helsinki & MinnaLearn** | 25/25 Exercises (100% Accuracy) | [Verify Elements of AI](https://certificates.mooc.fi/validate/1xw084tnsab) |
-| 🌍 **EF SET English Certificate** | **EF Standard English Test** | **C1 Advanced (62/100)** *(C2 Reading: 78)* | [Verify EF SET C1 Score](https://cert.efset.org/G7yoSe) |
-| 🛡️ **Critical Infrastructure Protection (ICIP)** | **OPSWAT Academy** | 0.50 CPE Credits (ISC2 Recognized) | [Verify OPSWAT Graduate](https://learn.opswatacademy.com/certificate/VuQ0lw-m0Q) |
-| ☁️ **Google Cloud & DeepMind Skills** | **Google Skills Boost** | **104+ Verified Skill Badges** | [Verify Google Profile](https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a) |
-| 🤖 **Anthropic AI Certifications** | **Anthropic** | Certified AI Developer (Claude Stack) | [Verify Anthropic Certificate](https://verify.skilljar.com/c/qp3mi4hhbpdk) |
+```
+                           ┌──────────────────────────┐
+                           │      MISSION MLYCH       │
+                           │   (1.3B Scaled LLM)      │
+                           └─────────────┬────────────┘
+                                         │
+        ┌────────────────────────────────┼────────────────────────────────┐
+        ▼                                ▼                                ▼
+┌────────────────┐             ┌────────────────────┐            ┌─────────────────┐
+│   CSA2 Sparse  │             │ Hyper-Connections  │            │  DSpark & MTP   │
+│   Attention    │             │   (4-Way Stream    │            │   Speculative   │
+│(Sliding+TopK)  │             │   + Sinkhorn Mix)  │            │   Draft Heads   │
+└────────────────┘             └────────────────────┘            └─────────────────┘
+        │                                │                                │
+        └────────────────────────────────┼────────────────────────────────┘
+                                         │
+                           ┌─────────────▼────────────┐
+                           │  M-2LRF QUANTIZATION     │
+                           │ (2-Bit Dual-Basis SVD)   │
+                           └──────────────────────────┘
+```
+
+| Inventions / Repositories | Core Architectural Highlights | Core Tech Stack |
+| :--- | :--- | :--- |
+| **[`Mission Mlych`](https://github.com/MD-Mushfiqur123/mission-mlych)** | Scaled foundation LLM engine utilizing DeepSeek-V4.1 architectural patterns (Hyper-Connections, Engram N-gram Hash Memory, DSpark Speculative Decoding, and sqrtsoftplus MoE) for the Noble Bangla Corpus. | `PyTorch` `BF16` `TileLang` `CUDA` `FastAPI` |
+| **[`m2lrf`](https://github.com/MD-Mushfiqur123/m2lrf)** | Ultra-extreme 2-bit & 1.58-bit ternary residual fusion quantization engine with 0-DSP multiplier arithmetic, 24D Leech Lattice, and $0.000\%$ catastrophic forgetting across $1,000,000+$ lines. | `PyTorch` `Triton` `C++` `SVD` `CUDA` |
+| **[`aero-propulsion`](https://github.com/MD-Mushfiqur123/aero-propulsion)** | Computational Rocket Propulsion & Orbital Dynamics Engine featuring de Laval supersonic nozzle CFD, RK4 ascent trajectory flight physics, and watertight 3D STL CAD generators. | `Python` `Physics CFD` `Orbital RK4` `Three.js` |
+| **[`lychee`](https://github.com/MD-Mushfiqur123/lychee)** | Universal high-speed local LLM runtime with HuggingFace pipeline integration, drop-in Ollama compatibility, and grammar-constrained structured decoding. | `Rust` `Python` `LLM Runtime` `GGUF` |
+| **[`500-AI-Projects`](https://github.com/MD-Mushfiqur123/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)** | Curated, production-ready encyclopedia of 500+ AI, Machine Learning, Deep Learning, CV, and NLP implementations with clean code. | `Python` `PyTorch` `TensorFlow` `NLP` `CV` |
 
 </div>
 
 ---
 
-## 🏛️ High-Impact Open-Source Contributions
+## 🏛️ Upstream Industry Open-Source Track Record
 
-A proven track record of contributing to upstream industry standards and cloud-native backbones:
+<div align="center">
+
+<img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="220" align="right" alt="Git Hub GIF" />
 
 | Organization / Repository | Focus Area & Impact | Project Stars |
 | :--- | :--- | :---: |
@@ -67,30 +103,18 @@ A proven track record of contributing to upstream industry standards and cloud-n
 | 🐚 **[Oh My Zsh (ohmyzsh/ohmyzsh)](https://github.com/ohmyzsh/ohmyzsh)** | Community-driven framework for Zsh shell environments | `175k+ ⭐` |
 | 🗄️ **[ClickHouse (ClickHouse/clickhouse-go)](https://github.com/ClickHouse/clickhouse-go)** | High-throughput columnar database driver in Golang | `1.8k+ ⭐` |
 
----
-
-## 🚀 Flagship Research & Engineering Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[`Mission Mlych`](https://github.com/MD-Mushfiqur123/mission-mlych)** | Scaled foundation LLM engine utilizing DeepSeek-V4.1-Flash architectural patterns (Hyper-Connections, Engram, DSpark, sqrtsoftplus MoE) for the Noble Bangla corpus. | `PyTorch` `BF16` `MoE` `CUDA` `FastAPI` |
-| **[`m2lrf`](https://github.com/MD-Mushfiqur123/m2lrf)** | Ultra-extreme 2-bit & 1.58-bit ternary residual fusion quantization engine with 0-DSP multiplier arithmetic and $0.000\%$ catastrophic forgetting. | `PyTorch` `Triton` `C++` `SVD` `CUDA` |
-| **[`aero-propulsion`](https://github.com/MD-Mushfiqur123/aero-propulsion)** | Computational Rocket Propulsion & Orbital Dynamics Engine with de Laval supersonic nozzle CFD and watertight 3D STL spacecraft CAD generators. | `Python` `Physics CFD` `Orbital RK4` `Three.js` |
-| **[`lychee`](https://github.com/MD-Mushfiqur123/lychee)** | Universal high-speed local LLM runtime with HuggingFace pipeline integration and grammar-constrained structured decoding. | `Rust` `Python` `LLM Runtime` `GGUF` |
-| **[`500-AI-Projects`](https://github.com/MD-Mushfiqur123/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)** | Curated, production-ready repository of 500+ AI, Machine Learning, Deep Learning, CV, and NLP solutions. | `Python` `PyTorch` `TensorFlow` `NLP` `CV` |
-
 </div>
 
+<div style="clear: both;"></div>
+
 ---
 
-## 🛠️ Technical Arsenal & Skills
+## 🛠️ Full-Stack & Systems Technical Arsenal
 
 ### 💻 Systems & Programming Languages
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,rust,python,ts,js,cpp,c,bash,sql,html,css&theme=dark" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=go,rust,python,ts,js,cpp,c,java,bash,sql,html,css&theme=dark" alt="Languages" />
   </a>
 </div>
 
@@ -123,7 +147,7 @@ A proven track record of contributing to upstream industry standards and cloud-n
 
 ---
 
-## 📊 Activity & Community Metrics
+## 📊 Live GitHub Telemetry & Stats
 
 <div align="center">
 
@@ -131,12 +155,19 @@ A proven track record of contributing to upstream industry standards and cloud-n
   <tr style="border: none;">
     <td align="center" style="border: none;" width="50%">
       <a href="https://github.com/MD-Mushfiqur123">
-        <img src="https://github-readme-stats.vercel.app/api?username=MD-Mushfiqur123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=MD-Mushfiqur123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="100%" />
       </a>
     </td>
     <td align="center" style="border: none;" width="50%">
       <a href="https://github.com/MD-Mushfiqur123">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=MD-Mushfiqur123&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td align="center" colspan="2" style="border: none;" width="100%">
+      <a href="https://github.com/MD-Mushfiqur123">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-Mushfiqur123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="65%" />
       </a>
     </td>
   </tr>
@@ -152,7 +183,7 @@ A proven track record of contributing to upstream industry standards and cloud-n
 
 ---
 
-## 🎖️ Verified Certificates & Credentials Gallery
+## 🏆 Verified Global University & Enterprise Credentials Gallery
 
 <div align="center">
 
@@ -160,40 +191,46 @@ A proven track record of contributing to upstream industry standards and cloud-n
   <tr>
     <td align="center" width="33%">
       <a href="https://cs50.harvard.edu/certificates/9fde6ff7-e81e-4c04-89cf-735b736004dd">
-        <img src="assets/certificates/harvard_cs50x_certificate.png" width="240" alt="Harvard CS50x Certificate" /><br />
-        <sub><b>Harvard CS50x: Computer Science</b></sub>
+        <img src="assets/certificates/harvard_cs50x_certificate.png" width="260" alt="Harvard CS50x Certificate" /><br />
+        <sub><b>Harvard CS50x: Computer Science</b></sub><br />
+        <sub><i>Prof. David J. Malan</i></sub>
       </a>
     </td>
     <td align="center" width="33%">
       <a href="https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/fr/2459fbce85ad3bee10439f37870edb84">
-        <img src="assets/certificates/helsinki_fullstack_grade5_certificate.png" width="240" alt="Univ of Helsinki Full Stack Grade 5" /><br />
-        <sub><b>Univ of Helsinki: Full Stack (Grade 5, 7 ECTS)</b></sub>
+        <img src="assets/certificates/helsinki_fullstack_grade5_certificate.png" width="260" alt="Univ of Helsinki Full Stack Grade 5" /><br />
+        <sub><b>Univ of Helsinki: Full Stack</b></sub><br />
+        <sub><i>Grade 5 / 5 (Max Honors, 7 ECTS)</i></sub>
       </a>
     </td>
     <td align="center" width="33%">
       <a href="https://certificates.mooc.fi/validate/1xw084tnsab">
-        <img src="assets/certificates/helsinki_elements_of_ai_certificate.png" width="240" alt="Univ of Helsinki Elements of AI" /><br />
-        <sub><b>Univ of Helsinki: Elements of AI (2 ECTS)</b></sub>
+        <img src="assets/certificates/helsinki_elements_of_ai_certificate.png" width="260" alt="Univ of Helsinki Elements of AI" /><br />
+        <sub><b>Univ of Helsinki: Elements of AI</b></sub><br />
+        <sub><i>2 ECTS Credits (25/25 Exercises)</i></sub>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
       <a href="https://cert.efset.org/G7yoSe">
-        <img src="assets/certificates/efset_c1_english_certificate.png" width="240" alt="EF SET C1 English Certificate" /><br />
-        <sub><b>EF SET: C1 Advanced English (62/100)</b></sub>
+        <img src="assets/certificates/efset_c1_english_certificate.png" width="260" alt="EF SET C1 English Certificate" /><br />
+        <sub><b>EF SET: C1 Advanced English</b></sub><br />
+        <sub><i>Score: 62/100 (C2 Reading: 78)</i></sub>
       </a>
     </td>
     <td align="center" width="33%">
       <a href="https://learn.opswatacademy.com/certificate/VuQ0lw-m0Q">
-        <img src="assets/certificates/opswat_icip_critical_infrastructure_certificate.png" width="240" alt="OPSWAT ICIP Certificate" /><br />
-        <sub><b>OPSWAT: Critical Infrastructure Protection</b></sub>
+        <img src="assets/certificates/opswat_icip_critical_infrastructure_certificate.png" width="260" alt="OPSWAT ICIP Certificate" /><br />
+        <sub><b>OPSWAT: Critical Infrastructure Protection</b></sub><br />
+        <sub><i>Graduate Credential (ID: VuQ0lw-m0Q)</i></sub>
       </a>
     </td>
     <td align="center" width="33%">
       <a href="https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a">
         <img src="https://cdn.qwiklabs.com/%2BoWdm%2FHzI%2FCAdbH%2BVisNVqZNrjaLwl24mARfInT99b0%3D" width="130" alt="Google Cloud Skills" /><br />
-        <sub><b>Google Cloud & DeepMind: 104+ Badges</b></sub>
+        <sub><b>Google Cloud & DeepMind</b></sub><br />
+        <sub><i>104+ Verified Skill Badges</i></sub>
       </a>
     </td>
   </tr>
@@ -207,6 +244,11 @@ A proven track record of contributing to upstream industry standards and cloud-n
 
 <div align="center">
 
+<p>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="50" alt="Connect GIF" />
+  <b>Let's build the next generation of intelligent computing together!</b>
+</p>
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MD-Mushfiqur123)
 [![Google Developer](https://img.shields.io/badge/Google_Developer-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://me.developers.google.com/u/Mushfiqur)
 [![Google Skills](https://img.shields.io/badge/Google_Skills-34A853?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a)
@@ -216,14 +258,9 @@ A proven track record of contributing to upstream industry standards and cloud-n
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/profile.php?id=100090048324727)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:20monikaakthar@gmail.com)
 
-</div>
+<br /><br />
 
----
-
-<div align="center">
-
-> *“Code with purpose, build with passion, and engineer for impact.”*
-
-**⭐️ Star any repository you find helpful & feel free to connect!**
+<!-- Animated Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,12,8,4,2,0&height=120&section=footer" width="100%" alt="Footer Banner" />
 
 </div>
