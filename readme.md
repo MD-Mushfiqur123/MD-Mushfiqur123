@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Cyber Matrix Animation Banner -->
-<img src="https://raw.githubusercontent.com/MD-Mushfiqur123/MD-Mushfiqur123/main/assets/gifs/matrix_rain.gif" width="100%" height="170" style="object-fit: cover; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,255,255,0.2);" alt="Matrix Banner" />
+<img src="https://raw.githubusercontent.com/MD-Mushfiqur123/MD-Mushfiqur123/main/assets/gifs/matrix_rain.gif" width="100%" height="180" style="object-fit: cover; border-radius: 12px; box-shadow: 0 4px 25px rgba(0,255,255,0.25);" alt="Matrix Banner" />
 
 <br /><br />
 
@@ -13,7 +13,7 @@
 
 <!-- Dynamic Typing SVG Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&multiline=false&width=860&lines=Building+Mlych+LLM+%26+DeepSeek-V4.1+Engines+%F0%9F%A7%A0;DropLychee+AI+Founder+%26+Foundation+Model+Builder+%F0%9F%8D%92;Govt.+Azizul+Haque+College+HSC+'28+Scholar+%F0%9F%8F%9B%EF%B8%8F;Harvard+CS50x+%26+Univ+of+Helsinki+Grade+5+Honors+%F0%9F%8F%85;Contributor+to+Docker%2C+Google%2C+AWS+%26+CNCF+%F0%9F%8C%90;Creator+of+M-2LRF+Extreme+Ternary+Quantization+%E2%9A%A1" alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&multiline=false&width=860&lines=Building+Mlych+LLM+%26+DeepSeek-V4.1+Engines+%F0%9F%A7%A0;DropLychee+AI+Founder+%26+Foundation+Model+Builder+%F0%9F%8D%92;Govt.+Azizul+Haque+College+HSC+'28+Scholar+%F0%9F%8F%9B%EF%B8%8F;Harvard+CS50x+%26+Univ+of+Helsinki+Grade+5+Honors+%F0%9F%8F%85;Contributor+to+Docker%2C+Google%2C+AWS+%26+CNCF+%F0%9F%8C%90;Creator+of+M-2LRF+Extreme+Ternary+Quantization+%E2%9A%A1;Architecting+Autonomous+Agent+Swarms+%26+Silicon+%F0%9F%9A%80" alt="Typing Header" />
 </a>
 
 <br /><br />
@@ -36,24 +36,25 @@
 
 ---
 
-## 🌟 Executive Summary & Engineering Vision
+## 🌟 Executive Summary & Engineering Philosophy
 
 <table border="0" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
-    <td width="62%" style="border: none; vertical-align: top;">
+    <td width="64%" style="border: none; vertical-align: top;">
       <h3>👋 Welcome to my engineering galaxy!</h3>
       <p>I am <b>Md Mushfiqur Rahim</b>, an AI systems researcher, silicon/software architect, and open-source engineer from <b>Bangladesh 🇧🇩</b>.</p>
       <ul>
         <li>🏛️ <b>Academic Base:</b> <b>Govt. Azizul Haque College, Bogura</b> — <b>HSC Batch 2028 (HSC '28)</b></li>
         <li>🧬 <b>Frontier LLM Architectures:</b> Scaled foundation models (<b>Mission Mlych</b>, DeepSeek-V4.1 patterns, Hyper-Connections, Engram, DSpark).</li>
-        <li>⚡ <b>Extreme Quantization:</b> 1.58-bit & 2-bit Ternary Residual Quantization (<b>M-2LRF</b>) with 0-DSP multiplier arithmetic and $0.000\%$ catastrophic forgetting.</li>
+        <li>⚡ <b>Extreme Quantization:</b> 1.58-bit & 2-bit Ternary Residual Quantization (<b>M-2LRF</b>) with 0-DSP multiplier arithmetic and $0.000\%$ catastrophic forgetting across $1,000,000+$ lines.</li>
         <li>🤗 <b>Hugging Face Ecosystem:</b> Founder of <b><a href="https://huggingface.co/droplychee">DropLychee</a></b> (40,000+ total downloads) & <b><a href="https://huggingface.co/MD-Mushfiqur123">MD-Mushfiqur123</a></b>.</li>
         <li>🌐 <b>Industry Upstream Impact:</b> <b>108+ merged pull requests</b> across <b>Docker, Google, AWS Labs, CNCF etcd, and Prometheus</b>.</li>
+        <li>🛡️ <b>Cyber Defense & Aerospace:</b> Creator of <b>Shadow-Omni</b> full-spectrum security suite and <b>Aero-Propulsion</b> rocket CFD engine.</li>
         <li>💻 <b>Polyglot Systems Hacker:</b> Python, Go, Rust, C++, TypeScript, CUDA, Assembly & SystemVerilog.</li>
       </ul>
     </td>
-    <td width="38%" align="center" style="border: none; vertical-align: middle;">
-      <img src="https://raw.githubusercontent.com/MD-Mushfiqur123/MD-Mushfiqur123/main/assets/gifs/neon_code.gif" width="300" style="border-radius: 10px;" alt="Coding Animation" />
+    <td width="36%" align="center" style="border: none; vertical-align: middle;">
+      <img src="https://raw.githubusercontent.com/MD-Mushfiqur123/MD-Mushfiqur123/main/assets/gifs/neon_code.gif" width="300" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(88,166,255,0.3);" alt="Coding Animation" />
     </td>
   </tr>
 </table>
@@ -64,7 +65,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MD-Mushfiqur123/MD-Mushfiqur123/main/assets/gifs/neural_network.gif" width="100%" height="150" style="object-fit: cover; border-radius: 8px;" alt="Neural Network Animation" />
+<img src="https://raw.githubusercontent.com/MD-Mushfiqur123/MD-Mushfiqur123/main/assets/gifs/neural_network.gif" width="100%" height="160" style="object-fit: cover; border-radius: 10px;" alt="Neural Network Animation" />
 
 <br /><br />
 
@@ -95,7 +96,9 @@
 | **[`Mission Mlych`](https://github.com/MD-Mushfiqur123/mission-mlych)** | Scaled foundation LLM engine utilizing DeepSeek-V4.1 architectural patterns (Hyper-Connections, Engram N-gram Hash Memory, DSpark Speculative Decoding, and sqrtsoftplus MoE) for the Noble Bangla Corpus. | `PyTorch` `BF16` `TileLang` `CUDA` `FastAPI` |
 | **[`m2lrf`](https://github.com/MD-Mushfiqur123/m2lrf)** | Ultra-extreme 2-bit & 1.58-bit ternary residual fusion quantization engine with 0-DSP multiplier arithmetic, 24D Leech Lattice, and $0.000\%$ catastrophic forgetting across $1,000,000+$ lines. | `PyTorch` `Triton` `C++` `SVD` `CUDA` |
 | **[`aero-propulsion`](https://github.com/MD-Mushfiqur123/aero-propulsion)** | Computational Rocket Propulsion & Orbital Dynamics Engine featuring de Laval supersonic nozzle CFD, RK4 ascent trajectory flight physics, and watertight 3D STL CAD generators. | `Python` `Physics CFD` `Orbital RK4` `Three.js` |
+| **[`shadow-omni`](https://github.com/MD-Mushfiqur123/shadow-omni)** | Full-Spectrum Cyber Reconnaissance, Threat Intel, SAST AST Sink Analysis, DAST JWT Cracker & Wire-Level Packet Monitoring Defense Suite. | `Python` `CyberSec` `SAST/DAST` `Networking` |
 | **[`lychee`](https://github.com/MD-Mushfiqur123/lychee)** | Universal high-speed local LLM runtime with HuggingFace pipeline integration, drop-in Ollama compatibility, and grammar-constrained structured decoding. | `Rust` `Python` `LLM Runtime` `GGUF` |
+| **[`matcha`](https://github.com/MD-Mushfiqur123/matcha)** | Sleek, fast, keyboard-driven terminal email client built with Go and Bubble Tea TUI with IMAP/SMTP synchronization. | `Go` `Bubble Tea` `TUI` `IMAP/SMTP` |
 | **[`500-AI-Projects`](https://github.com/MD-Mushfiqur123/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)** | Curated, production-ready encyclopedia of 500+ AI, Machine Learning, Deep Learning, CV, and NLP implementations with clean code. | `Python` `PyTorch` `TensorFlow` `NLP` `CV` |
 
 </div>
@@ -260,23 +263,24 @@
 
 ---
 
-## 📊 Live GitHub Telemetry & Stats
+## 📊 Live Telemetry & Engineering Output
 
 <div align="center">
 
-<table border="0" style="border-collapse: collapse; border: none;">
+<table border="0" style="border-collapse: collapse; border: none; width: 95%;">
   <tr style="border: none;">
     <td align="center" style="border: none;" width="50%">
-      <table border="1" cellpadding="10" style="border-collapse: collapse; border-color: #30363d; background: #0d1117; width: 100%; border-radius: 8px;">
+      <table border="1" cellpadding="12" style="border-collapse: collapse; border-color: #30363d; background: #0d1117; width: 100%; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);">
         <tr>
           <td align="left" style="color: #58a6ff; font-family: monospace;">
-            <b>⚡ GITHUB LIVE AUDIT METRICS</b><br />
-            ────────────────────────────<br />
-            • <b>Total Public Repositories:</b> <code>530+</code><br />
-            • <b>Total Contributions Logged:</b> <code>136,885+</code><br />
-            • <b>Merged Industry Upstream PRs:</b> <code>108+</code><br />
-            • <b>Global Followers:</b> <code>50+</code><br />
-            • <b>Account Status:</b> <code>Active Contributor & Scholar</code>
+            <b style="color: #58a6ff; font-size: 14px;">⚡ GITHUB LIVE AUDIT METRICS</b><br />
+            ────────────────────────────────────<br />
+            • <b>Total Public Repositories:</b> <code style="color: #7ee787;">531+</code><br />
+            • <b>Total Contributions Logged:</b> <code style="color: #7ee787;">136,885+</code><br />
+            • <b>Merged Industry Upstream PRs:</b> <code style="color: #7ee787;">108+</code><br />
+            • <b>HuggingFace DropLychee Downloads:</b> <code style="color: #7ee787;">40,000+</code><br />
+            • <b>Global Followers & Network:</b> <code style="color: #7ee787;">50+</code><br />
+            • <b>Account Status:</b> <code style="color: #d2a8ff;">Active Lead Architect</code>
           </td>
         </tr>
       </table>
@@ -360,7 +364,8 @@
 </p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MD-Mushfiqur123)
-[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/droplychee)
+[![Hugging Face Org](https://img.shields.io/badge/HuggingFace-DropLychee-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/droplychee)
+[![Hugging Face User](https://img.shields.io/badge/HuggingFace-MD--Mushfiqur123-FF9D00?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/MD-Mushfiqur123)
 [![Google Developer](https://img.shields.io/badge/Google_Developer-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://me.developers.google.com/u/Mushfiqur)
 [![Google Skills](https://img.shields.io/badge/Google_Skills-34A853?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-mushfiqur123)
@@ -372,6 +377,6 @@
 <br /><br />
 
 <!-- Animated Quantum Core Footer -->
-<img src="https://raw.githubusercontent.com/MD-Mushfiqur123/MD-Mushfiqur123/main/assets/gifs/quantum_core.gif" width="100%" height="80" style="object-fit: cover; border-radius: 8px;" alt="Quantum Footer" />
+<img src="https://raw.githubusercontent.com/MD-Mushfiqur123/MD-Mushfiqur123/main/assets/gifs/quantum_core.gif" width="100%" height="85" style="object-fit: cover; border-radius: 8px;" alt="Quantum Footer" />
 
 </div>
