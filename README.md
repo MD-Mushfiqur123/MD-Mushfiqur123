@@ -121,7 +121,17 @@ impact:
 
 <div align="center">
 
-<img src="github-metrics.svg" alt="GitHub Metrics — Isometric Calendar, Habits, Languages" />
+<img src="github-metrics.png" alt="GitHub Metrics — Isometric Calendar, Habits, Languages" />
+
+</div>
+
+---
+
+## 🗺️ 3D Contribution Landscape
+
+<div align="center">
+
+<img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Night Rainbow" />
 
 </div>
 
