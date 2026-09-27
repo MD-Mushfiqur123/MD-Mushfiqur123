@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2600&pause=800&color=00F2FE&center=true&vCenter=true&width=750&lines=108%2B+Merged+PRs+%E2%80%94+Docker+%7C+Google+%7C+AWS+%7C+CNCF+%7C+Oh+My+Zsh;Founder+of+DropLychee+%E2%80%94+40%2C000%2B+HuggingFace+Downloads;Building+Mission+Mlych+%E2%80%94+1.3B+Custom+SLM;DeepSeek+V4.1+Flash+%26+Engram+Architecture+Research;Anthropic+Certified+Developer+%E2%80%A2+Mensan+%E2%80%A2+16+y%2Fo+%E2%80%A2+HSC+%2728)](https://github.com/MD-Mushfiqur123)
+[![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2600&pause=800&color=00F2FE&center=true&vCenter=true&width=750&lines=108%2B+Merged+PRs+%E2%80%94+Docker+%7C+Google+%7C+AWS+%7C+CNCF+%7C+Oh+My+Zsh;Founder+of+DropLychee+%E2%80%94+40%2C000%2B+HuggingFace+Downloads;Building+Mission+Mlych+%E2%80%94+1.3B+Custom+SLM;Systems+%26+AI+Researcher+%E2%80%A2+16+y%2Fo+%E2%80%A2+HSC+%2728+Science)](https://github.com/MD-Mushfiqur123)
 
 <br/>
 
@@ -32,14 +32,13 @@
 identity:
   name      : "Md Mushfiqur Rahim"
   age       : 16
-  iq        : "Mensan (Top 1% globally)"
   location  : "Bogura, Bangladesh 🇧🇩"
   education : "HSC '28 Science | Govt. Azizul Haque College"
 
 focus:
   flagship  : "Mission Mlych — 1.3B Custom SLM"
   research  :
-    - "DeepSeek-V4.1-Flash: Engram Kernels, DSpark, Hyper-Connections"
+    - "High-performance AI model architectures & tokenizers"
     - "M-2LRF (2-bit Low-Rank Factorization)"
     - "Shadow-Omni: Multimodal vision-speech-text stream reasoning"
     - "Aero-Propulsion telemetry physics simulations"
