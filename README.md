@@ -72,9 +72,11 @@
 <!-- 3-Year Contribution Journey & Snake Grid Section -->
 <h3 align="center">🐍 3-Year Continuous Contribution Matrix &amp; Snake Grid</h3>
 <p align="center">
-  <a href="https://github.com/MD-Mushfiqur123/MD-Mushfiqur123">
-    <img src="https://raw.githubusercontent.com/MD-Mushfiqur123/MD-Mushfiqur123/main/dist/github-contribution-grid-snake-dark.svg" width="100%" style="border-radius: 10px; border: 1px solid #30363d;" alt="3-Year Contribution Grid Snake Game" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Grid Snake Animation" src="dist/github-contribution-grid-snake-dark.svg" width="100%" style="border-radius: 10px; border: 1px solid #30363d;" />
+  </picture>
 </p>
 
 <p align="center">
