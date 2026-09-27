@@ -193,16 +193,16 @@ impact:
 
 <table border="0" width="100%">
   <tr>
-    <td width="38%" align="center" valign="middle">
+    <td width="42%" align="center" valign="middle">
       <a href="https://cert.efset.org/G7yoSe">
         <img src="assets/certificates/efset-c1-advanced.jpg" width="100%" style="border-radius:12px;border:1px solid #30363d;" alt="EF SET English Certificate C1 Advanced" />
       </a>
       <br/><br/>
       <a href="https://cert.efset.org/G7yoSe"><img src="https://img.shields.io/badge/EF%20SET-C1%20Advanced%20(Reading%20C2)-000000?style=flat-square" /></a>
     </td>
-    <td width="62%" align="center" valign="middle">
+    <td width="58%" align="center" valign="middle">
       <a href="https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a">
-        <img src="https://raw.githubusercontent.com/MD-Mushfiqur123/repo-google-dev/refs/heads/main/www-skills-google-public_profiles-f65660d4-2a1e-48ba-8431-998055be793a.jpg" width="100%" style="border-radius:12px;border:1px solid #30363d;" alt="Google Cloud Skills Official Certificate" />
+        <img src="assets/certificates/google-cloud-skills.png" width="100%" style="border-radius:12px;border:1px solid #30363d;" alt="Google Cloud Skills — Diamond League & Arcade Certification" />
       </a>
       <br/><br/>
       <a href="https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a"><img src="https://img.shields.io/badge/Google%20Cloud-Skills%20Profile-4285F4?style=flat-square&logo=google-cloud&logoColor=white" /></a>
