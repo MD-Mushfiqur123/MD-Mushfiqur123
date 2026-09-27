@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="150" viewBox="0 0 840 150" fill="none">
+  <defs>
+    <style>
+      .bg-card { fill: #1a1b26; stroke: #24283b; stroke-width: 1.5; rx: 12px; }
+      .trophy-title { font-family: 'Segoe UI', Ubuntu, Sans-Serif; font-size: 11px; font-weight: 600; fill: #7aa2f7; text-anchor: middle; }
+      .trophy-rank { font-family: 'Segoe UI', Ubuntu, Sans-Serif; font-size: 18px; font-weight: 800; text-anchor: middle; }
+      .trophy-desc { font-family: 'Segoe UI', Ubuntu, Sans-Serif; font-size: 10px; font-weight: 500; fill: #a9b1d6; text-anchor: middle; }
+      .glow-gold { filter: drop-shadow(0px 0px 6px rgba(224, 175, 104, 0.6)); }
+      .glow-diamond { filter: drop-shadow(0px 0px 6px rgba(125, 207, 255, 0.6)); }
+      .glow-purple { filter: drop-shadow(0px 0px 6px rgba(187, 154, 247, 0.6)); }
+    </style>
+    
+    <!-- Linear Gradients -->
+    <linearGradient id="grad-diamond" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7dcfff" />
+      <stop offset="100%" stop-color="#00f2fe" />
+    </linearGradient>
+    <linearGradient id="grad-gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff9e64" />
+      <stop offset="100%" stop-color="#e0af68" />
+    </linearGradient>
+    <linearGradient id="grad-purple" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#bb9af7" />
+      <stop offset="100%" stop-color="#7aa2f7" />
+    </linearGradient>
+    <linearGradient id="grad-emerald" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#73daca" />
+      <stop offset="100%" stop-color="#9ece6a" />
+    </linearGradient>
+
+    <!-- Trophy Icon Def -->
+    <g id="trophy-cup">
+      <path d="M16 8h16v12c0 4.418-3.582 8-8 8s-8-3.582-8-8V8z" />
+      <path d="M12 10H8c-1.105 0-2 .895-2 2v2c0 3.314 2.686 6 6 6h4" fill="none" stroke-width="2" stroke-linecap="round" />
+      <path d="M36 10h4c1.105 0 2 .895 2 2v2c0 3.314-2.686 6-6 6h-4" fill="none" stroke-width="2" stroke-linecap="round" />
+      <path d="M24 28v6M18 34h12" stroke-width="2.5" stroke-linecap="round" />
+    </g>
+  </defs>
+
+  <!-- CARD 1: Pull Requests (SSS Rank) -->
+  <g transform="translate(10, 10)">
+    <rect width="125" height="130" class="bg-card" />
+    <text x="62.5" y="24" class="trophy-title">PR MASTER</text>
+    <g transform="translate(38.5, 30)" class="glow-diamond" fill="url(#grad-diamond)" stroke="url(#grad-diamond)">
+      <use href="#trophy-cup" />
+    </g>
+    <text x="62.5" y="95" class="trophy-rank" fill="url(#grad-diamond)">SSS</text>
+    <text x="62.5" y="112" class="trophy-desc">108+ Merged PRs</text>
+    <text x="62.5" y="123" class="trophy-desc" fill="#565f89">Docker • CNCF • AWS</text>
+  </g>
+
+  <!-- CARD 2: Repositories (S Rank) -->
+  <g transform="translate(148, 10)">
+    <rect width="125" height="130" class="bg-card" />
+    <text x="62.5" y="24" class="trophy-title">REPO CREATOR</text>
+    <g transform="translate(38.5, 30)" class="glow-gold" fill="url(#grad-gold)" stroke="url(#grad-gold)">
+      <use href="#trophy-cup" />
+    </g>
+    <text x="62.5" y="95" class="trophy-rank" fill="url(#grad-gold)">S</text>
+    <text x="62.5" y="112" class="trophy-desc">520+ Repositories</text>
+    <text x="62.5" y="123" class="trophy-desc" fill="#565f89">Architect & Dev</text>
+  </g>
+
+  <!-- CARD 3: Community Impact (SSS Rank) -->
+  <g transform="translate(286, 10)">
+    <rect width="125" height="130" class="bg-card" />
+    <text x="62.5" y="24" class="trophy-title">HF IMPACT</text>
+    <g transform="translate(38.5, 30)" class="glow-diamond" fill="url(#grad-diamond)" stroke="url(#grad-diamond)">
+      <use href="#trophy-cup" />
+    </g>
+    <text x="62.5" y="95" class="trophy-rank" fill="url(#grad-diamond)">SSS</text>
+    <text x="62.5" y="112" class="trophy-desc">40,000+ Downloads</text>
+    <text x="62.5" y="123" class="trophy-desc" fill="#565f89">DropLychee SLMs</text>
+  </g>
+
+  <!-- CARD 4: Commits & Code (A Rank) -->
+  <g transform="translate(424, 10)">
+    <rect width="125" height="130" class="bg-card" />
+    <text x="62.5" y="24" class="trophy-title">COMMITS</text>
+    <g transform="translate(38.5, 30)" class="glow-purple" fill="url(#grad-purple)" stroke="url(#grad-purple)">
+      <use href="#trophy-cup" />
+    </g>
+    <text x="62.5" y="95" class="trophy-rank" fill="url(#grad-purple)">A</text>
+    <text x="62.5" y="112" class="trophy-desc">Active Streak</text>
+    <text x="62.5" y="123" class="trophy-desc" fill="#565f89">Daily Engine Work</text>
+  </g>
+
+  <!-- CARD 5: Organizations (S Rank) -->
+  <g transform="translate(562, 10)">
+    <rect width="125" height="130" class="bg-card" />
+    <text x="62.5" y="24" class="trophy-title">GLOBAL REACH</text>
+    <g transform="translate(38.5, 30)" class="glow-emerald" fill="url(#grad-emerald)" stroke="url(#grad-emerald)">
+      <use href="#trophy-cup" />
+    </g>
+    <text x="62.5" y="95" class="trophy-rank" fill="url(#grad-emerald)">S</text>
+    <text x="62.5" y="112" class="trophy-desc">66+ Organizations</text>
+    <text x="62.5" y="123" class="trophy-desc" fill="#565f89">World-Scale OSS</text>
+  </g>
+
+  <!-- CARD 6: Certifications (SSS Rank) -->
+  <g transform="translate(700, 10)">
+    <rect width="125" height="130" class="bg-card" />
+    <text x="62.5" y="24" class="trophy-title">SPECIALIST</text>
+    <g transform="translate(38.5, 30)" class="glow-diamond" fill="url(#grad-diamond)" stroke="url(#grad-diamond)">
+      <use href="#trophy-cup" />
+    </g>
+    <text x="62.5" y="95" class="trophy-rank" fill="url(#grad-diamond)">SSS</text>
+    <text x="62.5" y="112" class="trophy-desc">Anthropic & GCP</text>
+    <text x="62.5" y="123" class="trophy-desc" fill="#565f89">14x Kaggle ML</text>
+  </g>
+</svg>

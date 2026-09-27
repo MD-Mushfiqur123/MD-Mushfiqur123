@@ -150,11 +150,15 @@ impact:
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies & Milestones
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=MD-Mushfiqur123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="assets/github-trophies.svg" width="100%" alt="GitHub Profile Trophies — PR Master, Repo Creator, HF Impact, Commits, Global Reach, Specialist" />
+
+<br/><br/>
+
+[![Streak Stats](https://streak-stats.demolab.com/?user=MD-Mushfiqur123&theme=tokyonight&hide_border=true)](https://github.com/MD-Mushfiqur123)
 
 </div>
 
