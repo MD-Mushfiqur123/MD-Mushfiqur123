@@ -121,7 +121,7 @@ impact:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MD-Mushfiqur123/MD-Mushfiqur123/main/github-metrics.svg" width="95%" alt="GitHub Metrics — Isometric Calendar, Habits, Languages" />
+<img src="github-metrics.svg" alt="GitHub Metrics — Isometric Calendar, Habits, Languages" />
 
 </div>
 
