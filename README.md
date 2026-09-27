@@ -12,7 +12,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=MD-Mushfiqur123&color=00F2FE&style=flat-square&label=Profile+Views)](https://github.com/MD-Mushfiqur123)
 &nbsp;
-[![Followers](https://img.shields.io/github/followers/MD-Mushfiqur123?style=flat-square&color=00F2FE&label=Followers)](https://github.com/MD-Mushfiqur123?tab=followers)
+[![Followers](https://img.shields.io/github/followers/MD-Mushfiqur123?style=flat-square&color=00F2FE&label=Followers)](https://github.com/MD-Mushfiqur123)
 &nbsp;
 [![Stars](https://img.shields.io/github/stars/MD-Mushfiqur123?style=flat-square&color=00F2FE&label=Total+Stars)](https://github.com/MD-Mushfiqur123?tab=repositories&sort=stargazers)
 &nbsp;
@@ -172,53 +172,111 @@ impact:
 
 ## 🎓 Verified Certifications & Credentials
 
+### 🤖 Anthropic AI — Certified Developer
+
 <div align="center">
 
-| Organization | Credential | Domain / Level | Verification |
-| :--- | :--- | :---: | :---: |
-| 🤖 **Anthropic** | Certified AI Developer (Claude Code & Vertex) | AI Engineering | [↗ Verify](https://verify.skilljar.com/c/qp3mi4hhbpdk) |
-| ☁️ **Google Cloud** | Google Cloud Skills Certified | Cloud Architecture | [↗ Official Profile](https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a) |
-| 🧠 **Google / Kaggle** | Machine Learning & Deep Learning Suite | **14x Specializations** | ✅ Completed |
-| 🇬🇧 **EF Standard** | Official English Certificate | **C1 Advanced** (Reading **C2**) | [↗ cert.efset.org/G7yoSe](https://cert.efset.org/G7yoSe) |
-| 🏛️ **Univ. of Helsinki** | Elements of AI & Full Stack Open | CS & Neural Foundations | ✅ Completed |
+| Certificate | Issuer | Verification |
+| :--- | :--- | :---: |
+| **Claude Code in Action** | Anthropic | [↗ View Credential](https://verify.skilljar.com/c/qp3mi4hhbpdk) |
+| **Claude with Google Vertex AI** | Anthropic | [↗ View Credential](https://verify.skilljar.com/c/6euhyoyfxevg) |
+| **Claude 101** | Anthropic | ✅ Verified |
+| **Claude Code 101** | Anthropic | ✅ Verified |
+| **AI Fluency for Students** | Anthropic × UCC × Ringling × HEA | ✅ Verified |
+| **AI Fluency: Framework & Foundations** | Anthropic × UCC × Ringling × HEA | ✅ Verified |
 
 </div>
 
 <br/>
 
-<details>
-<summary align="center"><b>🔍 Click to view all 14 Google & Kaggle Specializations</b></summary>
+### 🌐 Official Qualifications & Accreditations
+
+<table border="0" width="100%">
+  <tr>
+    <td width="38%" align="center" valign="middle">
+      <a href="https://cert.efset.org/G7yoSe">
+        <img src="assets/certificates/efset-c1-advanced.jpg" width="100%" style="border-radius:12px;border:1px solid #30363d;" alt="EF SET English Certificate C1 Advanced" />
+      </a>
+      <br/><br/>
+      <a href="https://cert.efset.org/G7yoSe"><img src="https://img.shields.io/badge/EF%20SET-C1%20Advanced%20(Reading%20C2)-000000?style=flat-square" /></a>
+    </td>
+    <td width="62%" align="center" valign="middle">
+      <a href="https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a">
+        <img src="https://raw.githubusercontent.com/MD-Mushfiqur123/repo-google-dev/refs/heads/main/www-skills-google-public_profiles-f65660d4-2a1e-48ba-8431-998055be793a.jpg" width="100%" style="border-radius:12px;border:1px solid #30363d;" alt="Google Cloud Skills Official Certificate" />
+      </a>
+      <br/><br/>
+      <a href="https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a"><img src="https://img.shields.io/badge/Google%20Cloud-Skills%20Profile-4285F4?style=flat-square&logo=google-cloud&logoColor=white" /></a>
+    </td>
+  </tr>
+</table>
+
 <br/>
 
-<div align="center">
+### 🧠 Google & Kaggle — Machine Learning & AI Specializations
 
-`Computer Vision` • `Intro to Deep Learning` • `Intro to Machine Learning` • `Machine Learning Explainability`  
-`Game AI & Reinforcement Learning` • `Time Series Analysis` • `Feature Engineering` • `Data Cleaning`  
-`Data Visualization` • `Advanced SQL` • `Geospatial Analysis` • `Python` • `Pandas` • `Intro to Programming`
-
-</div>
-
-</details>
-
-<br/>
-
-<div align="center">
-
-<a href="https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a">
-  <img
-    src="https://raw.githubusercontent.com/MD-Mushfiqur123/repo-google-dev/refs/heads/main/www-skills-google-public_profiles-f65660d4-2a1e-48ba-8431-998055be793a.jpg"
-    width="85%"
-    style="border-radius:14px;border:1px solid #30363d;"
-    alt="Google Cloud Skills Official Certificate"
-  />
-</a>
-
-</div>
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="assets/certificates/kaggle-deep-learning.png" width="100%" style="border-radius:8px" alt="Deep Learning" />
+    </td>
+    <td width="50%" align="center">
+      <img src="assets/certificates/kaggle-computer-vision.png" width="100%" style="border-radius:8px" alt="Computer Vision" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="assets/certificates/kaggle-machine-learning.png" width="100%" style="border-radius:8px" alt="Machine Learning" />
+    </td>
+    <td width="50%" align="center">
+      <img src="assets/certificates/kaggle-explainability.png" width="100%" style="border-radius:8px" alt="ML Explainability" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="assets/certificates/kaggle-game-ai.png" width="100%" style="border-radius:8px" alt="Game AI & RL" />
+    </td>
+    <td width="50%" align="center">
+      <img src="assets/certificates/kaggle-time-series.png" width="100%" style="border-radius:8px" alt="Time Series" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="assets/certificates/kaggle-feature-engineering.png" width="100%" style="border-radius:8px" alt="Feature Engineering" />
+    </td>
+    <td width="50%" align="center">
+      <img src="assets/certificates/kaggle-advanced-sql.png" width="100%" style="border-radius:8px" alt="Advanced SQL" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="assets/certificates/kaggle-data-visualization.png" width="100%" style="border-radius:8px" alt="Data Visualization" />
+    </td>
+    <td width="50%" align="center">
+      <img src="assets/certificates/kaggle-data-cleaning.png" width="100%" style="border-radius:8px" alt="Data Cleaning" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="assets/certificates/kaggle-geospatial.png" width="100%" style="border-radius:8px" alt="Geospatial Analysis" />
+    </td>
+    <td width="50%" align="center">
+      <img src="assets/certificates/kaggle-pandas.png" width="100%" style="border-radius:8px" alt="Pandas" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="assets/certificates/kaggle-python.png" width="100%" style="border-radius:8px" alt="Python" />
+    </td>
+    <td width="50%" align="center">
+      <img src="assets/certificates/kaggle-programming.png" width="100%" style="border-radius:8px" alt="Intro to Programming" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a2e,50:0d2137,100:0a0e1a&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a2e,50:0d2137,100:001a2e&height=120&section=footer" width="100%" />
 
 </div>
