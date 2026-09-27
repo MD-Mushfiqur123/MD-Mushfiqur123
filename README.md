@@ -154,7 +154,7 @@ impact:
 
 <div align="center">
 
-<img src="assets/github-trophies.svg" width="100%" alt="GitHub Profile Trophies — PR Master, Repo Creator, HF Impact, Commits, Global Reach, Specialist" />
+<img src="assets/github-trophies.png" width="100%" alt="GitHub Profile Trophies — PR Master, Repo Creator, HF Impact, Commits, Global Reach, Specialist" />
 
 <br/><br/>
 
