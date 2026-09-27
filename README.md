@@ -2,7 +2,7 @@
 ### 🧠 A normal curious guy :D • AI Systems & Silicon Architect • Open-Source Contributor
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00F2FE&background=0D111700&center=false&vCenter=true&width=650&lines=Just+a+normal+curious+guy+%3AD;DeepSeek+V4.1+Flash+%26+Engram+Architecture+Research;Building+Mission+Mlych+(1.3B+Custom+LLM);HSC+'28+at+Govt.+Azizul+Haque+College%2C+Bogura;Founder+of+DropLychee+(40k%2B+HF+Downloads);Researching+M-2LRF+Quantization+%26+Silicon;108%2B+Upstream+Open+Source+Contributions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00F2FE&background=0D111700&center=false&vCenter=true&width=650&lines=Just+a+normal+curious+guy+%3AD;DeepSeek+V4.1+Flash+%26+Engram+Architecture+Research;Building+Mission+Mlych+(1.3B+Custom+LLM);HSC+'28+at+Govt.+Azizul+Haque+College%2C+Bogura;Researching+M-2LRF+Quantization+%26+Silicon;108%2B+Upstream+Open+Source+Contributions" alt="Typing SVG" />
 </p>
 
 ---
