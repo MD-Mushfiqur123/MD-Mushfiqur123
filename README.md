@@ -73,9 +73,9 @@
 <h3 align="center">🐍 3-Year Continuous Contribution Matrix &amp; Snake Grid</h3>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Grid Snake Animation" src="dist/github-contribution-grid-snake-dark.svg" width="100%" style="border-radius: 10px; border: 1px solid #30363d;" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MD-Mushfiqur123/MD-Mushfiqur123/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MD-Mushfiqur123/MD-Mushfiqur123/output/github-snake-light.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MD-Mushfiqur123/MD-Mushfiqur123/output/github-snake-dark.svg" width="100%" style="border-radius: 10px; border: 1px solid #30363d;" />
   </picture>
 </p>
 
