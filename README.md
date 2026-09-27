@@ -66,3 +66,21 @@
     </td>
   </tr>
 </table>
+
+---
+
+<!-- 3-Year Contribution Journey & Snake Grid Section -->
+<h3 align="center">🐍 3-Year Continuous Contribution Graph &amp; Snake Grid</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MD-Mushfiqur123&theme=tokyo-night&area=true&hide_border=true&custom_title=3-Year%20Contribution%20Journey" width="100%" alt="3-Year Contribution Activity Graph" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Platane/snk">
+    <img src="https://raw.githubusercontent.com/MD-Mushfiqur123/MD-Mushfiqur123/main/dist/github-contribution-grid-snake-dark.svg" width="100%" style="border-radius: 10px; border: 1px solid #30363d;" alt="3-Year Contribution Grid Snake Game" />
+  </a>
+</p>
+
+<p align="center">
+  <sub><i>Autonomous contribution grid eater navigating 3-year timeline powered by <a href="https://github.com/Platane/snk">Platane/snk</a></i></sub>
+</p>
