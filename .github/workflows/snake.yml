@@ -1,11 +1,15 @@
-
 name: Generate Snake
+
 permissions:
   contents: write
+
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs daily
+    - cron: "0 0 * * *" # runs daily
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   generate:
@@ -13,7 +17,7 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: arnav7777
+          github_user_name: MD-Mushfiqur123
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake.gif
