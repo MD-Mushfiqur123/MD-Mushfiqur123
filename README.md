@@ -176,6 +176,49 @@ impact:
 
 ## 🎓 Verified Certifications & Credentials
 
+### 🏛️ Top Universities & Global Computer Science Programs
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://cs50.harvard.edu/certificates/9fde6ff7-e81e-4c04-89cf-735b736004dd">
+        <img src="assets/certificates/harvard-cs50x.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="Harvard University — CS50x Certificate" />
+      </a>
+      <br/><br/>
+      <a href="https://cs50.harvard.edu/certificates/9fde6ff7-e81e-4c04-89cf-735b736004dd">
+        <img src="https://img.shields.io/badge/Harvard%20University-CS50x%20Verified-A51C30?style=flat-square&logo=harvard&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/2459f5ce85ad3bee10459f37870e8c84">
+        <img src="assets/certificates/full-stack-open.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="University of Helsinki — Full Stack Open (7 ECTS, Grade 5)" />
+      </a>
+      <br/><br/>
+      <a href="https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/2459f5ce85ad3bee10459f37870e8c84">
+        <img src="https://img.shields.io/badge/University%20of%20Helsinki-Full%20Stack%20Open%20(7%20ECTS)-002F6C?style=flat-square" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://certificates.mooc.fi/validate/1xw084tnsab">
+        <img src="assets/certificates/elements-of-ai.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="University of Helsinki × MinnaLearn — Elements of AI (2 ECTS)" />
+      </a>
+      <br/><br/>
+      <a href="https://certificates.mooc.fi/validate/1xw084tnsab">
+        <img src="https://img.shields.io/badge/University%20of%20Helsinki-Elements%20of%20AI%20(2%20ECTS)-002F6C?style=flat-square" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="assets/certificates/open-university-ai.png" width="60%" style="border-radius:10px;border:1px solid #30363d;" alt="The Open University — Introduction to Artificial Intelligence" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/The%20Open%20University-Intro%20to%20AI-002F6C?style=flat-square" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 ### 🤖 Anthropic AI — Certified Developer
 
 <div align="center">
