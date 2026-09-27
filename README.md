@@ -172,69 +172,37 @@ impact:
 
 ## 🎓 Verified Certifications & Credentials
 
-### 🤖 Anthropic AI — Certified Developer
-
 <div align="center">
 
-| Certificate | Issuer | Verification |
-| :--- | :--- | :---: |
-| **Claude Code in Action** | Anthropic | [↗ View Credential](https://verify.skilljar.com/c/qp3mi4hhbpdk) |
-| **Claude with Google Vertex AI** | Anthropic | [↗ View Credential](https://verify.skilljar.com/c/6euhyoyfxevg) |
-| **Claude 101** | Anthropic | ✅ Verified |
-| **Claude Code 101** | Anthropic | ✅ Verified |
-| **AI Fluency for Students** | Anthropic × UCC × Ringling × HEA | ✅ Verified |
-| **AI Fluency: Framework & Foundations** | Anthropic × UCC × Ringling × HEA | ✅ Verified |
-
-</div>
-
-<br/>
-
-### 🧠 Google & Kaggle — Machine Learning & Data Science Suite (14x Certified)
-
-<div align="center">
-
-| Specialization Track | Core Competencies | Issuer | Credential |
+| Organization | Credential | Domain / Level | Verification |
 | :--- | :--- | :---: | :---: |
-| **Computer Vision** | CNNs, Transfer Learning, Feature Extraction | Google / Kaggle | ✅ Certified |
-| **Intro to Deep Learning** | Neural Networks, Keras, Tensor Architectures | Google / Kaggle | ✅ Certified |
-| **Intro to Machine Learning** | Model Validation, Random Forests, Decision Trees | Google / Kaggle | ✅ Certified |
-| **Machine Learning Explainability** | SHAP Values, Permutation Importance, Partial Plots | Google / Kaggle | ✅ Certified |
-| **Game AI & Reinforcement Learning** | Q-Learning, Minimax, Heuristic Agents | Google / Kaggle | ✅ Certified |
-| **Time Series Analysis** | Trend, Seasonality, Hybrid Forecasting Models | Google / Kaggle | ✅ Certified |
-| **Feature Engineering** | Mutual Information, Target Encoding, PCA, K-Means | Google / Kaggle | ✅ Certified |
-| **Data Cleaning** | Handling Missing Values, Scaling, Encodings | Google / Kaggle | ✅ Certified |
-| **Data Visualization** | Seaborn, Distributions, Correlation Heatmaps | Google / Kaggle | ✅ Certified |
-| **Advanced SQL** | Window Functions, Complex Analytic Joins | Google / Kaggle | ✅ Certified |
-| **Geospatial Analysis** | Projections, Spatial Joins, Folium Geo-Mapping | Google / Kaggle | ✅ Certified |
-| **Python** | Advanced Lambdas, Data Structures, Algorithms | Google / Kaggle | ✅ Certified |
-| **Pandas** | Vectorized Operations, GroupBy, Data Wrangling | Google / Kaggle | ✅ Certified |
-| **Intro to Programming** | Algorithmic Thinking, Control Flow, Arithmetic | Google / Kaggle | ✅ Certified |
+| 🤖 **Anthropic** | Certified AI Developer (Claude Code & Vertex) | AI Engineering | [↗ Verify](https://verify.skilljar.com/c/qp3mi4hhbpdk) |
+| ☁️ **Google Cloud** | Google Cloud Skills Certified | Cloud Architecture | [↗ Official Profile](https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a) |
+| 🧠 **Google / Kaggle** | Machine Learning & Deep Learning Suite | **14x Specializations** | ✅ Completed |
+| 🇬🇧 **EF Standard** | Official English Certificate | **C1 Advanced** (Reading **C2**) | [↗ cert.efset.org/G7yoSe](https://cert.efset.org/G7yoSe) |
+| 🏛️ **Univ. of Helsinki** | Elements of AI & Full Stack Open | CS & Neural Foundations | ✅ Completed |
 
 </div>
 
 <br/>
 
-### 🌐 Academic & Professional Language Qualifications
+<details>
+<summary align="center"><b>🔍 Click to view all 14 Google & Kaggle Specializations</b></summary>
+<br/>
 
 <div align="center">
 
-| Credential | Issuing Body | Level / Specialization | Verification |
-| :--- | :--- | :---: | :---: |
-| **EF SET Official English Certificate** | EF Standard English Test | **C1 Advanced** (Reading **C2 Proficient**) | [↗ cert.efset.org/G7yoSe](https://cert.efset.org/G7yoSe) |
-| **Elements of AI** | University of Helsinki & MinnaLearn | AI Foundations & Search Algorithms | ✅ Completed |
-| **Full Stack Open** | University of Helsinki | Modern Web Architecture & React/Node | ✅ Completed |
+`Computer Vision` • `Intro to Deep Learning` • `Intro to Machine Learning` • `Machine Learning Explainability`  
+`Game AI & Reinforcement Learning` • `Time Series Analysis` • `Feature Engineering` • `Data Cleaning`  
+`Data Visualization` • `Advanced SQL` • `Geospatial Analysis` • `Python` • `Pandas` • `Intro to Programming`
 
 </div>
 
+</details>
+
 <br/>
 
-### ☁️ Google Cloud Skills Profile
-
 <div align="center">
-
-[![Google Skills](https://img.shields.io/badge/Google%20Cloud%20Skills-Official%20Profile-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a)
-
-<br/><br/>
 
 <a href="https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a">
   <img
