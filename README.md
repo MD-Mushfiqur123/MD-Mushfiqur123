@@ -170,20 +170,59 @@ impact:
 
 ---
 
-## 🎓 Verified Certifications
+## 🎓 Verified Certifications & Credentials
 
-### 🤖 Anthropic — Certified AI Developer
+### 🤖 Anthropic AI — Certified Developer
 
 <div align="center">
 
 | Certificate | Issuer | Verification |
 | :--- | :--- | :---: |
-| **AI Fluency for Students** | Anthropic × UCC × Ringling × HEA | ✅ Verified |
-| **AI Fluency: Framework & Foundations** | Anthropic × UCC × Ringling × HEA | ✅ Verified |
-| **Claude 101** | Anthropic | ✅ Verified |
-| **Claude Code 101** | Anthropic | ✅ Verified |
 | **Claude Code in Action** | Anthropic | [↗ View Credential](https://verify.skilljar.com/c/qp3mi4hhbpdk) |
 | **Claude with Google Vertex AI** | Anthropic | [↗ View Credential](https://verify.skilljar.com/c/6euhyoyfxevg) |
+| **Claude 101** | Anthropic | ✅ Verified |
+| **Claude Code 101** | Anthropic | ✅ Verified |
+| **AI Fluency for Students** | Anthropic × UCC × Ringling × HEA | ✅ Verified |
+| **AI Fluency: Framework & Foundations** | Anthropic × UCC × Ringling × HEA | ✅ Verified |
+
+</div>
+
+<br/>
+
+### 🧠 Google & Kaggle — Machine Learning & Data Science Suite (14x Certified)
+
+<div align="center">
+
+| Specialization Track | Core Competencies | Issuer | Credential |
+| :--- | :--- | :---: | :---: |
+| **Computer Vision** | CNNs, Transfer Learning, Feature Extraction | Google / Kaggle | ✅ Certified |
+| **Intro to Deep Learning** | Neural Networks, Keras, Tensor Architectures | Google / Kaggle | ✅ Certified |
+| **Intro to Machine Learning** | Model Validation, Random Forests, Decision Trees | Google / Kaggle | ✅ Certified |
+| **Machine Learning Explainability** | SHAP Values, Permutation Importance, Partial Plots | Google / Kaggle | ✅ Certified |
+| **Game AI & Reinforcement Learning** | Q-Learning, Minimax, Heuristic Agents | Google / Kaggle | ✅ Certified |
+| **Time Series Analysis** | Trend, Seasonality, Hybrid Forecasting Models | Google / Kaggle | ✅ Certified |
+| **Feature Engineering** | Mutual Information, Target Encoding, PCA, K-Means | Google / Kaggle | ✅ Certified |
+| **Data Cleaning** | Handling Missing Values, Scaling, Encodings | Google / Kaggle | ✅ Certified |
+| **Data Visualization** | Seaborn, Distributions, Correlation Heatmaps | Google / Kaggle | ✅ Certified |
+| **Advanced SQL** | Window Functions, Complex Analytic Joins | Google / Kaggle | ✅ Certified |
+| **Geospatial Analysis** | Projections, Spatial Joins, Folium Geo-Mapping | Google / Kaggle | ✅ Certified |
+| **Python** | Advanced Lambdas, Data Structures, Algorithms | Google / Kaggle | ✅ Certified |
+| **Pandas** | Vectorized Operations, GroupBy, Data Wrangling | Google / Kaggle | ✅ Certified |
+| **Intro to Programming** | Algorithmic Thinking, Control Flow, Arithmetic | Google / Kaggle | ✅ Certified |
+
+</div>
+
+<br/>
+
+### 🌐 Academic & Professional Language Qualifications
+
+<div align="center">
+
+| Credential | Issuing Body | Level / Specialization | Verification |
+| :--- | :--- | :---: | :---: |
+| **EF SET Official English Certificate** | EF Standard English Test | **C1 Advanced** (Reading **C2 Proficient**) | [↗ cert.efset.org/G7yoSe](https://cert.efset.org/G7yoSe) |
+| **Elements of AI** | University of Helsinki & MinnaLearn | AI Foundations & Search Algorithms | ✅ Completed |
+| **Full Stack Open** | University of Helsinki | Modern Web Architecture & React/Node | ✅ Completed |
 
 </div>
 
