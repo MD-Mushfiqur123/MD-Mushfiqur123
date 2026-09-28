@@ -208,6 +208,14 @@ impact:
 
 ---
 
+## 👾 Pacman Devourer & Matrix Contribution Track
+
+<div align="center">
+
+<img src="assets/pacman-matrix-contrib.svg" width="100%" alt="Pacman Devourer & Matrix Contribution Track — MD-Mushfiqur123" />
+
+</div>
+
 ## ✍️ Dev Wisdom
 
 <div align="center">

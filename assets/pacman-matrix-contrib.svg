@@ -1,0 +1,159 @@
+<svg width="800" height="150" viewBox="0 0 800 150" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes pacman-move {
+        0% { transform: translateX(0px); }
+        50% { transform: translateX(540px); }
+        50.1% { transform: translateX(540px) scaleX(-1); }
+        100% { transform: translateX(0px) scaleX(-1); }
+      }
+      @keyframes chomp {
+        0%, 100% { d: path("M 20 20 L 38 10 A 20 20 0 1 0 38 30 Z"); }
+        50% { d: path("M 20 20 L 40 20 A 20 20 0 1 0 40 20 Z"); }
+      }
+      @keyframes ghost-move {
+        0% { transform: translateX(0px); }
+        50% { transform: translateX(540px); }
+        50.1% { transform: translateX(540px) scaleX(-1); }
+        100% { transform: translateX(0px) scaleX(-1); }
+      }
+      @keyframes matrix-fall {
+        0% { transform: translateY(-100px); opacity: 0; }
+        50% { opacity: 0.8; }
+        100% { transform: translateY(160px); opacity: 0; }
+      }
+      @keyframes pellet-fade {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0.2; }
+      }
+      .bg { fill: #0d1117; rx: 14px; stroke: #1e293b; stroke-width: 1.5; }
+      .grid-dot { fill: #161b22; rx: 3px; }
+      .grid-dot-active1 { fill: #0e4429; rx: 3px; }
+      .grid-dot-active2 { fill: #006d32; rx: 3px; }
+      .grid-dot-active3 { fill: #26a641; rx: 3px; }
+      .grid-dot-active4 { fill: #39d353; rx: 3px; }
+      .pellet { fill: #38bdf8; filter: drop-shadow(0 0 4px #38bdf8); }
+      .matrix-text { font-family: 'Courier New', monospace; font-size: 11px; fill: #00ff66; opacity: 0.4; }
+      .hud-title { font-family: 'JetBrains Mono', 'Segoe UI', monospace; font-weight: bold; font-size: 13px; fill: #f1f5f9; }
+      .hud-stat { font-family: 'JetBrains Mono', monospace; font-size: 11px; fill: #38bdf8; font-weight: bold; }
+    </style>
+  </defs>
+
+  <!-- Background Canvas -->
+  <rect width="798" height="148" x="1" y="1" class="bg" />
+
+  <!-- Matrix Background Stream -->
+  <g opacity="0.25">
+    <text x="50" y="20" class="matrix-text" style="animation: matrix-fall 4s linear infinite;">0 1 0 1 1 0 1</text>
+    <text x="220" y="10" class="matrix-text" style="animation: matrix-fall 3.5s linear infinite 1s;">1 0 0 1 1 1 0</text>
+    <text x="450" y="15" class="matrix-text" style="animation: matrix-fall 5s linear infinite 0.5s;">M L Y C H 0 1</text>
+    <text x="680" y="25" class="matrix-text" style="animation: matrix-fall 4.2s linear infinite 1.5s;">1 1 0 1 0 0 1</text>
+  </g>
+
+  <!-- Header Stats HUD -->
+  <g transform="translate(24, 28)">
+    <text x="0" y="0" class="hud-title">👾 PACMAN DEVOURER // MATRIX CONTRIBUTION TRACK</text>
+    <text x="530" y="0" class="hud-stat">136,928+ COMMITS CONSUMED</text>
+  </g>
+
+  <!-- Mini Contribution Grid Track (Background Maze) -->
+  <g transform="translate(24, 48)">
+    <!-- Row 0 -->
+    <rect x="0" y="0" width="12" height="12" class="grid-dot-active4" />
+    <rect x="18" y="0" width="12" height="12" class="grid-dot-active3" />
+    <rect x="36" y="0" width="12" height="12" class="grid-dot-active2" />
+    <rect x="54" y="0" width="12" height="12" class="grid-dot-active4" />
+    <rect x="72" y="0" width="12" height="12" class="grid-dot-active1" />
+    <rect x="90" y="0" width="12" height="12" class="grid-dot-active3" />
+    <rect x="108" y="0" width="12" height="12" class="grid-dot-active4" />
+    <rect x="126" y="0" width="12" height="12" class="grid-dot-active2" />
+    <rect x="144" y="0" width="12" height="12" class="grid-dot-active4" />
+    <rect x="162" y="0" width="12" height="12" class="grid-dot-active3" />
+    <rect x="180" y="0" width="12" height="12" class="grid-dot-active4" />
+    <rect x="198" y="0" width="12" height="12" class="grid-dot-active2" />
+    <rect x="216" y="0" width="12" height="12" class="grid-dot-active4" />
+    <rect x="234" y="0" width="12" height="12" class="grid-dot-active3" />
+    <rect x="252" y="0" width="12" height="12" class="grid-dot-active1" />
+    <rect x="270" y="0" width="12" height="12" class="grid-dot-active4" />
+    <rect x="288" y="0" width="12" height="12" class="grid-dot-active2" />
+    <rect x="306" y="0" width="12" height="12" class="grid-dot-active3" />
+    <rect x="324" y="0" width="12" height="12" class="grid-dot-active4" />
+    <rect x="342" y="0" width="12" height="12" class="grid-dot-active4" />
+    <rect x="360" y="0" width="12" height="12" class="grid-dot-active2" />
+    <rect x="378" y="0" width="12" height="12" class="grid-dot-active3" />
+    <rect x="396" y="0" width="12" height="12" class="grid-dot-active4" />
+    <rect x="414" y="0" width="12" height="12" class="grid-dot-active1" />
+    <rect x="432" y="0" width="12" height="12" class="grid-dot-active4" />
+    <rect x="450" y="0" width="12" height="12" class="grid-dot-active3" />
+    <rect x="468" y="0" width="12" height="12" class="grid-dot-active2" />
+    <rect x="486" y="0" width="12" height="12" class="grid-dot-active4" />
+    <rect x="504" y="0" width="12" height="12" class="grid-dot-active3" />
+    <rect x="522" y="0" width="12" height="12" class="grid-dot-active4" />
+    <rect x="540" y="0" width="12" height="12" class="grid-dot-active2" />
+    <rect x="558" y="0" width="12" height="12" class="grid-dot-active4" />
+    <rect x="576" y="0" width="12" height="12" class="grid-dot-active3" />
+    <rect x="594" y="0" width="12" height="12" class="grid-dot-active4" />
+    <rect x="612" y="0" width="12" height="12" class="grid-dot-active1" />
+    <rect x="630" y="0" width="12" height="12" class="grid-dot-active3" />
+    <rect x="648" y="0" width="12" height="12" class="grid-dot-active4" />
+    <rect x="666" y="0" width="12" height="12" class="grid-dot-active2" />
+    <rect x="684" y="0" width="12" height="12" class="grid-dot-active4" />
+    <rect x="702" y="0" width="12" height="12" class="grid-dot-active3" />
+    <rect x="720" y="0" width="12" height="12" class="grid-dot-active4" />
+    <rect x="738" y="0" width="12" height="12" class="grid-dot-active2" />
+  </g>
+
+  <!-- Pellets Track for Pacman -->
+  <g transform="translate(60, 95)">
+    <circle cx="0" cy="0" r="4" class="pellet" style="animation: pellet-fade 1.5s infinite 0.1s;" />
+    <circle cx="50" cy="0" r="4" class="pellet" style="animation: pellet-fade 1.5s infinite 0.2s;" />
+    <circle cx="100" cy="0" r="4" class="pellet" style="animation: pellet-fade 1.5s infinite 0.3s;" />
+    <circle cx="150" cy="0" r="4" class="pellet" style="animation: pellet-fade 1.5s infinite 0.4s;" />
+    <circle cx="200" cy="0" r="4" class="pellet" style="animation: pellet-fade 1.5s infinite 0.5s;" />
+    <circle cx="250" cy="0" r="4" class="pellet" style="animation: pellet-fade 1.5s infinite 0.6s;" />
+    <circle cx="300" cy="0" r="4" class="pellet" style="animation: pellet-fade 1.5s infinite 0.7s;" />
+    <circle cx="350" cy="0" r="4" class="pellet" style="animation: pellet-fade 1.5s infinite 0.8s;" />
+    <circle cx="400" cy="0" r="4" class="pellet" style="animation: pellet-fade 1.5s infinite 0.9s;" />
+    <circle cx="450" cy="0" r="4" class="pellet" style="animation: pellet-fade 1.5s infinite 1.0s;" />
+    <circle cx="500" cy="0" r="4" class="pellet" style="animation: pellet-fade 1.5s infinite 1.1s;" />
+    <circle cx="550" cy="0" r="4" class="pellet" style="animation: pellet-fade 1.5s infinite 1.2s;" />
+    <circle cx="600" cy="0" r="4" class="pellet" style="animation: pellet-fade 1.5s infinite 1.3s;" />
+    <circle cx="650" cy="0" r="4" class="pellet" style="animation: pellet-fade 1.5s infinite 1.4s;" />
+  </g>
+
+  <!-- Animated Pacman -->
+  <g style="animation: pacman-move 9s linear infinite;">
+    <g transform="translate(40, 75)">
+      <!-- Pacman Yellow Body -->
+      <path fill="#FFD700" style="animation: chomp 0.3s linear infinite;" d="M 20 20 L 38 10 A 20 20 0 1 0 38 30 Z" />
+      <!-- Eye -->
+      <circle cx="18" cy="10" r="2.5" fill="#000" />
+    </g>
+  </g>
+
+  <!-- Animated Ghost Chasing Pacman (Blinky Red) -->
+  <g style="animation: ghost-move 9s linear infinite; animation-delay: -0.6s;">
+    <g transform="translate(0, 75)">
+      <!-- Ghost Body -->
+      <path d="M 5 20 A 15 15 0 0 1 35 20 L 35 34 L 30 30 L 25 34 L 20 30 L 15 34 L 10 30 L 5 34 Z" fill="#ff0055" filter="drop-shadow(0 0 6px #ff0055)" />
+      <!-- Eyes -->
+      <circle cx="14" cy="18" r="4" fill="#fff" />
+      <circle cx="15" cy="18" r="2" fill="#0000ff" />
+      <circle cx="26" cy="18" r="4" fill="#fff" />
+      <circle cx="27" cy="18" r="2" fill="#0000ff" />
+    </g>
+  </g>
+
+  <!-- Animated Ghost 2 (Inky Cyan) -->
+  <g style="animation: ghost-move 9s linear infinite; animation-delay: -1.2s;">
+    <g transform="translate(-40, 75)">
+      <!-- Ghost Body -->
+      <path d="M 5 20 A 15 15 0 0 1 35 20 L 35 34 L 30 30 L 25 34 L 20 30 L 15 34 L 10 30 L 5 34 Z" fill="#00f2fe" filter="drop-shadow(0 0 6px #00f2fe)" />
+      <!-- Eyes -->
+      <circle cx="14" cy="18" r="4" fill="#fff" />
+      <circle cx="15" cy="18" r="2" fill="#000" />
+      <circle cx="26" cy="18" r="4" fill="#fff" />
+      <circle cx="27" cy="18" r="2" fill="#000" />
+    </g>
+  </g>
+</svg>
