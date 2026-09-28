@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050811,40:0f172a,75:1e1b4b,100:3b0764&height=230&section=header&text=Md%20Mushfiqur%20Rahim&fontSize=46&fontColor=38BDF8&animation=twinkling&fontAlignY=38&desc=AI%20%26%20Systems%20Researcher%20%E2%80%A2%20Open%20Source%20Contributor%20%E2%80%A2%20Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9&descAlignY=60&descColor=A855F7&descSize=16" width="100%" />
+<img src="assets/header-darkwave.svg" width="100%" alt="Md Mushfiqur Rahim — AI & Systems Researcher" />
 
 </div>
 
@@ -390,6 +390,6 @@ impact:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a2e,50:0d2137,100:001a2e&height=120&section=footer" width="100%" />
+<img src="assets/header-darkwave.svg" width="100%" alt="Md Mushfiqur Rahim — AI & Systems Researcher" />
 
 </div>

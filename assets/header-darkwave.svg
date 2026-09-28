@@ -1,0 +1,94 @@
+<svg width="1000" height="230" viewBox="0 0 1000 230" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Dark Wave Linear Gradients -->
+    <linearGradient id="darkwave-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050811" />
+      <stop offset="35%" stop-color="#0f172a" />
+      <stop offset="70%" stop-color="#1e1b4b" />
+      <stop offset="100%" stop-color="#3b0764" />
+    </linearGradient>
+
+    <linearGradient id="wave-layer-1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.25" />
+      <stop offset="50%" stop-color="#818cf8" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#c084fc" stop-opacity="0.25" />
+    </linearGradient>
+
+    <linearGradient id="wave-layer-2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f2fe" stop-opacity="0.4" />
+      <stop offset="50%" stop-color="#38bdf8" stop-opacity="0.35" />
+      <stop offset="100%" stop-color="#a855f7" stop-opacity="0.4" />
+    </linearGradient>
+
+    <!-- Neon Glow Filter -->
+    <filter id="neon-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <style>
+      @keyframes float-wave-1 {
+        0% { transform: translateX(0px); }
+        50% { transform: translateX(-40px); }
+        100% { transform: translateX(0px); }
+      }
+      @keyframes float-wave-2 {
+        0% { transform: translateX(0px); }
+        50% { transform: translateX(30px); }
+        100% { transform: translateX(0px); }
+      }
+      @keyframes pulse-star {
+        0%, 100% { opacity: 0.2; transform: scale(0.8); }
+        50% { opacity: 0.9; transform: scale(1.2); }
+      }
+      .title-text {
+        font-family: 'Segoe UI', 'Inter', -apple-system, sans-serif;
+        font-weight: 800;
+        font-size: 46px;
+        fill: #38bdf8;
+        letter-spacing: -0.5px;
+      }
+      .sub-text {
+        font-family: 'JetBrains Mono', 'Segoe UI', monospace;
+        font-weight: 600;
+        font-size: 16px;
+        fill: #c084fc;
+        letter-spacing: 0.5px;
+      }
+      .star { fill: #38bdf8; animation: pulse-star 3s infinite ease-in-out; }
+    </style>
+  </defs>
+
+  <!-- Background Base -->
+  <rect width="1000" height="230" rx="16" fill="url(#darkwave-bg)" />
+  <rect width="1000" height="230" rx="16" stroke="#1e293b" stroke-width="1.5" />
+
+  <!-- Cyber Twinkling Ambient Stars -->
+  <circle cx="120" cy="40" r="2" class="star" style="animation-delay: 0.2s;" />
+  <circle cx="280" cy="70" r="1.5" class="star" style="animation-delay: 1.1s;" />
+  <circle cx="450" cy="30" r="2" class="star" style="animation-delay: 0.7s;" />
+  <circle cx="720" cy="50" r="1.5" class="star" style="animation-delay: 1.8s;" />
+  <circle cx="880" cy="35" r="2" class="star" style="animation-delay: 2.3s;" />
+  <circle cx="920" cy="80" r="1" class="star" style="animation-delay: 0.5s;" />
+
+  <!-- Flowing Fluid Waves (Layer 1) -->
+  <g style="animation: float-wave-1 8s ease-in-out infinite;">
+    <path d="M 0 170 C 250 140 450 200 700 160 C 850 135 950 165 1050 150 L 1050 230 L 0 230 Z" fill="url(#wave-layer-1)" />
+  </g>
+
+  <!-- Flowing Fluid Waves (Layer 2 - Foreground Wave) -->
+  <g style="animation: float-wave-2 6s ease-in-out infinite;">
+    <path d="M -50 185 C 200 215 400 155 650 190 C 800 210 920 170 1050 185 L 1050 230 L -50 230 Z" fill="url(#wave-layer-2)" />
+  </g>
+
+  <!-- Center Typography Title & Subtitle -->
+  <g transform="translate(500, 92)">
+    <!-- Title -->
+    <text x="0" y="0" text-anchor="middle" class="title-text" filter="url(#neon-glow)">Md Mushfiqur Rahim</text>
+    <!-- Subtitle -->
+    <text x="0" y="44" text-anchor="middle" class="sub-text">AI &amp; Systems Researcher • Open Source Contributor • Bangladesh 🇧🇩</text>
+  </g>
+</svg>
