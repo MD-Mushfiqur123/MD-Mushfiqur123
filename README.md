@@ -100,16 +100,48 @@ impact:
 
 ---
 
-## 🛠️ Mastered Technologies
+## 🛠️ Mastered Technologies & Engineering Sectors
 
 <div align="center">
 
+#### 💻 Programming Languages & Systems
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,rust,go,python,bash,ts,js,pytorch,tensorflow,opencv,cuda&perline=12&theme=dark" alt="Languages & AI" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,rust,go,python,ts,js,bash,lua,solidity,wasm&theme=dark" alt="Programming Languages" />
 </a>
+
 <br/>
+
+#### 🧠 Artificial Intelligence, Machine Learning & Vision
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,fastapi,docker,kubernetes,gcp,aws,postgres,redis,mongodb,git&perline=12&theme=dark" alt="Cloud, Infra & DB" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,scikitlearn,huggingface,cuda&theme=dark" alt="AI & Deep Learning" />
+</a>
+
+<br/>
+
+#### 🌐 Full-Stack Web Architecture & Frameworks
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,tailwind,graphql,vue,electron&theme=dark" alt="Full Stack & Web Frameworks" />
+</a>
+
+<br/>
+
+#### ☁️ Cloud Platforms, DevOps & Containerization
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,gcp,aws,cloudflare,terraform&theme=dark" alt="DevOps & Cloud Platforms" />
+</a>
+
+<br/>
+
+#### 🗄️ Database Systems, In-Memory & Streaming
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,sqlite,supabase,kafka&theme=dark" alt="Databases & Caching" />
+</a>
+
+<br/>
+
+#### ⚡ Developer Tooling, CI/CD & Version Control
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,neovim,vscode,postman,blender&theme=dark" alt="Developer Tooling" />
 </a>
 
 </div>
