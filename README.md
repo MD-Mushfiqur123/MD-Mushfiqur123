@@ -180,6 +180,20 @@ impact:
 
 </div>
 
+---
+
+## 🟢 Cyber Matrix Contribution Rain
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MD-Mushfiqur123/MD-Mushfiqur123/output/matrix-rain-v2-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MD-Mushfiqur123/MD-Mushfiqur123/output/matrix-rain-v2-light.svg">
+  <img alt="Cyber Matrix Contribution Rain — MD-Mushfiqur123" src="https://raw.githubusercontent.com/MD-Mushfiqur123/MD-Mushfiqur123/output/matrix-rain-v2-dark.svg" width="100%">
+</picture>
+
+</div>
+
 ## 🐍 Contribution Snake
 
 <div align="center">
