@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="assets/header-darkwave.svg" width="100%" alt="Md Mushfiqur Rahim — AI & Systems Researcher" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img alt="Md Mushfiqur Rahim — AI & Systems Researcher" src="assets/header-dark.svg" width="100%">
+</picture>
 
 </div>
 
@@ -390,6 +394,10 @@ impact:
 
 <div align="center">
 
-<img src="assets/header-darkwave.svg" width="100%" alt="Md Mushfiqur Rahim — AI & Systems Researcher" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img alt="Md Mushfiqur Rahim — AI & Systems Researcher" src="assets/header-dark.svg" width="100%">
+</picture>
 
 </div>
