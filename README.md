@@ -329,6 +329,39 @@ impact:
 
 <br/>
 
+### ⚡ LeetCode — Algorithmic Mastery & Official Study Plan Badges
+
+<div align="center">
+
+<table border="0" width="100%">
+  <tr>
+    <td width="25%" align="center" valign="top">
+      <img src="assets/badges/leetcode_top_interview_150.png" width="90%" style="border-radius:12px;border:1px solid #30363d;" alt="LeetCode Top Interview 150 Badge" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/LeetCode-Top%20Interview%20150-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+    </td>
+    <td width="25%" align="center" valign="top">
+      <img src="assets/badges/leetcode_75.png" width="90%" style="border-radius:12px;border:1px solid #30363d;" alt="LeetCode 75 Badge" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/LeetCode-LeetCode%2075-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+    </td>
+    <td width="25%" align="center" valign="top">
+      <img src="assets/badges/leetcode_top_sql_50.png" width="90%" style="border-radius:12px;border:1px solid #30363d;" alt="LeetCode Top SQL 50 Badge" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/LeetCode-Top%20SQL%2050-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+    </td>
+    <td width="25%" align="center" valign="top">
+      <img src="assets/badges/leetcode_introduction_to_pandas.png" width="90%" style="border-radius:12px;border:1px solid #30363d;" alt="LeetCode Introduction to Pandas Badge" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/LeetCode-Intro%20to%20Pandas-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
 ### 🧠 Google & Kaggle — Machine Learning & AI Specializations
 
 <table border="0" width="100%">
