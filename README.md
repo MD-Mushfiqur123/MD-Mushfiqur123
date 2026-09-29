@@ -75,6 +75,7 @@ impact:
 [![DropLychee](https://img.shields.io/badge/%F0%9F%A4%97%20DropLychee-40K%2B%20Downloads-FFD21E?style=flat-square)](https://huggingface.co/DropLychee)
 [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20HF%20Profile-MD--Mushfiqur123-FFD21E?style=flat-square)](https://huggingface.co/MD-Mushfiqur123)
 <br/>
+[![LeetCode](https://img.shields.io/badge/LeetCode-mushfiqurH2B-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/mushfiqurH2B/)
 [![Facebook](https://img.shields.io/badge/Facebook-Md%20Mushfiqur%20Rahim-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/100090048324727)
 
 </td>
@@ -333,27 +334,53 @@ impact:
 
 <div align="center">
 
+<a href="https://leetcode.com/u/mushfiqurH2B/">
+  <img src="https://img.shields.io/badge/LeetCode-mushfiqurH2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+<a href="https://leetcode.com/u/mushfiqurH2B/">
+  <img src="https://img.shields.io/badge/Solved-293%20Problems-00B8A3?style=for-the-badge" />
+</a>
+<a href="https://leetcode.com/u/mushfiqurH2B/">
+  <img src="https://img.shields.io/badge/Hard-24-EF4743?style=for-the-badge" />
+</a>
+<a href="https://leetcode.com/u/mushfiqurH2B/">
+  <img src="https://img.shields.io/badge/Medium-157-FFC01E?style=for-the-badge" />
+</a>
+<a href="https://leetcode.com/u/mushfiqurH2B/">
+  <img src="https://img.shields.io/badge/Easy-112-00B8A3?style=for-the-badge" />
+</a>
+
+<br/><br/>
+
 <table border="0" width="100%">
   <tr>
     <td width="25%" align="center" valign="top">
-      <img src="assets/badges/leetcode_top_interview_150.png" width="90%" style="border-radius:12px;border:1px solid #30363d;" alt="LeetCode Top Interview 150 Badge" />
+      <a href="https://leetcode.com/u/mushfiqurH2B/">
+        <img src="assets/badges/leetcode_top_interview_150.png" width="90%" style="border-radius:12px;border:1px solid #30363d;" alt="LeetCode Top Interview 150 Badge" />
+      </a>
       <br/><br/>
-      <img src="https://img.shields.io/badge/LeetCode-Top%20Interview%20150-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+      <a href="https://leetcode.com/u/mushfiqurH2B/"><img src="https://img.shields.io/badge/LeetCode-Top%20Interview%20150-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
     </td>
     <td width="25%" align="center" valign="top">
-      <img src="assets/badges/leetcode_75.png" width="90%" style="border-radius:12px;border:1px solid #30363d;" alt="LeetCode 75 Badge" />
+      <a href="https://leetcode.com/u/mushfiqurH2B/">
+        <img src="assets/badges/leetcode_75.png" width="90%" style="border-radius:12px;border:1px solid #30363d;" alt="LeetCode 75 Badge" />
+      </a>
       <br/><br/>
-      <img src="https://img.shields.io/badge/LeetCode-LeetCode%2075-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+      <a href="https://leetcode.com/u/mushfiqurH2B/"><img src="https://img.shields.io/badge/LeetCode-LeetCode%2075-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
     </td>
     <td width="25%" align="center" valign="top">
-      <img src="assets/badges/leetcode_top_sql_50.png" width="90%" style="border-radius:12px;border:1px solid #30363d;" alt="LeetCode Top SQL 50 Badge" />
+      <a href="https://leetcode.com/u/mushfiqurH2B/">
+        <img src="assets/badges/leetcode_top_sql_50.png" width="90%" style="border-radius:12px;border:1px solid #30363d;" alt="LeetCode Top SQL 50 Badge" />
+      </a>
       <br/><br/>
-      <img src="https://img.shields.io/badge/LeetCode-Top%20SQL%2050-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+      <a href="https://leetcode.com/u/mushfiqurH2B/"><img src="https://img.shields.io/badge/LeetCode-Top%20SQL%2050-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
     </td>
     <td width="25%" align="center" valign="top">
-      <img src="assets/badges/leetcode_introduction_to_pandas.png" width="90%" style="border-radius:12px;border:1px solid #30363d;" alt="LeetCode Introduction to Pandas Badge" />
+      <a href="https://leetcode.com/u/mushfiqurH2B/">
+        <img src="assets/badges/leetcode_introduction_to_pandas.png" width="90%" style="border-radius:12px;border:1px solid #30363d;" alt="LeetCode Introduction to Pandas Badge" />
+      </a>
       <br/><br/>
-      <img src="https://img.shields.io/badge/LeetCode-Intro%20to%20Pandas-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+      <a href="https://leetcode.com/u/mushfiqurH2B/"><img src="https://img.shields.io/badge/LeetCode-Intro%20to%20Pandas-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
     </td>
   </tr>
 </table>
