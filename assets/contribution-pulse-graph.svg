@@ -108,19 +108,19 @@
       <line x1="75" y1="306.0" x2="835" y2="306.0" stroke="rgba(255, 255, 255, 0.12)" stroke-width="1" stroke-dasharray="2 3"/>
       <text x="65" y="309.5" fill="#CBD5E1" font-size="11" font-family="'JetBrains Mono', 'Segoe UI', monospace" font-weight="500" text-anchor="end">0</text>
       <line x1="75" y1="270.6" x2="835" y2="270.6" stroke="rgba(255, 255, 255, 0.12)" stroke-width="1" stroke-dasharray="2 3"/>
-      <text x="65" y="274.1" fill="#CBD5E1" font-size="11" font-family="'JetBrains Mono', 'Segoe UI', monospace" font-weight="500" text-anchor="end">10</text>
+      <text x="65" y="274.1" fill="#CBD5E1" font-size="11" font-family="'JetBrains Mono', 'Segoe UI', monospace" font-weight="500" text-anchor="end">5</text>
       <line x1="75" y1="235.1" x2="835" y2="235.1" stroke="rgba(255, 255, 255, 0.12)" stroke-width="1" stroke-dasharray="2 3"/>
-      <text x="65" y="238.6" fill="#CBD5E1" font-size="11" font-family="'JetBrains Mono', 'Segoe UI', monospace" font-weight="500" text-anchor="end">20</text>
+      <text x="65" y="238.6" fill="#CBD5E1" font-size="11" font-family="'JetBrains Mono', 'Segoe UI', monospace" font-weight="500" text-anchor="end">10</text>
       <line x1="75" y1="199.7" x2="835" y2="199.7" stroke="rgba(255, 255, 255, 0.12)" stroke-width="1" stroke-dasharray="2 3"/>
-      <text x="65" y="203.2" fill="#CBD5E1" font-size="11" font-family="'JetBrains Mono', 'Segoe UI', monospace" font-weight="500" text-anchor="end">30</text>
+      <text x="65" y="203.2" fill="#CBD5E1" font-size="11" font-family="'JetBrains Mono', 'Segoe UI', monospace" font-weight="500" text-anchor="end">15</text>
       <line x1="75" y1="164.3" x2="835" y2="164.3" stroke="rgba(255, 255, 255, 0.12)" stroke-width="1" stroke-dasharray="2 3"/>
-      <text x="65" y="167.8" fill="#CBD5E1" font-size="11" font-family="'JetBrains Mono', 'Segoe UI', monospace" font-weight="500" text-anchor="end">40</text>
+      <text x="65" y="167.8" fill="#CBD5E1" font-size="11" font-family="'JetBrains Mono', 'Segoe UI', monospace" font-weight="500" text-anchor="end">20</text>
       <line x1="75" y1="128.9" x2="835" y2="128.9" stroke="rgba(255, 255, 255, 0.12)" stroke-width="1" stroke-dasharray="2 3"/>
-      <text x="65" y="132.4" fill="#CBD5E1" font-size="11" font-family="'JetBrains Mono', 'Segoe UI', monospace" font-weight="500" text-anchor="end">50</text>
+      <text x="65" y="132.4" fill="#CBD5E1" font-size="11" font-family="'JetBrains Mono', 'Segoe UI', monospace" font-weight="500" text-anchor="end">25</text>
       <line x1="75" y1="93.4" x2="835" y2="93.4" stroke="rgba(255, 255, 255, 0.12)" stroke-width="1" stroke-dasharray="2 3"/>
-      <text x="65" y="96.9" fill="#CBD5E1" font-size="11" font-family="'JetBrains Mono', 'Segoe UI', monospace" font-weight="500" text-anchor="end">60</text>
+      <text x="65" y="96.9" fill="#CBD5E1" font-size="11" font-family="'JetBrains Mono', 'Segoe UI', monospace" font-weight="500" text-anchor="end">30</text>
       <line x1="75" y1="58.0" x2="835" y2="58.0" stroke="rgba(255, 255, 255, 0.12)" stroke-width="1" stroke-dasharray="2 3"/>
-      <text x="65" y="61.5" fill="#CBD5E1" font-size="11" font-family="'JetBrains Mono', 'Segoe UI', monospace" font-weight="500" text-anchor="end">70</text>
+      <text x="65" y="61.5" fill="#CBD5E1" font-size="11" font-family="'JetBrains Mono', 'Segoe UI', monospace" font-weight="500" text-anchor="end">35</text>
   </g>
 
   <!-- Vertical Grid Lines & X Ticks -->
@@ -191,16 +191,16 @@
   </g>
 
   <!-- Area Gradient Fill -->
-  <path d="M 75.00 295.37 C 83.44 298.91, 91.89 306.00, 100.33 306.00 C 108.78 306.00, 117.22 259.94, 125.67 259.94 C 134.11 259.94, 142.56 287.70, 151.00 295.37 C 159.44 303.05, 167.89 306.00, 176.33 306.00 C 184.78 306.00, 193.22 263.49, 201.67 263.49 C 210.11 263.49, 218.56 306.00, 227.00 306.00 C 235.44 306.00, 243.89 130.63, 252.33 89.89 C 260.78 49.14, 269.22 61.54, 277.67 61.54 C 286.11 61.54, 294.56 306.00, 303.00 306.00 C 311.44 306.00, 319.89 306.00, 328.33 306.00 C 336.78 306.00, 345.22 306.00, 353.67 306.00 C 362.11 306.00, 370.56 306.00, 379.00 306.00 C 387.44 306.00, 395.89 306.00, 404.33 306.00 C 412.78 306.00, 421.22 306.00, 429.67 306.00 C 438.11 306.00, 446.56 306.00, 455.00 306.00 C 463.44 306.00, 471.89 174.91, 480.33 174.91 C 488.78 174.91, 497.22 195.58, 505.67 217.43 C 514.11 239.28, 522.56 306.00, 531.00 306.00 C 539.44 306.00, 547.89 306.00, 556.33 306.00 C 564.78 306.00, 573.22 306.00, 581.67 306.00 C 590.11 306.00, 598.56 298.91, 607.00 295.37 C 615.44 291.83, 623.89 284.74, 632.33 284.74 C 640.78 284.74, 649.22 306.00, 657.67 306.00 C 666.11 306.00, 674.56 306.00, 683.00 306.00 C 691.44 306.00, 699.89 242.23, 708.33 220.97 C 716.78 199.71, 725.22 178.46, 733.67 178.46 C 742.11 178.46, 750.56 180.23, 759.00 199.71 C 767.44 219.20, 775.89 295.37, 784.33 295.37 C 792.78 295.37, 801.22 270.57, 809.67 270.57 C 818.11 270.57, 826.56 272.93, 835.00 274.11 L 835.00 306.00 L 75.00 306.00 Z" fill="url(#area-gradient)" class="area-fill"/>
+  <path d="M 75.00 284.74 C 83.44 291.83, 91.89 306.00, 100.33 306.00 C 108.78 306.00, 117.22 306.00, 125.67 306.00 C 134.11 306.00, 142.56 306.00, 151.00 306.00 C 159.44 306.00, 167.89 298.91, 176.33 298.91 C 184.78 298.91, 193.22 306.00, 201.67 306.00 C 210.11 306.00, 218.56 306.00, 227.00 306.00 C 235.44 306.00, 243.89 298.91, 252.33 298.91 C 260.78 298.91, 269.22 306.00, 277.67 306.00 C 286.11 306.00, 294.56 306.00, 303.00 306.00 C 311.44 306.00, 319.89 298.91, 328.33 298.91 C 336.78 298.91, 345.22 306.00, 353.67 306.00 C 362.11 306.00, 370.56 306.00, 379.00 306.00 C 387.44 306.00, 395.89 306.00, 404.33 306.00 C 412.78 306.00, 421.22 291.83, 429.67 291.83 C 438.11 291.83, 446.56 306.00, 455.00 306.00 C 463.44 306.00, 471.89 306.00, 480.33 298.91 C 488.78 283.56, 497.22 213.89, 505.67 213.89 C 514.11 213.89, 522.56 306.00, 531.00 306.00 C 539.44 306.00, 547.89 100.51, 556.33 100.51 C 564.78 100.51, 573.22 306.00, 581.67 306.00 C 590.11 306.00, 598.56 306.00, 607.00 306.00 C 615.44 306.00, 623.89 306.00, 632.33 306.00 C 640.78 306.00, 649.22 306.00, 657.67 306.00 C 666.11 306.00, 674.56 306.00, 683.00 306.00 C 691.44 306.00, 699.89 263.49, 708.33 263.49 C 716.78 263.49, 725.22 306.00, 733.67 306.00 C 742.11 306.00, 750.56 93.43, 759.00 93.43 C 767.44 93.43, 775.89 176.10, 784.33 206.80 C 792.78 237.50, 801.22 261.12, 809.67 277.66 C 818.11 294.19, 826.56 296.55, 835.00 306.00 L 835.00 306.00 L 75.00 306.00 Z" fill="url(#area-gradient)" class="area-fill"/>
 
   <!-- Glowing Line Curve -->
-  <path d="M 75.00 295.37 C 83.44 298.91, 91.89 306.00, 100.33 306.00 C 108.78 306.00, 117.22 259.94, 125.67 259.94 C 134.11 259.94, 142.56 287.70, 151.00 295.37 C 159.44 303.05, 167.89 306.00, 176.33 306.00 C 184.78 306.00, 193.22 263.49, 201.67 263.49 C 210.11 263.49, 218.56 306.00, 227.00 306.00 C 235.44 306.00, 243.89 130.63, 252.33 89.89 C 260.78 49.14, 269.22 61.54, 277.67 61.54 C 286.11 61.54, 294.56 306.00, 303.00 306.00 C 311.44 306.00, 319.89 306.00, 328.33 306.00 C 336.78 306.00, 345.22 306.00, 353.67 306.00 C 362.11 306.00, 370.56 306.00, 379.00 306.00 C 387.44 306.00, 395.89 306.00, 404.33 306.00 C 412.78 306.00, 421.22 306.00, 429.67 306.00 C 438.11 306.00, 446.56 306.00, 455.00 306.00 C 463.44 306.00, 471.89 174.91, 480.33 174.91 C 488.78 174.91, 497.22 195.58, 505.67 217.43 C 514.11 239.28, 522.56 306.00, 531.00 306.00 C 539.44 306.00, 547.89 306.00, 556.33 306.00 C 564.78 306.00, 573.22 306.00, 581.67 306.00 C 590.11 306.00, 598.56 298.91, 607.00 295.37 C 615.44 291.83, 623.89 284.74, 632.33 284.74 C 640.78 284.74, 649.22 306.00, 657.67 306.00 C 666.11 306.00, 674.56 306.00, 683.00 306.00 C 691.44 306.00, 699.89 242.23, 708.33 220.97 C 716.78 199.71, 725.22 178.46, 733.67 178.46 C 742.11 178.46, 750.56 180.23, 759.00 199.71 C 767.44 219.20, 775.89 295.37, 784.33 295.37 C 792.78 295.37, 801.22 270.57, 809.67 270.57 C 818.11 270.57, 826.56 272.93, 835.00 274.11" fill="none" stroke="#00F0FF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" filter="url(#neon-glow)" class="line-curve"/>
+  <path d="M 75.00 284.74 C 83.44 291.83, 91.89 306.00, 100.33 306.00 C 108.78 306.00, 117.22 306.00, 125.67 306.00 C 134.11 306.00, 142.56 306.00, 151.00 306.00 C 159.44 306.00, 167.89 298.91, 176.33 298.91 C 184.78 298.91, 193.22 306.00, 201.67 306.00 C 210.11 306.00, 218.56 306.00, 227.00 306.00 C 235.44 306.00, 243.89 298.91, 252.33 298.91 C 260.78 298.91, 269.22 306.00, 277.67 306.00 C 286.11 306.00, 294.56 306.00, 303.00 306.00 C 311.44 306.00, 319.89 298.91, 328.33 298.91 C 336.78 298.91, 345.22 306.00, 353.67 306.00 C 362.11 306.00, 370.56 306.00, 379.00 306.00 C 387.44 306.00, 395.89 306.00, 404.33 306.00 C 412.78 306.00, 421.22 291.83, 429.67 291.83 C 438.11 291.83, 446.56 306.00, 455.00 306.00 C 463.44 306.00, 471.89 306.00, 480.33 298.91 C 488.78 283.56, 497.22 213.89, 505.67 213.89 C 514.11 213.89, 522.56 306.00, 531.00 306.00 C 539.44 306.00, 547.89 100.51, 556.33 100.51 C 564.78 100.51, 573.22 306.00, 581.67 306.00 C 590.11 306.00, 598.56 306.00, 607.00 306.00 C 615.44 306.00, 623.89 306.00, 632.33 306.00 C 640.78 306.00, 649.22 306.00, 657.67 306.00 C 666.11 306.00, 674.56 306.00, 683.00 306.00 C 691.44 306.00, 699.89 263.49, 708.33 263.49 C 716.78 263.49, 725.22 306.00, 733.67 306.00 C 742.11 306.00, 750.56 93.43, 759.00 93.43 C 767.44 93.43, 775.89 176.10, 784.33 206.80 C 792.78 237.50, 801.22 261.12, 809.67 277.66 C 818.11 294.19, 826.56 296.55, 835.00 306.00" fill="none" stroke="#00F0FF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" filter="url(#neon-glow)" class="line-curve"/>
 
   <!-- Data Points -->
   <g class="data-points">
     
       <g class="data-point ">
-        <circle cx="75.0" cy="295.4" r="4.0" fill="#FFFFFF" stroke="#00F0FF" stroke-width="1.8"/>
+        <circle cx="75.0" cy="284.7" r="4.0" fill="#FFFFFF" stroke="#00F0FF" stroke-width="1.8"/>
         
       </g>
       <g class="data-point ">
@@ -208,39 +208,39 @@
         
       </g>
       <g class="data-point ">
-        <circle cx="125.7" cy="259.9" r="4.0" fill="#FFFFFF" stroke="#00F0FF" stroke-width="1.8"/>
+        <circle cx="125.7" cy="306.0" r="4.0" fill="#FFFFFF" stroke="#00F0FF" stroke-width="1.8"/>
         
       </g>
       <g class="data-point ">
-        <circle cx="151.0" cy="295.4" r="4.0" fill="#FFFFFF" stroke="#00F0FF" stroke-width="1.8"/>
+        <circle cx="151.0" cy="306.0" r="4.0" fill="#FFFFFF" stroke="#00F0FF" stroke-width="1.8"/>
         
       </g>
       <g class="data-point ">
-        <circle cx="176.3" cy="306.0" r="4.0" fill="#FFFFFF" stroke="#00F0FF" stroke-width="1.8"/>
+        <circle cx="176.3" cy="298.9" r="4.0" fill="#FFFFFF" stroke="#00F0FF" stroke-width="1.8"/>
         
       </g>
       <g class="data-point ">
-        <circle cx="201.7" cy="263.5" r="4.0" fill="#FFFFFF" stroke="#00F0FF" stroke-width="1.8"/>
+        <circle cx="201.7" cy="306.0" r="4.0" fill="#FFFFFF" stroke="#00F0FF" stroke-width="1.8"/>
         
       </g>
       <g class="data-point ">
         <circle cx="227.0" cy="306.0" r="4.0" fill="#FFFFFF" stroke="#00F0FF" stroke-width="1.8"/>
         
       </g>
-      <g class="data-point peak-node">
-        <circle cx="252.3" cy="89.9" r="4.0" fill="#FFFFFF" stroke="#00F0FF" stroke-width="1.8"/>
-        <circle cx="252.3" cy="89.9" r="6.5" fill="none" stroke="#00F0FF" stroke-width="1" opacity="0.6" class="radar-ping"/>
+      <g class="data-point ">
+        <circle cx="252.3" cy="298.9" r="4.0" fill="#FFFFFF" stroke="#00F0FF" stroke-width="1.8"/>
+        
       </g>
-      <g class="data-point peak-node">
-        <circle cx="277.7" cy="61.5" r="4.0" fill="#FFFFFF" stroke="#00F0FF" stroke-width="1.8"/>
-        <circle cx="277.7" cy="61.5" r="6.5" fill="none" stroke="#00F0FF" stroke-width="1" opacity="0.6" class="radar-ping"/>
+      <g class="data-point ">
+        <circle cx="277.7" cy="306.0" r="4.0" fill="#FFFFFF" stroke="#00F0FF" stroke-width="1.8"/>
+        
       </g>
       <g class="data-point ">
         <circle cx="303.0" cy="306.0" r="4.0" fill="#FFFFFF" stroke="#00F0FF" stroke-width="1.8"/>
         
       </g>
       <g class="data-point ">
-        <circle cx="328.3" cy="306.0" r="4.0" fill="#FFFFFF" stroke="#00F0FF" stroke-width="1.8"/>
+        <circle cx="328.3" cy="298.9" r="4.0" fill="#FFFFFF" stroke="#00F0FF" stroke-width="1.8"/>
         
       </g>
       <g class="data-point ">
@@ -256,7 +256,7 @@
         
       </g>
       <g class="data-point ">
-        <circle cx="429.7" cy="306.0" r="4.0" fill="#FFFFFF" stroke="#00F0FF" stroke-width="1.8"/>
+        <circle cx="429.7" cy="291.8" r="4.0" fill="#FFFFFF" stroke="#00F0FF" stroke-width="1.8"/>
         
       </g>
       <g class="data-point ">
@@ -264,11 +264,11 @@
         
       </g>
       <g class="data-point ">
-        <circle cx="480.3" cy="174.9" r="4.0" fill="#FFFFFF" stroke="#00F0FF" stroke-width="1.8"/>
+        <circle cx="480.3" cy="298.9" r="4.0" fill="#FFFFFF" stroke="#00F0FF" stroke-width="1.8"/>
         
       </g>
       <g class="data-point ">
-        <circle cx="505.7" cy="217.4" r="4.0" fill="#FFFFFF" stroke="#00F0FF" stroke-width="1.8"/>
+        <circle cx="505.7" cy="213.9" r="4.0" fill="#FFFFFF" stroke="#00F0FF" stroke-width="1.8"/>
         
       </g>
       <g class="data-point ">
@@ -276,7 +276,7 @@
         
       </g>
       <g class="data-point ">
-        <circle cx="556.3" cy="306.0" r="4.0" fill="#FFFFFF" stroke="#00F0FF" stroke-width="1.8"/>
+        <circle cx="556.3" cy="100.5" r="4.0" fill="#FFFFFF" stroke="#00F0FF" stroke-width="1.8"/>
         
       </g>
       <g class="data-point ">
@@ -284,11 +284,11 @@
         
       </g>
       <g class="data-point ">
-        <circle cx="607.0" cy="295.4" r="4.0" fill="#FFFFFF" stroke="#00F0FF" stroke-width="1.8"/>
+        <circle cx="607.0" cy="306.0" r="4.0" fill="#FFFFFF" stroke="#00F0FF" stroke-width="1.8"/>
         
       </g>
       <g class="data-point ">
-        <circle cx="632.3" cy="284.7" r="4.0" fill="#FFFFFF" stroke="#00F0FF" stroke-width="1.8"/>
+        <circle cx="632.3" cy="306.0" r="4.0" fill="#FFFFFF" stroke="#00F0FF" stroke-width="1.8"/>
         
       </g>
       <g class="data-point ">
@@ -300,27 +300,27 @@
         
       </g>
       <g class="data-point ">
-        <circle cx="708.3" cy="221.0" r="4.0" fill="#FFFFFF" stroke="#00F0FF" stroke-width="1.8"/>
+        <circle cx="708.3" cy="263.5" r="4.0" fill="#FFFFFF" stroke="#00F0FF" stroke-width="1.8"/>
         
       </g>
       <g class="data-point ">
-        <circle cx="733.7" cy="178.5" r="4.0" fill="#FFFFFF" stroke="#00F0FF" stroke-width="1.8"/>
+        <circle cx="733.7" cy="306.0" r="4.0" fill="#FFFFFF" stroke="#00F0FF" stroke-width="1.8"/>
+        
+      </g>
+      <g class="data-point peak-node">
+        <circle cx="759.0" cy="93.4" r="4.0" fill="#FFFFFF" stroke="#00F0FF" stroke-width="1.8"/>
+        <circle cx="759.0" cy="93.4" r="6.5" fill="none" stroke="#00F0FF" stroke-width="1" opacity="0.6" class="radar-ping"/>
+      </g>
+      <g class="data-point ">
+        <circle cx="784.3" cy="206.8" r="4.0" fill="#FFFFFF" stroke="#00F0FF" stroke-width="1.8"/>
         
       </g>
       <g class="data-point ">
-        <circle cx="759.0" cy="199.7" r="4.0" fill="#FFFFFF" stroke="#00F0FF" stroke-width="1.8"/>
+        <circle cx="809.7" cy="277.7" r="4.0" fill="#FFFFFF" stroke="#00F0FF" stroke-width="1.8"/>
         
       </g>
       <g class="data-point ">
-        <circle cx="784.3" cy="295.4" r="4.0" fill="#FFFFFF" stroke="#00F0FF" stroke-width="1.8"/>
-        
-      </g>
-      <g class="data-point ">
-        <circle cx="809.7" cy="270.6" r="4.0" fill="#FFFFFF" stroke="#00F0FF" stroke-width="1.8"/>
-        
-      </g>
-      <g class="data-point ">
-        <circle cx="835.0" cy="274.1" r="4.0" fill="#FFFFFF" stroke="#00F0FF" stroke-width="1.8"/>
+        <circle cx="835.0" cy="306.0" r="4.0" fill="#FFFFFF" stroke="#00F0FF" stroke-width="1.8"/>
         
       </g>
   </g>

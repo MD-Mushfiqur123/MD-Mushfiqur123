@@ -36,6 +36,17 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           user_name: MD-Mushfiqur123
 
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate Real 30-Day Cyber Cyan Contribution Pulse Graph
+        run: |
+          python scripts/generate_contribution_graph.py
+          mkdir -p dist
+          cp assets/contribution-pulse-graph.svg dist/contribution-pulse-graph.svg || true
+
       - name: Fetch Minecraft Sakura Contribution Biome
         run: |
           mkdir -p dist
