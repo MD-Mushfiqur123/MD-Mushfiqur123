@@ -38,7 +38,9 @@ identity:
   role      : "SOO & Lead AI/ML Engineer @ Craftly"
   age       : 16
   location  : "Bogura, Bangladesh 🇧🇩"
-  education : "HSC '28 Science | Govt. Azizul Haque College"
+  education :
+    - "Computer Science | University of the People, USA 🇺🇸 (Enrolled)"
+    - "HSC '28 Science | Govt. Azizul Haque College 🇧🇩"
 
 focus:
   flagship  : "Mission Mlych — 1.3B Custom SLM"
