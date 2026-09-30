@@ -235,6 +235,18 @@ impact:
 
 </div>
 
+---
+
+## 📈 30-Day Contribution Pulse Line Graph
+
+<div align="center">
+
+<img src="assets/contribution-pulse-graph.svg" width="100%" alt="30-Day Contribution Pulse Line Graph — MD-Mushfiqur123" />
+
+</div>
+
+---
+
 ## ✍️ Dev Wisdom
 
 <div align="center">
