@@ -38,7 +38,9 @@ identity:
   role      : "SOO & Lead AI/ML Engineer @ Craftly"
   age       : 16
   location  : "Bogura, Bangladesh 🇧🇩"
-  education : "HSC '28 Science | Govt. Azizul Haque College"
+  education :
+    - "Computer Science | University of the People, USA 🇺🇸 (Enrolled)"
+    - "HSC '28 Science | Govt. Azizul Haque College 🇧🇩"
 
 focus:
   flagship  : "Mission Mlych — 1.3B Custom SLM"
@@ -265,6 +267,17 @@ impact:
 ### 🏛️ Top Universities & Global Computer Science Programs
 
 <table border="0" width="100%">
+  <tr>
+    <td colspan="2" align="center" valign="top" style="padding-bottom: 14px;">
+      <a href="https://www.uopeople.edu">
+        <img src="assets/uopeople_enrollment.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="University of the People — Enrolled Student (English Proficiency & Orientation Completed)" />
+      </a>
+      <br/><br/>
+      <a href="https://www.uopeople.edu">
+        <img src="https://img.shields.io/badge/University%20of%20the%20People-Undergraduate%20Computer%20Science%20(USA)-8A1538?style=flat-square&logo=academia&logoColor=white" />
+      </a>
+    </td>
+  </tr>
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://cs50.harvard.edu/certificates/9fde6ff7-e81e-4c04-89cf-735b736004dd">
