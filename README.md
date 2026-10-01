@@ -162,7 +162,7 @@ impact:
 
 <div align="center">
 
-<img src="github-metrics.png" alt="GitHub Metrics — Isometric Calendar, Habits, Languages" />
+<img src="assets/github-metrics-dashboard.svg" width="100%" alt="GitHub Metrics & Analytics — MD-Mushfiqur123" />
 
 </div>
 
