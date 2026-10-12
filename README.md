@@ -490,7 +490,93 @@ impact:
 
 <br/>
 
-#### ⭐ Multi-Domain Mastery Badges (7x Gold 5-Star Badges)
+#### ⭐ Multi-Domain Mastery Badges (7x Gold 5-Star & 1x Silver)
+
+<table border="0" width="100%">
+  <tr>
+    <td width="25%" align="center" valign="top">
+      <a href="https://www.hackerrank.com/profile/20mahin2020">
+        <img src="assets/badges/hackerrank_badge_problem_solving.png" width="90%" style="max-width:130px;filter:drop-shadow(0 4px 12px rgba(255,215,0,0.25));" alt="Problem Solving 5-Star" />
+      </a>
+      <br/><br/>
+      <b>Problem Solving</b><br/>
+      <a href="https://www.hackerrank.com/profile/20mahin2020"><img src="https://img.shields.io/badge/5%20Stars-Gold-FFD700?style=flat-square" /></a><br/>
+      <small><code>2,161 pts • 91 Solved</code></small>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <a href="https://www.hackerrank.com/profile/20mahin2020">
+        <img src="assets/badges/hackerrank_badge_sql.png" width="90%" style="max-width:130px;filter:drop-shadow(0 4px 12px rgba(255,215,0,0.25));" alt="SQL 5-Star" />
+      </a>
+      <br/><br/>
+      <b>SQL</b><br/>
+      <a href="https://www.hackerrank.com/profile/20mahin2020"><img src="https://img.shields.io/badge/5%20Stars-Gold-FFD700?style=flat-square" /></a><br/>
+      <small><code>880 pts • 51 Solved</code></small>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <a href="https://www.hackerrank.com/profile/20mahin2020">
+        <img src="assets/badges/hackerrank_badge_java.png" width="90%" style="max-width:130px;filter:drop-shadow(0 4px 12px rgba(255,215,0,0.25));" alt="Java 5-Star" />
+      </a>
+      <br/><br/>
+      <b>Java</b><br/>
+      <a href="https://www.hackerrank.com/profile/20mahin2020"><img src="https://img.shields.io/badge/5%20Stars-Gold-FFD700?style=flat-square" /></a><br/>
+      <small><code>761 pts • 55 Solved</code></small>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <a href="https://www.hackerrank.com/profile/20mahin2020">
+        <img src="assets/badges/hackerrank_badge_python.png" width="90%" style="max-width:130px;filter:drop-shadow(0 4px 12px rgba(255,215,0,0.25));" alt="Python 5-Star" />
+      </a>
+      <br/><br/>
+      <b>Python</b><br/>
+      <a href="https://www.hackerrank.com/profile/20mahin2020"><img src="https://img.shields.io/badge/5%20Stars-Gold-FFD700?style=flat-square" /></a><br/>
+      <small><code>715 pts • 34 Solved</code></small>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" align="center" valign="top">
+      <a href="https://www.hackerrank.com/profile/20mahin2020">
+        <img src="assets/badges/hackerrank_badge_c.png" width="90%" style="max-width:130px;filter:drop-shadow(0 4px 12px rgba(255,215,0,0.25));" alt="C Language 5-Star" />
+      </a>
+      <br/><br/>
+      <b>C Language</b><br/>
+      <a href="https://www.hackerrank.com/profile/20mahin2020"><img src="https://img.shields.io/badge/5%20Stars-Gold-FFD700?style=flat-square" /></a><br/>
+      <small><code>620 pts • 25 Solved</code></small>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <a href="https://www.hackerrank.com/profile/20mahin2020">
+        <img src="assets/badges/hackerrank_badge_ruby.png" width="90%" style="max-width:130px;filter:drop-shadow(0 4px 12px rgba(255,215,0,0.25));" alt="Ruby 5-Star" />
+      </a>
+      <br/><br/>
+      <b>Ruby</b><br/>
+      <a href="https://www.hackerrank.com/profile/20mahin2020"><img src="https://img.shields.io/badge/5%20Stars-Gold-FFD700?style=flat-square" /></a><br/>
+      <small><code>610 pts • 41 Solved</code></small>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <a href="https://www.hackerrank.com/profile/20mahin2020">
+        <img src="assets/badges/hackerrank_badge_cpp.png" width="90%" style="max-width:130px;filter:drop-shadow(0 4px 12px rgba(255,215,0,0.25));" alt="C++ 5-Star" />
+      </a>
+      <br/><br/>
+      <b>C++</b><br/>
+      <a href="https://www.hackerrank.com/profile/20mahin2020"><img src="https://img.shields.io/badge/5%20Stars-Gold-FFD700?style=flat-square" /></a><br/>
+      <small><code>265 pts • 17 Solved</code></small>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <a href="https://www.hackerrank.com/profile/20mahin2020">
+        <img src="assets/badges/hackerrank_badge_javascript_10days.png" width="90%" style="max-width:130px;filter:drop-shadow(0 4px 12px rgba(192,192,192,0.25));" alt="10 Days of JS 4-Star" />
+      </a>
+      <br/><br/>
+      <b>10 Days of JS</b><br/>
+      <a href="https://www.hackerrank.com/profile/20mahin2020"><img src="https://img.shields.io/badge/4%20Stars-Silver-C0C0C0?style=flat-square" /></a><br/>
+      <small><code>19 pts • 19 Solved</code></small>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<details>
+  <summary><b>📊 View Detailed Multi-Domain Track Score Breakdown</b></summary>
+  <br/>
+
 | Domain Track | Stars | Badge Level | Points / Solved | Status |
 | :--- | :---: | :---: | :---: | :---: |
 | 🧩 **Problem Solving** | ⭐⭐⭐⭐⭐ | **Gold 5-Star** | 2,161.0 pts (91 Solved) | Dominant |
@@ -501,6 +587,8 @@ impact:
 | 💎 **Ruby** | ⭐⭐⭐⭐⭐ | **Gold 5-Star** | 610.0 pts (41 Solved) | 100% Complete (41/41) |
 | ⚡ **C++** | ⭐⭐⭐⭐⭐ | **Gold 5-Star** | 265.0 pts (17 Solved) | Grand Master |
 | 🌐 **10 Days of JavaScript** | ⭐⭐⭐⭐ | **Silver 4-Star** | 19.0 pts (19 Solved) | Complete |
+
+</details>
 
 </div>
 
