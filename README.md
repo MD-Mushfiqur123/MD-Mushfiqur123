@@ -81,6 +81,7 @@ impact:
 [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20HF%20Profile-MD--Mushfiqur123-FFD21E?style=flat-square)](https://huggingface.co/MD-Mushfiqur123)
 <br/>
 [![LeetCode](https://img.shields.io/badge/LeetCode-mushfiqurH2B-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/mushfiqurH2B/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-20mahin2020-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/20mahin2020)
 [![Facebook](https://img.shields.io/badge/Facebook-Md%20Mushfiqur%20Rahim-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/100090048324727)
 
 </td>
@@ -355,16 +356,16 @@ impact:
   <img src="https://img.shields.io/badge/LeetCode-mushfiqurH2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 <a href="https://leetcode.com/u/mushfiqurH2B/">
-  <img src="https://img.shields.io/badge/Solved-293%20Problems-00B8A3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Solved-1089%20Problems-00B8A3?style=for-the-badge" />
 </a>
 <a href="https://leetcode.com/u/mushfiqurH2B/">
-  <img src="https://img.shields.io/badge/Hard-24-EF4743?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hard-429-EF4743?style=for-the-badge" />
 </a>
 <a href="https://leetcode.com/u/mushfiqurH2B/">
-  <img src="https://img.shields.io/badge/Medium-157-FFC01E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Medium-372-FFC01E?style=for-the-badge" />
 </a>
 <a href="https://leetcode.com/u/mushfiqurH2B/">
-  <img src="https://img.shields.io/badge/Easy-112-00B8A3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Easy-288-00B8A3?style=for-the-badge" />
 </a>
 
 <br/><br/>
@@ -401,6 +402,76 @@ impact:
     </td>
   </tr>
 </table>
+
+</div>
+
+<br/>
+
+### 🏆 HackerRank — Verified Certifications & Multi-Domain Badges
+
+<div align="center">
+
+<a href="https://www.hackerrank.com/profile/20mahin2020">
+  <img src="https://img.shields.io/badge/HackerRank-20mahin2020-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</a>
+<a href="https://www.hackerrank.com/profile/20mahin2020">
+  <img src="https://img.shields.io/badge/Badges-7x%20Gold%20⭐⭐⭐⭐⭐-FFD700?style=for-the-badge" />
+</a>
+<a href="https://www.hackerrank.com/profile/20mahin2020">
+  <img src="https://img.shields.io/badge/Certificates-4%20Verified%20Pass-00EA64?style=for-the-badge" />
+</a>
+
+<br/><br/>
+
+#### 📜 Official Verified Skill & Role Certifications
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <b>🏅 SQL (Advanced)</b><br/>
+      <code>Score: 200/200 (100%)</code><br/>
+      <a href="https://www.hackerrank.com/certificates/4f9571ae0dea">
+        <img src="https://img.shields.io/badge/Verified%20Certificate-4f9571ae0dea-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <b>🏅 SQL (Intermediate)</b><br/>
+      <code>Score: 150/150 (100%)</code><br/>
+      <a href="https://www.hackerrank.com/certificates/2d06d4712260">
+        <img src="https://img.shields.io/badge/Verified%20Certificate-2d06d4712260-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <b>🏅 Problem Solving (Intermediate)</b><br/>
+      <code>Score: 150/150 (100%)</code><br/>
+      <a href="https://www.hackerrank.com/certificates/c91f738e5e67">
+        <img src="https://img.shields.io/badge/Verified%20Certificate-c91f738e5e67-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <b>🏅 Software Engineer Intern</b><br/>
+      <code>Score: 100/100 (100%)</code><br/>
+      <a href="https://www.hackerrank.com/certificates/3382e9d12662">
+        <img src="https://img.shields.io/badge/Verified%20Certificate-3382e9d12662-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+#### ⭐ Multi-Domain Mastery Badges (7x Gold 5-Star Badges)
+| Domain Track | Stars | Badge Level | Points / Solved | Status |
+| :--- | :---: | :---: | :---: | :---: |
+| 🧩 **Problem Solving** | ⭐⭐⭐⭐⭐ | **Gold 5-Star** | 2,161.0 pts (91 Solved) | Dominant |
+| 🗄️ **SQL** | ⭐⭐⭐⭐⭐ | **Gold 5-Star** | 880.0 pts (51 Solved) | 100% Complete |
+| ☕ **Java** | ⭐⭐⭐⭐⭐ | **Gold 5-Star** | 761.0 pts (55 Solved) | Grand Master |
+| 🐍 **Python** | ⭐⭐⭐⭐⭐ | **Gold 5-Star** | 715.0 pts (34 Solved) | Grand Master |
+| ⚙️ **C Language** | ⭐⭐⭐⭐⭐ | **Gold 5-Star** | 620.0 pts (25 Solved) | 100% Complete |
+| 💎 **Ruby** | ⭐⭐⭐⭐⭐ | **Gold 5-Star** | 610.0 pts (41 Solved) | 100% Complete (41/41) |
+| ⚡ **C++** | ⭐⭐⭐⭐⭐ | **Gold 5-Star** | 265.0 pts (17 Solved) | Grand Master |
+| 🌐 **10 Days of JavaScript** | ⭐⭐⭐⭐ | **Silver 4-Star** | 19.0 pts (19 Solved) | Complete |
 
 </div>
 
