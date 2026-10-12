@@ -418,7 +418,7 @@ impact:
   <img src="https://img.shields.io/badge/Badges-7x%20Gold%20⭐⭐⭐⭐⭐-FFD700?style=for-the-badge" />
 </a>
 <a href="https://www.hackerrank.com/profile/20mahin2020">
-  <img src="https://img.shields.io/badge/Certificates-4%20Verified%20Pass-00EA64?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Certificates-5%20Verified%20Pass-00EA64?style=for-the-badge" />
 </a>
 
 <br/><br/>
@@ -432,12 +432,20 @@ impact:
       <a href="https://www.hackerrank.com/certificates/4f9571ae0dea">
         <img src="https://img.shields.io/badge/Verified%20Certificate-4f9571ae0dea-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
       </a>
+      <br/><br/>
+      <a href="https://www.hackerrank.com/certificates/4f9571ae0dea">
+        <img src="assets/certificates/hackerrank_sql_advanced.png" width="95%" style="border-radius:10px;border:1px solid #30363d;" alt="SQL Advanced Certificate" />
+      </a>
     </td>
     <td width="50%" align="center" valign="top">
       <b>🏅 SQL (Intermediate)</b><br/>
       <code>Score: 150/150 (100%)</code><br/>
       <a href="https://www.hackerrank.com/certificates/2d06d4712260">
         <img src="https://img.shields.io/badge/Verified%20Certificate-2d06d4712260-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
+      </a>
+      <br/><br/>
+      <a href="https://www.hackerrank.com/certificates/2d06d4712260">
+        <img src="assets/certificates/hackerrank_sql_intermediate.png" width="95%" style="border-radius:10px;border:1px solid #30363d;" alt="SQL Intermediate Certificate" />
       </a>
     </td>
   </tr>
@@ -448,12 +456,33 @@ impact:
       <a href="https://www.hackerrank.com/certificates/c91f738e5e67">
         <img src="https://img.shields.io/badge/Verified%20Certificate-c91f738e5e67-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
       </a>
+      <br/><br/>
+      <a href="https://www.hackerrank.com/certificates/c91f738e5e67">
+        <img src="assets/certificates/hackerrank_problem_solving_intermediate.png" width="95%" style="border-radius:10px;border:1px solid #30363d;" alt="Problem Solving Intermediate Certificate" />
+      </a>
     </td>
     <td width="50%" align="center" valign="top">
       <b>🏅 Software Engineer Intern</b><br/>
       <code>Score: 100/100 (100%)</code><br/>
       <a href="https://www.hackerrank.com/certificates/3382e9d12662">
         <img src="https://img.shields.io/badge/Verified%20Certificate-3382e9d12662-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
+      </a>
+      <br/><br/>
+      <a href="https://www.hackerrank.com/certificates/3382e9d12662">
+        <img src="assets/certificates/hackerrank_software_engineer_intern.png" width="95%" style="border-radius:10px;border:1px solid #30363d;" alt="Software Engineer Intern Certificate" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <b>🏅 Angular (Basic)</b><br/>
+      <code>Score: 100/100 (100%)</code><br/>
+      <a href="https://www.hackerrank.com/certificates/9ae28a134eb4">
+        <img src="https://img.shields.io/badge/Verified%20Certificate-9ae28a134eb4-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
+      </a>
+      <br/><br/>
+      <a href="https://www.hackerrank.com/certificates/9ae28a134eb4">
+        <img src="assets/certificates/hackerrank_angular_basic.png" width="48%" style="border-radius:10px;border:1px solid #30363d;" alt="Angular Basic Certificate" />
       </a>
     </td>
   </tr>
