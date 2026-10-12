@@ -1,0 +1,131 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 360" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradients -->
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117" />
+      <stop offset="50%" stop-color="#161b22" />
+      <stop offset="100%" stop-color="#090d13" />
+    </linearGradient>
+
+    <linearGradient id="borderGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F2FE" />
+      <stop offset="50%" stop-color="#4FACFE" />
+      <stop offset="100%" stop-color="#FFD700" />
+    </linearGradient>
+
+    <linearGradient id="goldGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFE000" />
+      <stop offset="100%" stop-color="#799F0C" />
+    </linearGradient>
+
+    <linearGradient id="cyanGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00F2FE" />
+      <stop offset="100%" stop-color="#4FACFE" />
+    </linearGradient>
+
+    <linearGradient id="purpleGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#b224ef" />
+      <stop offset="100%" stop-color="#7579ff" />
+    </linearGradient>
+
+    <linearGradient id="emeraldGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00EA64" />
+      <stop offset="100%" stop-color="#00B8A3" />
+    </linearGradient>
+
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <style>
+    .title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 20px; font-weight: 800; fill: #FFFFFF; letter-spacing: 1.5px; }
+    .badge { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 11px; font-weight: 700; fill: #00F2FE; letter-spacing: 1px; }
+    .val { font-family: 'JetBrains Mono', Consolas, Monaco, monospace; font-size: 24px; font-weight: 800; }
+    .lbl { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 700; fill: #c9d1d9; }
+    .sub { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 11px; font-weight: 500; fill: #8b949e; }
+    .footer-txt { font-family: 'JetBrains Mono', Consolas, Monaco, monospace; font-size: 11.5px; fill: #8b949e; font-weight: 600; }
+    .footer-highlight { fill: #00F2FE; font-weight: 700; }
+  </style>
+
+  <!-- Outer Card Frame -->
+  <rect x="2" y="2" width="996" height="356" rx="16" fill="url(#cardBg)" stroke="url(#borderGlow)" stroke-width="1.75" />
+
+  <!-- Top Status Badge -->
+  <g transform="translate(30, 24)">
+    <rect x="0" y="0" width="190" height="24" rx="12" fill="rgba(0, 242, 254, 0.1)" stroke="#00F2FE" stroke-width="1" />
+    <circle cx="12" cy="12" r="4" fill="#00F2FE" filter="url(#glow)" />
+    <text x="24" y="16" class="badge">GLOBAL TOP 0.01% DEV</text>
+  </g>
+
+  <!-- Main Title & Supertitle -->
+  <text x="235" y="41" class="title">SOVEREIGN COMPUTATIONAL FOOTPRINT</text>
+
+  <!-- Level Tag -->
+  <g transform="translate(830, 24)">
+    <rect x="0" y="0" width="140" height="24" rx="12" fill="rgba(255, 215, 0, 0.12)" stroke="#FFD700" stroke-width="1" />
+    <text x="16" y="16" class="badge" fill="#FFD700" style="fill:#FFD700;">⭐ DIAMOND TIER</text>
+  </g>
+
+  <!-- Metric Pillar 1: Commits -->
+  <g transform="translate(30, 72)">
+    <rect x="0" y="0" width="215" height="200" rx="12" fill="rgba(22, 27, 34, 0.85)" stroke="#30363d" stroke-width="1" />
+    <rect x="0" y="0" width="215" height="3" fill="url(#cyanGlow)" />
+    <text x="20" y="40" font-size="24">🚀</text>
+    <text x="20" y="78" class="val" fill="#00F2FE">175,000+</text>
+    <text x="20" y="108" class="lbl">Production Commits</text>
+    <text x="20" y="132" class="sub">Global Top 0.01%</text>
+    <text x="20" y="150" class="sub">Unstoppable Velocity</text>
+    <line x1="20" y1="168" x2="195" y2="168" stroke="#21262d" stroke-width="1" />
+    <text x="20" y="186" class="sub" fill="#58a6ff" style="fill:#58a6ff;">520+ Engineered Repos</text>
+  </g>
+
+  <!-- Metric Pillar 2: LeetCode -->
+  <g transform="translate(270, 72)">
+    <rect x="0" y="0" width="215" height="200" rx="12" fill="rgba(22, 27, 34, 0.85)" stroke="#30363d" stroke-width="1" />
+    <rect x="0" y="0" width="215" height="3" fill="url(#goldGlow)" />
+    <text x="20" y="40" font-size="24">⚡</text>
+    <text x="20" y="78" class="val" fill="#FFA116">1,089 Solved</text>
+    <text x="20" y="108" class="lbl">LeetCode Mastery</text>
+    <text x="20" y="132" class="sub"><tspan fill="#EF4743" font-weight="700">429 Hard</tspan> • <tspan fill="#FFC01E" font-weight="700">372 Med</tspan></text>
+    <text x="20" y="150" class="sub">Top 50 / 75 / Pandas</text>
+    <line x1="20" y1="168" x2="195" y2="168" stroke="#21262d" stroke-width="1" />
+    <text x="20" y="186" class="sub" fill="#00B8A3" style="fill:#00B8A3;">288 Easy (100% Cleared)</text>
+  </g>
+
+  <!-- Metric Pillar 3: Academic & Universities -->
+  <g transform="translate(510, 72)">
+    <rect x="0" y="0" width="215" height="200" rx="12" fill="rgba(22, 27, 34, 0.85)" stroke="#30363d" stroke-width="1" />
+    <rect x="0" y="0" width="215" height="3" fill="url(#purpleGlow)" />
+    <text x="20" y="40" font-size="24">🏛️</text>
+    <text x="20" y="78" class="val" fill="#A51C30" style="fill:#ea4c89;">Harvard × CS</text>
+    <text x="20" y="108" class="lbl">Global Accreditations</text>
+    <text x="20" y="132" class="sub">Harvard CS50x Verified</text>
+    <text x="20" y="150" class="sub">Helsinki Full Stack (7 ECTS)</text>
+    <line x1="20" y1="168" x2="195" y2="168" stroke="#21262d" stroke-width="1" />
+    <text x="20" y="186" class="sub" fill="#bc8cff" style="fill:#bc8cff;">Anthropic AI Certified</text>
+  </g>
+
+  <!-- Metric Pillar 4: HackerRank & AI Impact -->
+  <g transform="translate(750, 72)">
+    <rect x="0" y="0" width="220" height="200" rx="12" fill="rgba(22, 27, 34, 0.85)" stroke="#30363d" stroke-width="1" />
+    <rect x="0" y="0" width="220" height="3" fill="url(#emeraldGlow)" />
+    <text x="20" y="40" font-size="24">🏆</text>
+    <text x="20" y="78" class="val" fill="#2EC866">5x Certs • 8x 🎖️</text>
+    <text x="20" y="108" class="lbl">HackerRank &amp; HF AI</text>
+    <text x="20" y="132" class="sub">SQL Adv (100%) • PS Inter</text>
+    <text x="20" y="150" class="sub">7x Gold 5-Star Badges</text>
+    <line x1="20" y1="168" x2="200" y2="168" stroke="#21262d" stroke-width="1" />
+    <text x="20" y="186" class="sub" fill="#FFD21E" style="fill:#FFD21E;">40K+ HF Model Downloads</text>
+  </g>
+
+  <!-- Bottom Infrastructure Banner Bar -->
+  <g transform="translate(30, 290)">
+    <rect x="0" y="0" width="940" height="44" rx="10" fill="rgba(13, 17, 23, 0.95)" stroke="#30363d" stroke-width="1" />
+    <circle cx="22" cy="22" r="4" fill="#2EC866" filter="url(#glow)" />
+    <text x="38" y="26" class="footer-txt">
+      <tspan class="footer-highlight">OPEN-SOURCE FOOTPRINT:</tspan> 108+ Merged PRs (Google, Docker, CNCF, AWS)  |  <tspan class="footer-highlight">ENGLISH:</tspan> EF SET C1 Advanced (C2 Proficient)  |  <tspan class="footer-highlight">AGE:</tspan> 16 (Prodigy)
+    </text>
+  </g>
+</svg>
