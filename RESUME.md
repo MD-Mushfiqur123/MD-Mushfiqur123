@@ -68,7 +68,14 @@ Systems Architect • AI/ML Research Engineer • Competitive Programmer
 - Integrated **83% Jaccard / 4-gram Deduplication Gatekeeper** and **1 GB Buffer Watchdog** with auto-pruning.
 - Hardened against OWASP Top 10 (Path Traversal, PAT Leakage, DoS, DOM XSS) with **6/6 automated security PoC passes**.
 
-### 3. 👑 M-2LRF (2-Bit Low-Rank Residual Factorization)
+### 3. 📸 Aether Photos Vault — Infinite Cloud Photo Storage via YouTube Streams
+*Repository:* [github.com/MD-Mushfiqur123/aether-photos-vault](https://github.com/MD-Mushfiqur123/aether-photos-vault)
+- Developed an infinite, unmetered binary cloud object store using YouTube as a lossless video storage medium.
+- Converts image batches into 1080p MP4 optical streams using 8x8 macro-blocks with center-pixel thresholding.
+- Confirmed **100% bit-perfect recovery** across extreme simulated YouTube lossy re-encoding (CRF 26) with zero bit rot.
+- Features local Swiss Minimalist Web Studio and automated `yt-dlp` stream extraction.
+
+### 4. 👑 M-2LRF (2-Bit Low-Rank Residual Factorization)
 *Repository:* [github.com/MD-Mushfiqur123/m2lrf](https://github.com/MD-Mushfiqur123/m2lrf)
 - Designed extreme dual-basis ternary quantization engine eliminating multiplier hardware overhead.
 - Validated across LLaMA-3, Qwen-2.5, and Mistral architectures with minimal perplexity degradation.
