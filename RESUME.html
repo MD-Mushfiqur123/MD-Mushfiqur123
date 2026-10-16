@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Md Mushfiqur Rahim — Curriculum Vitae</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Geist:wght@300;400;500;600;700&family=Geist+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg: #FFFFFF;
+            --text-main: #0F172A;
+            --text-muted: #475569;
+            --text-light: #64748B;
+            --border: #E2E8F0;
+            --accent: #0284C7;
+            --accent-bg: #F0F9FF;
+            --pill-bg: #F1F5F9;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Geist', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            background-color: #F8FAFC;
+            color: var(--text-main);
+            line-height: 1.5;
+            padding: 40px 20px;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        .resume-page {
+            max-width: 860px;
+            margin: 0 auto;
+            background: var(--bg);
+            padding: 48px 56px;
+            border-radius: 8px;
+            border: 1px solid var(--border);
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.04);
+        }
+
+        header {
+            border-bottom: 2px solid var(--text-main);
+            padding-bottom: 20px;
+            margin-bottom: 24px;
+        }
+
+        .header-title-row {
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+            flex-wrap: wrap;
+            gap: 12px;
+        }
+
+        h1.name {
+            font-size: 32px;
+            font-weight: 700;
+            letter-spacing: -0.03em;
+            color: var(--text-main);
+            text-transform: uppercase;
+        }
+
+        .tagline {
+            font-size: 15px;
+            font-weight: 500;
+            color: var(--accent);
+            margin-top: 4px;
+            letter-spacing: -0.01em;
+        }
+
+        .contact-links {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 16px;
+            margin-top: 14px;
+            font-size: 13px;
+            color: var(--text-muted);
+            font-family: 'Geist Mono', monospace;
+        }
+
+        .contact-links a {
+            color: var(--text-main);
+            text-decoration: none;
+            border-bottom: 1px dotted var(--text-light);
+        }
+
+        .contact-links a:hover {
+            color: var(--accent);
+            border-bottom-style: solid;
+        }
+
+        section {
+            margin-bottom: 22px;
+        }
+
+        h2.section-title {
+            font-size: 13px;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            color: var(--text-light);
+            border-bottom: 1px solid var(--border);
+            padding-bottom: 4px;
+            margin-bottom: 12px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .summary-text {
+            font-size: 13.5px;
+            color: var(--text-main);
+            line-height: 1.6;
+        }
+
+        .item {
+            margin-bottom: 14px;
+        }
+
+        .item:last-child {
+            margin-bottom: 0;
+        }
+
+        .item-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+            font-size: 14px;
+            margin-bottom: 2px;
+        }
+
+        .item-title {
+            font-weight: 600;
+            color: var(--text-main);
+        }
+
+        .item-meta {
+            font-size: 12.5px;
+            color: var(--text-light);
+            font-family: 'Geist Mono', monospace;
+        }
+
+        .item-subtitle {
+            font-size: 13px;
+            color: var(--text-muted);
+            margin-bottom: 4px;
+        }
+
+        ul.item-bullets {
+            list-style: square;
+            padding-left: 18px;
+            font-size: 13px;
+            color: var(--text-muted);
+            line-height: 1.55;
+        }
+
+        ul.item-bullets li {
+            margin-bottom: 3px;
+        }
+
+        ul.item-bullets li strong {
+            color: var(--text-main);
+        }
+
+        .badge-grid {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+            margin-top: 6px;
+        }
+
+        .pill {
+            display: inline-block;
+            font-size: 11.5px;
+            font-family: 'Geist Mono', monospace;
+            background: var(--pill-bg);
+            color: var(--text-main);
+            padding: 3px 8px;
+            border-radius: 4px;
+            border: 1px solid var(--border);
+        }
+
+        .skills-table {
+            width: 100%;
+            font-size: 13px;
+            border-collapse: collapse;
+        }
+
+        .skills-table td {
+            padding: 4px 0;
+            vertical-align: top;
+        }
+
+        .skills-table td.cat {
+            width: 160px;
+            font-weight: 600;
+            color: var(--text-main);
+        }
+
+        .skills-table td.vals {
+            color: var(--text-muted);
+        }
+
+        .print-btn-bar {
+            max-width: 860px;
+            margin: 0 auto 16px auto;
+            display: flex;
+            justify-content: flex-end;
+            gap: 12px;
+        }
+
+        .btn-print {
+            background: #0F172A;
+            color: #FFFFFF;
+            border: none;
+            padding: 8px 16px;
+            border-radius: 6px;
+            font-size: 13px;
+            font-weight: 600;
+            cursor: pointer;
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .btn-print:hover {
+            background: #334155;
+        }
+
+        @media print {
+            body {
+                background: #FFFFFF;
+                padding: 0;
+            }
+            .print-btn-bar {
+                display: none;
+            }
+            .resume-page {
+                box-shadow: none;
+                border: none;
+                padding: 0;
+                max-width: 100%;
+            }
+            a {
+                text-decoration: none;
+                color: var(--text-main);
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="print-btn-bar">
+        <button class="btn-print" onclick="window.print()">
+            🖨️ PRINT / SAVE AS PDF (Ctrl + P)
+        </button>
+    </div>
+
+    <div class="resume-page">
+        <!-- Header -->
+        <header>
+            <div class="header-title-row">
+                <div>
+                    <h1 class="name">Md Mushfiqur Rahim</h1>
+                    <div class="tagline">Systems Architect • AI/ML Research Engineer • Competitive Programmer</div>
+                </div>
+            </div>
+            <div class="contact-links">
+                <span>📍 Bogura, Bangladesh</span>
+                <span>✉️ <a href="mailto:20monikaakthar@gmail.com">20monikaakthar@gmail.com</a></span>
+                <span>🌐 <a href="https://github.com/MD-Mushfiqur123" target="_blank">github.com/MD-Mushfiqur123</a></span>
+                <span>💻 <a href="https://leetcode.com/u/mushfiqurH2B/" target="_blank">LeetCode: mushfiqurH2B</a></span>
+                <span>🤗 <a href="https://huggingface.co/MD-Mushfiqur123" target="_blank">HuggingFace</a></span>
+            </div>
+        </header>
+
+        <!-- Summary -->
+        <section>
+            <h2 class="section-title">Executive Profile</h2>
+            <p class="summary-text">
+                16-year-old systems and artificial intelligence researcher with verified accreditations from <strong>Harvard University</strong> (CS50 Triple Crown Track: CS50x, CS50AI, CS50 Cybersecurity). Ranked in the <strong>Top 0.5% globally on LeetCode</strong> with <strong>1,327+ solved problems (665 Hard solved)</strong>. Author of <strong>108+ merged pull requests</strong> into industry-critical systems (Docker, Google, AWS, CNCF). Creator of high-efficiency low-level architectures including the <strong>.MIF Image Codec</strong> and <strong>M-2LRF 2-bit quantization engine</strong>.
+            </p>
+        </section>
+
+        <!-- Education -->
+        <section>
+            <h2 class="section-title">Education & Academics</h2>
+            <div class="item">
+                <div class="item-header">
+                    <span class="item-title">Govt. Azizul Haque College, Bogura</span>
+                    <span class="item-meta">2026 – Present</span>
+                </div>
+                <div class="item-subtitle">Higher Secondary Certificate (HSC '28) — Science</div>
+                <ul class="item-bullets">
+                    <li>Secondary School Certificate (SSC): <strong>1229 / 1300 (94.54%)</strong>, School Topper, GPA 5.00/5.00.</li>
+                    <li>Verified Mensan (MNSA, Top 2% worldwide cognitive score).</li>
+                </ul>
+            </div>
+            <div class="item" style="margin-top: 8px;">
+                <div class="item-header">
+                    <span class="item-title">University of the People, Pasadena, CA, USA</span>
+                    <span class="item-meta">Enrolled</span>
+                </div>
+                <div class="item-subtitle">Bachelor of Science in Computer Science (Accredited US Degree)</div>
+            </div>
+        </section>
+
+        <!-- Certifications -->
+        <section>
+            <h2 class="section-title">Verified Certifications & Accreditations</h2>
+            <ul class="item-bullets">
+                <li><strong>Harvard University — CS50x:</strong> Introduction to Computer Science (C, Algorithms, Memory). <em>Cert ID: 9fde6ff7-e81e-4c04-89cf-735b736004dd</em></li>
+                <li><strong>Harvard University — CS50AI:</strong> Artificial Intelligence with Python (Search, Minimax, Q-Learning). <em>Cert ID: 6d46d2bc-3bfa-418d-9623-9378ed43dbfa</em></li>
+                <li><strong>Harvard University — CS50Cyber:</strong> Cybersecurity (Network Defense, Cryptography, SCADA/Zyxel exploit).</li>
+                <li><strong>University of Helsinki:</strong> Full Stack Open (7 ECTS, Grade 5/5) & Elements of AI (2 ECTS).</li>
+                <li><strong>EF SET:</strong> C1 Advanced English (C2 Proficient in Reading & Listening).</li>
+                <li><strong>Anthropic AI:</strong> Certified in Claude Code in Action, Claude with Vertex AI, and Claude 101.</li>
+            </ul>
+        </section>
+
+        <!-- Competitive Programming -->
+        <section>
+            <h2 class="section-title">Competitive Programming & Algorithmic Excellence</h2>
+            <ul class="item-bullets">
+                <li><strong>LeetCode Grandmaster (mushfiqurH2B):</strong> <strong>1,327+ Problems Solved</strong> (<strong>665 Hard Problems Conquered</strong>, 374 Medium, 288 Easy). Ranked in the <strong>Top 0.5% worldwide</strong> (#22,335).</li>
+                <li><strong>HackerRank (20mahin2020):</strong> <strong>Gold 5-Star Badges</strong> across 7 core engineering tracks: Problem Solving, SQL, Java, Python, C, Ruby, and C++.</li>
+            </ul>
+        </section>
+
+        <!-- Key Projects -->
+        <section>
+            <h2 class="section-title">Flagship Systems & Published Research</h2>
+            <div class="item">
+                <div class="item-header">
+                    <span class="item-title">.MIF (Mushfiqur Image Format v2.0) — Bit-Perfect C99 Image Codec</span>
+                    <span class="item-meta"><a href="https://github.com/MD-Mushfiqur123/mif-image-format" target="_blank">github.com/MD-Mushfiqur123/mif-image-format</a></span>
+                </div>
+                <ul class="item-bullets">
+                    <li>Engineered a single-header C reference codec (<code>libmif.h</code>) with 4 scanline spatial predictors (Sub, Up, Average, Paeth) and DEFLATE compression.</li>
+                    <li>Achieved <strong>100% bit-perfect recovery</strong> (SHA-256 validated), beating PNG by up to <strong>1.7% smaller footprint</strong> on flat art. Prepared formal IANA media registration.</li>
+                </ul>
+            </div>
+
+            <div class="item" style="margin-top: 8px;">
+                <div class="item-header">
+                    <span class="item-title">Dataset Collector — Sovereign Scientific Bengali Distillation Forge</span>
+                    <span class="item-meta"><a href="https://github.com/MD-Mushfiqur123/dataset-collector" target="_blank">github.com/MD-Mushfiqur123/dataset-collector</a></span>
+                </div>
+                <ul class="item-bullets">
+                    <li>Zero-dependency Swiss Minimalist distributed web studio for curating high-reasoning frontier datasets (Physics, Chemistry, Math, Biology).</li>
+                    <li>Built 1-paste auto-split parser, 83% Jaccard duplicate gatekeeper, and 1-click GitHub Codespaces & Colab runners. <strong>6/6 OWASP PoC security test passes</strong>.</li>
+                </ul>
+            </div>
+
+            <div class="item" style="margin-top: 8px;">
+                <div class="item-header">
+                    <span class="item-title">M-2LRF — 2-Bit Low-Rank Residual Factorization Silicon Architecture</span>
+                    <span class="item-meta"><a href="https://github.com/MD-Mushfiqur123/m2lrf" target="_blank">github.com/MD-Mushfiqur123/m2lrf</a></span>
+                </div>
+                <ul class="item-bullets">
+                    <li>Multi-rate low-rank factorization & 2-bit dual-basis ternary quantization engine eliminating multiplier hardware overhead.</li>
+                </ul>
+            </div>
+
+            <div class="item" style="margin-top: 8px;">
+                <div class="item-header">
+                    <span class="item-title">The Architecture of the Cosmos (Cosmological Monograph)</span>
+                    <span class="item-meta"><a href="https://github.com/MD-Mushfiqur123/DESI-DR2-JWST-Cosmology-Monograph" target="_blank">48-Page Monograph</a></span>
+                </div>
+                <ul class="item-bullets">
+                    <li>Theoretical and observational monograph analyzing dynamical dark energy equation of state ($w_0, w_a$) and $H_0$ tensions from DESI DR2 BAO and JWST distance-ladder calibrations.</li>
+                </ul>
+            </div>
+        </section>
+
+        <!-- Open Source -->
+        <section>
+            <h2 class="section-title">Open Source Infrastructure Contributions (108+ Merged PRs)</h2>
+            <ul class="item-bullets">
+                <li><strong>Docker (moby/moby):</strong> Merged container runtime bug fixes and improvements (69.8k ⭐).</li>
+                <li><strong>Google (google/go-cmp):</strong> Merged updates into official Go equality & diff package (4.1k ⭐).</li>
+                <li><strong>AWS Labs (awslabs/mcp):</strong> Model Context Protocol implementations for cloud infrastructure.</li>
+                <li><strong>CNCF (prometheus/client_golang & etcd-io/raft):</strong> Core metrics & Raft consensus powering Kubernetes.</li>
+                <li><strong>GoFiber (gofiber/fiber):</strong> High-performance Go web engine (35.5k ⭐).</li>
+            </ul>
+        </section>
+
+        <!-- Skills -->
+        <section>
+            <h2 class="section-title">Technical Expertise</h2>
+            <table class="skills-table">
+                <tr>
+                    <td class="cat">Languages</td>
+                    <td class="vals">C, C++, Rust, Go, Python, TypeScript, JavaScript, SQL, Bash, Assembly, Ruby</td>
+                </tr>
+                <tr>
+                    <td class="cat">AI & Deep Learning</td>
+                    <td class="vals">PyTorch, CUDA, Hugging Face Transformers, Tokenizers, LoRA/QLoRA, Unsloth, AgentDB</td>
+                </tr>
+                <tr>
+                    <td class="cat">Systems & Cloud</td>
+                    <td class="vals">Linux Kernel, Docker, Kubernetes, Git, CI/CD Actions, Nginx, Redis, PostgreSQL, AWS, GCP</td>
+                </tr>
+            </table>
+        </section>
+    </div>
+
+</body>
+</html>

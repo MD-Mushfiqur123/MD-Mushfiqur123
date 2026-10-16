@@ -20,6 +20,8 @@
 &nbsp;
 [![Stars](https://img.shields.io/github/stars/MD-Mushfiqur123?style=flat-square&color=00F2FE&label=Total+Stars)](https://github.com/MD-Mushfiqur123?tab=repositories&sort=stargazers)
 &nbsp;
+[![Resume](https://img.shields.io/badge/Resume-Curriculum%20Vitae-00F2FE?style=flat-square&logo=read-the-docs&logoColor=black)](./RESUME.md)
+&nbsp;
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mdmushfiqur123)
 
 </div>
@@ -46,9 +48,10 @@ focus:
   flagship  : "Mission Mlych — 1.3B Custom SLM"
   dataset   : "Building the World's Largest Bangla LLM Dataset (Craftly Corpus)"
   research  :
-    - "World's Largest Curated Bangla Pre-training Dataset"
-    - "High-performance AI model architectures & tokenizers"
-    - "M-2LRF (2-bit Low-Rank Factorization)"
+    - ".MIF (Mushfiqur Image Format v2.0) — Bit-Perfect C99 Codec & libmif.h"
+    - "Dataset Collector — Swiss Minimalist Scientific Distillation Forge"
+    - "M-2LRF (2-bit Dual-Basis Low-Rank Residual Factorization)"
+    - "DESI DR2 & JWST Cosmological Monograph (Dark Energy Equation of State)"
     - "Shadow-Omni: Multimodal vision-speech-text stream reasoning"
     - "Aero-Propulsion telemetry physics simulations"
 
@@ -106,6 +109,21 @@ impact:
 | ⚡ **[GoFiber — gofiber/fiber](https://github.com/gofiber/fiber)** | Ultra-fast Express-inspired Go Framework | 35.5k ⭐ |
 | 🐚 **[Oh My Zsh — ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)** | World's Most Popular CLI Framework | 175k ⭐ |
 | 🗄️ **[ClickHouse — clickhouse-go](https://github.com/ClickHouse/clickhouse-go)** | Real-time Analytical Database Driver | 1.8k ⭐ |
+
+</div>
+
+---
+
+## 🚀 Flagship Research & Sovereign Systems Architecture
+
+<div align="center">
+
+| Project / Monograph | Domain & Core Innovation | Architecture & Proof |
+| :--- | :--- | :---: |
+| 🖼️ **[mif-image-format](https://github.com/MD-Mushfiqur123/mif-image-format)** | **Mushfiqur Image Format (.MIF v2.0):** Single-header C99 codec (`libmif.h`), scanline spatial residual predictors (Sub, Up, Avg, Paeth), 100% bit-perfect CRC-32 & SHA-256 verified, beats PNG on flat art. | `v2.0.0` • C99 / Python |
+| 🔬 **[dataset-collector](https://github.com/MD-Mushfiqur123/dataset-collector)** | **Scientific Bengali Dataset Distillation Forge:** Swiss Minimalist architecture, 1-Paste intelligent auto-split, 83% Jaccard duplicate gatekeeper, 1 GB buffer watchdog, 1-click Codespaces & Colab runners. | `v1.0.0` • OWASP 6/6 Pass |
+| 👑 **[m2lrf](https://github.com/MD-Mushfiqur123/m2lrf)** | **M-2LRF Silicon Architecture:** Multi-rate low-rank factorization & 2-bit dual-basis ternary quantization engine eliminating multiplier hardware overhead. | Verified Engine |
+| 🔭 **[Cosmology Monograph](https://github.com/MD-Mushfiqur123/DESI-DR2-JWST-Cosmology-Monograph)** | **The Architecture of the Cosmos:** 48-page theoretical and observational monograph analyzing dynamical dark energy equation of state ($w_0, w_a$) and $H_0$ tensions from DESI DR2 BAO & JWST. | 48-Page Monograph |
 
 </div>
 
