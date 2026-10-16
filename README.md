@@ -49,6 +49,7 @@ focus:
   dataset   : "Building the World's Largest Bangla LLM Dataset (Craftly Corpus)"
   research  :
     - ".MIF (Mushfiqur Image Format v2.0) — Bit-Perfect C99 Codec & libmif.h"
+    - "Aether Photos Vault — Infinite Cloud Video-Encoded Photo Stream (YouTube CRF 26 Resistant)"
     - "Dataset Collector — Swiss Minimalist Scientific Distillation Forge"
     - "M-2LRF (2-bit Dual-Basis Low-Rank Residual Factorization)"
     - "DESI DR2 & JWST Cosmological Monograph (Dark Energy Equation of State)"

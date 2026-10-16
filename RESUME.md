@@ -8,7 +8,7 @@ Systems Architect • AI/ML Research Engineer • Competitive Programmer
 ---
 
 ## 🏛️ Executive Summary
-16-year-old systems and artificial intelligence researcher with verified accreditations from **Harvard University** (CS50 Triple Crown Track: CS50x, CS50AI, CS50 Cybersecurity). Top 0.5% globally on LeetCode with **1,327+ solved algorithmic problems (665 Hard solved)**. Author of **108+ merged pull requests** into industry-critical systems (Docker, Google, AWS, CNCF). Creator of low-level, high-efficiency architectures including the **.MIF Image Codec**, **M-2LRF 2-bit quantization engine**, and **Dataset Collector**.
+16-year-old systems and artificial intelligence researcher with verified accreditations from **Harvard University** (CS50 Triple Crown Track: CS50x, CS50AI, CS50 Cybersecurity). Top 0.5% globally on LeetCode with **1,327+ solved algorithmic problems (665 Hard solved)**. Author of **108+ merged pull requests** into industry-critical systems (Docker, Google, AWS, CNCF). Creator of low-level, high-efficiency architectures including the **.MIF Image Codec**, **Aether Photos Vault**, **M-2LRF 2-bit quantization engine**, and **Dataset Collector**.
 
 ---
 
