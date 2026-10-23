@@ -39,7 +39,7 @@ identity:
   name      : "Md Mushfiqur Rahim"
   role      : "SOO & Lead AI/ML Engineer @ Craftly"
   age       : 16
-  location  : "Bogura, Bangladesh 🇧🇩"
+  location  : "Bangladesh 🇧🇩"
   education :
     - "Computer Science | University of the People, USA 🇺🇸 (Enrolled)"
     - "HSC '28 Science | Govt. Azizul Haque College 🇧🇩"
@@ -317,6 +317,8 @@ impact:
       <a href="https://certificates.mooc.fi/validate/1xw084tnsab">
         <img src="https://img.shields.io/badge/University%20of%20Helsinki-Elements%20of%20AI%20(2%20ECTS)-002F6C?style=flat-square" />
       </a>
+      &nbsp;
+      <img src="https://img.shields.io/badge/University%20of%20Helsinki-Aquatic%20Data%20Science%20(3%20ECTS)-002F6C?style=flat-square" />
     </td>
     <td width="50%" align="center" valign="top">
       <img src="assets/certificates/open-university-ai.png" width="60%" style="border-radius:10px;border:1px solid #30363d;" alt="The Open University — Introduction to Artificial Intelligence" />
@@ -325,6 +327,32 @@ impact:
     </td>
   </tr>
 </table>
+
+<br/>
+
+### 🇺🇳 United Nations (UNODC Vienna) — Certified International Legal Standards
+
+<div align="center">
+
+<a href="https://elearningunodc.org/pluginfile.php/1/tool_certificate/issues/1792789961/9470307475MR.pdf">
+  <img src="assets/certificates/unodc-nelson-mandela.png" width="75%" style="border-radius:12px;border:1px solid #30363d;box-shadow:0 4px 20px rgba(0,0,0,0.4);" alt="United Nations Office on Drugs and Crime — The Nelson Mandela Rules Certificate" />
+</a>
+
+<br/><br/>
+
+<a href="https://elearningunodc.org/pluginfile.php/1/tool_certificate/issues/1792789961/9470307475MR.pdf">
+  <img src="https://img.shields.io/badge/United%20Nations-UNODC%20Vienna-009edb?style=for-the-badge&logo=united-nations&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://elearningunodc.org/pluginfile.php/1/tool_certificate/issues/1792789961/9470307475MR.pdf">
+  <img src="https://img.shields.io/badge/The%20Nelson%20Mandela%20Rules-Code:%209470307475MR-1F2937?style=for-the-badge" />
+</a>
+&nbsp;
+<a href="https://elearningunodc.org/pluginfile.php/1/tool_certificate/issues/1792789961/9470307475MR.pdf">
+  <img src="https://img.shields.io/badge/Assessment-100%25%20Verified-success?style=for-the-badge" />
+</a>
+
+</div>
 
 <br/>
 
@@ -686,3 +714,4 @@ impact:
 </picture>
 
 </div>
+
