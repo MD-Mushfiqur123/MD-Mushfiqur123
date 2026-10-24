@@ -347,23 +347,13 @@ impact:
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center" valign="top">
+    <td colspan="2" width="100%" align="center" valign="top">
       <a href="https://cs50.harvard.edu/certificates/7bb2e6da-6179-4044-893e-dd4aee53d13f">
-        <img src="assets/certificates/harvard-cs50sql.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="Harvard University — CS50SQL Certificate" />
+        <img src="assets/certificates/harvard-cs50sql.png" width="48%" style="border-radius:10px;border:1px solid #30363d;" alt="Harvard University — CS50SQL Certificate" />
       </a>
       <br/><br/>
       <a href="https://cs50.harvard.edu/certificates/7bb2e6da-6179-4044-893e-dd4aee53d13f">
         <img src="https://img.shields.io/badge/Harvard%20University-CS50SQL%20Databases%20Verified-A51C30?style=flat-square&logo=sqlite&logoColor=white" />
-      </a>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://cs50.harvard.edu/certificates/">
-        <div style="padding: 40px 20px; border-radius: 10px; border: 1px solid #30363d; background: #161b22; text-align: center;">
-          <img src="https://img.shields.io/badge/Harvard%20University-CS50%20Grandmaster%20Quad--Crown-A51C30?style=for-the-badge&logo=harvard&logoColor=white" /><br/><br/>
-          <span style="font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto; font-size: 14px; color: #58a6ff; font-weight: 600;">Cambridge, Massachusetts</span><br/>
-          <span style="font-size: 12px; color: #8b949e;">CS50x &bull; CS50AI &bull; CS50P &bull; CS50SQL</span><br/><br/>
-          <img src="https://img.shields.io/badge/Verified-4x%20Official%20Harvard%20Certificates-success?style=flat-square" />
-        </div>
       </a>
     </td>
   </tr>
