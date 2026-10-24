@@ -90,26 +90,6 @@ impact:
 
 </td>
 </tr>
-<tr>
-<td width="50%" align="center" valign="top">
-<a href="https://cs50.harvard.edu/certificates/e2666653-f57a-48ff-bfef-a32c3b5eca04">
-<img src="https://img.shields.io/badge/Harvard%20University-CS50P%20Python%20Verified-A51C30?style=for-the-badge&logo=python&logoColor=white" />
-</a>
-<br/><br/>
-<a href="https://cs50.harvard.edu/certificates/e2666653-f57a-48ff-bfef-a32c3b5eca04">
-<code>CS50P: e2666653-f57a-48ff-bfef-a32c3b5eca04</code>
-</a>
-</td>
-<td width="50%" align="center" valign="top">
-<a href="https://cs50.harvard.edu/certificates/7bb2e6da-6179-4044-893e-dd4aee53d13f">
-<img src="https://img.shields.io/badge/Harvard%20University-CS50SQL%20Databases%20Verified-A51C30?style=for-the-badge&logo=sqlite&logoColor=white" />
-</a>
-<br/><br/>
-<a href="https://cs50.harvard.edu/certificates/7bb2e6da-6179-4044-893e-dd4aee53d13f">
-<code>CS50SQL: 7bb2e6da-6179-4044-893e-dd4aee53d13f</code>
-</a>
-</td>
-</tr>
 </table>
 
 ---
