@@ -361,6 +361,24 @@ impact:
 
 <br/>
 
+### 🛸 NASA (National Aeronautics and Space Administration) — Applied Remote Sensing & Space Systems
+
+<div align="center">
+
+  <img src="assets/certificates/nasa-arset.png" width="75%" style="border-radius:12px;border:1px solid #30363d;box-shadow:0 4px 20px rgba(0,0,0,0.4);" alt="NASA ARSET — Fundamentals of Remote Sensing Certificate" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/NASA-National%20Aeronautics%20and%20Space%20Administration-0B3D91?style=for-the-badge&logo=nasa&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/ARSET%20Program-Fundamentals%20of%20Remote%20Sensing-E03A3E?style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/Verification%20Code-7745971387MR-1F2937?style=for-the-badge" />
+
+</div>
+
+<br/>
+
 ### 🇺🇳 United Nations (UNODC Vienna) — Certified International Legal Standards
 
 <div align="center">
