@@ -361,6 +361,70 @@ impact:
 
 <br/>
 
+### 🇪🇺 European University ECTS Credits (20.0 ECTS In-Hand | Bologna Process Validated)
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Total%20ECTS%20Locked-20.0%20ECTS%20(5%2C400%20Hours)-003399?style=for-the-badge&logo=europeanunion&logoColor=FFCC00" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Finland%20Public%20Universities-LUT%20%7C%20Turku%20%7C%20Aalto%20%7C%20Helsinki-002F6C?style=for-the-badge" />
+</div>
+
+<br/>
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="assets/certificates/lut-sustainable-design.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="LUT University - Climate Action: Sustainable Design & Production (2 ECTS)" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/LUT%20University-Sustainable%20Design%20(2.0%20ECTS)-0078D7?style=flat-square" />
+      <br/>
+      <sub><b>Official Certificate ID:</b> <code>WEp2ta2AUs</code></sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="assets/certificates/lut-power-to-x.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="LUT University - Climate Action: Power-to-X (2 ECTS)" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/LUT%20University-Power--to--X%20(2.0%20ECTS)-0078D7?style=flat-square" />
+      <br/>
+      <sub><b>Official Certificate ID:</b> <code>lYsk66DfAs</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="assets/certificates/lut-digital-transformation.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="LUT University - Climate Action: Digital Transformation in Process Industry (2 ECTS)" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/LUT%20University-Digital%20Transformation%20(2.0%20ECTS)-0078D7?style=flat-square" />
+      <br/>
+      <sub><b>Official Certificate ID:</b> <code>8YxxE9I2tS</code></sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="assets/certificates/lut-carbon-neutral-transport.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="LUT University - Climate Action: Solutions for Carbon Neutral Transport (2 ECTS)" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/LUT%20University-Carbon%20Neutral%20Transport%20(2.0%20ECTS)-0078D7?style=flat-square" />
+      <br/>
+      <sub><b>Official Certificate ID:</b> <code>eFTACAtl5U</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="assets/certificates/turku-ai-cybersecurity.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="University of Turku - AI & Cybersecurity (2 ECTS)" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/University%20of%20Turku-AI%20%26%20Cybersecurity%20(2.0%20ECTS)-002F6C?style=flat-square" />
+      <br/>
+      <sub><b>Official Certificate ID:</b> <code>hQIbxA4L4s</code></sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="assets/certificates/aalto-starting-up.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="Aalto University - Starting Up (1 ECTS)" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Aalto%20University-Starting%20Up%20(1.0%20ECTS)-FF595A?style=flat-square" />
+      <br/>
+      <sub><b>Online Verification ID:</b> <code>cf55e7d4-40d8-41a0-9f6e-c0532fd7fbb7</code></sub>
+    </td>
+  </tr>
+</table>
+
+
+<br/>
+
 ### 🛸 NASA (National Aeronautics and Space Administration) — Applied Remote Sensing & Space Systems
 
 <div align="center">
