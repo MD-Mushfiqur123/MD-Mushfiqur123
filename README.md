@@ -346,14 +346,23 @@ impact:
       </a>
     </td>
   </tr>
-  <tr>
-    <td colspan="2" width="100%" align="center" valign="top">
+    <tr>
+    <td width="50%" align="center" valign="top">
       <a href="https://cs50.harvard.edu/certificates/7bb2e6da-6179-4044-893e-dd4aee53d13f">
-        <img src="assets/certificates/harvard-cs50sql.png" width="48%" style="border-radius:10px;border:1px solid #30363d;" alt="Harvard University — CS50SQL Certificate" />
+        <img src="assets/certificates/harvard-cs50sql.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="Harvard University - CS50SQL Certificate" />
       </a>
       <br/><br/>
       <a href="https://cs50.harvard.edu/certificates/7bb2e6da-6179-4044-893e-dd4aee53d13f">
         <img src="https://img.shields.io/badge/Harvard%20University-CS50SQL%20Databases%20Verified-A51C30?style=flat-square&logo=sqlite&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://cs50.harvard.edu/certificates">
+        <img src="assets/certificates/cs50r.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="Harvard University - CS50R Data Science with R Certificate" />
+      </a>
+      <br/><br/>
+      <a href="https://cs50.harvard.edu/certificates">
+        <img src="https://img.shields.io/badge/Harvard%20University-CS50R%20Data%20Science%20Verified-A51C30?style=flat-square&logo=r&logoColor=white" />
       </a>
     </td>
   </tr>
@@ -421,6 +430,83 @@ impact:
     </td>
   </tr>
 </table>
+
+<br/>
+
+### 🩺 U.S. Federal Government, NIH & Clinical Research Credentials
+
+<div align="center">
+  <img src="https://img.shields.io/badge/National%20Institutes%20of%20Health%20(NIH)-Clinical%20Research%20%26%20Pharmacology-003366?style=for-the-badge&logo=medicare&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/U.S.%20DHS%20%2F%20FEMA-Emergency%20Management%20Institute-00529B?style=for-the-badge&logo=shield&logoColor=white" />
+</div>
+
+<br/>
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://ocrtraining.cit.nih.gov/">
+        <img src="assets/certificates/nih-ippcr.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="NIH - Introduction to the Principles and Practice of Clinical Research (IPPCR)" />
+      </a>
+      <br/><br/>
+      <a href="https://ocrtraining.cit.nih.gov/">
+        <img src="https://img.shields.io/badge/NIH%20Clinical%20Center-IPPCR%20Clinical%20Research-003366?style=flat-square&logo=nih&logoColor=white" />
+      </a>
+      <br/>
+      <sub><b>Issuing Authority:</b> National Institutes of Health (NIH), Bethesda, Maryland, USA</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://ocrtraining.cit.nih.gov/">
+        <img src="assets/certificates/nih-pharmacology.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="NIH - Principles of Clinical Pharmacology (PCP)" />
+      </a>
+      <br/><br/>
+      <a href="https://ocrtraining.cit.nih.gov/">
+        <img src="https://img.shields.io/badge/NIH%20Clinical%20Center-Clinical%20Pharmacology-003366?style=flat-square&logo=nih&logoColor=white" />
+      </a>
+      <br/>
+      <sub><b>Issuing Authority:</b> National Institutes of Health (NIH), Bethesda, Maryland, USA</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://training.fema.gov/is/crslist.aspx?lang=en">
+        <img src="assets/certificates/fema-is100c.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="FEMA - Emergency Management Institute (IS-100.c)" />
+      </a>
+      <br/><br/>
+      <a href="https://training.fema.gov/is/crslist.aspx?lang=en">
+        <img src="https://img.shields.io/badge/FEMA%20EMI-Incident%20Command%20System%20(IS--100.c)-00529B?style=flat-square" />
+      </a>
+      <br/>
+      <sub><b>Official FEMA SID:</b> <code>SID-0010388526</code> | 0.2 IACET CEU</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://www.opswat.com/academy">
+        <img src="assets/certificates/opswat-icip.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="OPSWAT Academy - Introduction to Critical Infrastructure Protection (ICIP)" />
+      </a>
+      <br/><br/>
+      <a href="https://www.opswat.com/academy">
+        <img src="https://img.shields.io/badge/OPSWAT%20Academy-Critical%20Infrastructure%20Protection%20(ICIP)-E31837?style=flat-square" />
+      </a>
+      <br/>
+      <sub><b>Official Credential ID:</b> <code>65a0b7e289f31a00192e8a71</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" width="100%" align="center" valign="top">
+      <a href="https://www.efset.org/cert/r6dKxQ">
+        <img src="assets/certificates/efset-c1.png" width="60%" style="border-radius:10px;border:1px solid #30363d;" alt="EF SET - C1 Advanced English Certification (69/100)" />
+      </a>
+      <br/><br/>
+      <a href="https://www.efset.org/cert/r6dKxQ">
+        <img src="https://img.shields.io/badge/EF%20SET-C1%20Advanced%20(69%2F100%20CEFR)-2B6CB0?style=flat-square" />
+      </a>
+      <br/>
+      <sub><b>Official Verification URL:</b> <code>https://www.efset.org/cert/r6dKxQ</code></sub>
+    </td>
+  </tr>
+</table>
+
 
 
 <br/>
