@@ -441,6 +441,8 @@ impact:
 <div align="center">
 <img src="https://img.shields.io/badge/Pan%20American%20Health%20Organization%20(PAHO)-World%20Health%20Organization-0072CE?style=for-the-badge&logo=worldhealthorganization&logoColor=white" />
 &nbsp;
+<img src="https://img.shields.io/badge/Clinical%20Medicine-Type%202%20Diabetes%20Care%20(20h%20%7C%20100%25)-003366?style=for-the-badge&logo=medicare&logoColor=white" />
+&nbsp;
 <img src="https://img.shields.io/badge/United%20Nations%20(UNSSC)-Human%20Security%20Verified-009EDB?style=for-the-badge&logo=unitednations&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/NASA%20Applied%20Sciences-ARSET%20Remote%20Sensing-E03C31?style=for-the-badge&logo=nasa&logoColor=white" />
@@ -450,16 +452,27 @@ impact:
 
 <table border="0" width="100%">
 <tr>
-<td colspan="2" align="center" valign="top">
+<td width="50%" align="center" valign="top">
+<a href="https://campus.paho.org/mooc/mod/simplecertificate/verify.php?code=7e68d0d7-0da6-4ca1-a9fa-4900f3aa19af">
+<img src="assets/certificates/paho-who-type-2-diabetes.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="PAHO & WHO - Caring for people with type 2 diabetes mellitus in Primary Health Care settings" />
+</a>
+<br/><br/>
+<a href="https://campus.paho.org/mooc/mod/simplecertificate/verify.php?code=7e68d0d7-0da6-4ca1-a9fa-4900f3aa19af">
+<img src="https://img.shields.io/badge/PAHO%20%2F%20WHO-Type%202%20Diabetes%20Care%20(20%20Hours)-0072CE?style=flat-square&logo=worldhealthorganization&logoColor=white" />
+</a>
+<br/>
+<sub><b>Verification Code:</b> <code>7e68d0d7-0da6-4ca1-a9fa-4900f3aa19af</code> | <b>Grade:</b> 100.00% | <b>Hours:</b> 20 Hours | <a href="https://campus.paho.org/mooc/mod/simplecertificate/verify.php?code=7e68d0d7-0da6-4ca1-a9fa-4900f3aa19af"><b>Verify Authenticity</b></a></sub>
+</td>
+<td width="50%" align="center" valign="top">
 <a href="https://campus.paho.org/mooc/mod/simplecertificate/verify.php?code=0215350c-7210-4ab5-9a05-9f2dcf3194fa">
-<img src="assets/certificates/paho-who-psychological-first-aid.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="Pan American Health Organization & World Health Organization - Psychological First Aid in Disaster Management" />
+<img src="assets/certificates/paho-who-psychological-first-aid.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="PAHO & WHO - Psychological First Aid in Disaster Management" />
 </a>
 <br/><br/>
 <a href="https://campus.paho.org/mooc/mod/simplecertificate/verify.php?code=0215350c-7210-4ab5-9a05-9f2dcf3194fa">
-<img src="https://img.shields.io/badge/PAHO%20%2F%20WHO-Psychological%20First%20Aid%20in%20Disaster%20Management-0072CE?style=flat-square&logo=worldhealthorganization&logoColor=white" />
+<img src="https://img.shields.io/badge/PAHO%20%2F%20WHO-PFA%20Disaster%20Management%20(12%20Hours)-0072CE?style=flat-square&logo=worldhealthorganization&logoColor=white" />
 </a>
 <br/>
-<sub><b>Verification Code:</b> <code>0215350c-7210-4ab5-9a05-9f2dcf3194fa</code> | <b>Grade:</b> 98.00% | <b>Hours:</b> 12 Training Hours | <a href="https://campus.paho.org/mooc/mod/simplecertificate/verify.php?code=0215350c-7210-4ab5-9a05-9f2dcf3194fa"><b>Verify Authenticity</b></a></sub>
+<sub><b>Verification Code:</b> <code>0215350c-7210-4ab5-9a05-9f2dcf3194fa</code> | <b>Grade:</b> 98.00% | <b>Hours:</b> 12 Hours | <a href="https://campus.paho.org/mooc/mod/simplecertificate/verify.php?code=0215350c-7210-4ab5-9a05-9f2dcf3194fa"><b>Verify Authenticity</b></a></sub>
 </td>
 </tr>
 <tr>
@@ -472,6 +485,21 @@ impact:
 <img src="https://img.shields.io/badge/United%20Nations-UNSSC%20Human%20Security-009EDB?style=flat-square&logo=unitednations&logoColor=white" />
 </a>
 <br/>
+<sub><b>Official Certificate Code:</b> <code>9211665664MR</code> | UN Trust Fund for Human Security</sub>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://appliedsciences.nasa.gov/what-we-do/capacity-building/arset">
+<img src="assets/certificates/nasa-arset.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="NASA Applied Remote Sensing Training (ARSET) Certificate" />
+</a>
+<br/><br/>
+<a href="https://appliedsciences.nasa.gov/what-we-do/capacity-building/arset">
+<img src="https://img.shields.io/badge/NASA%20ARSET-Remote%20Sensing%20Verified-E03C31?style=flat-square&logo=nasa&logoColor=white" />
+</a>
+<br/>
+<sub><b>Official Verification Code:</b> <code>7745971387MR</code> | NASA Earth Science Division</sub>
+</td>
+</tr>
+</table>
 <sub><b>Official Certificate Code:</b> <code>9211665664MR</code> | UN Trust Fund for Human Security</sub>
 </td>
 <td width="50%" align="center" valign="top">
