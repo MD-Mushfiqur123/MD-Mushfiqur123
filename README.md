@@ -433,6 +433,46 @@ impact:
 
 <br/>
 
+
+<br/>
+
+### 🇺🇳 United Nations & 🚀 NASA Space Science Credentials
+
+<div align="center">
+  <img src="https://img.shields.io/badge/United%20Nations%20(UNSSC)-Human%20Security%20Verified-009EDB?style=for-the-badge&logo=unitednations&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/NASA%20Applied%20Sciences-ARSET%20Remote%20Sensing-E03C31?style=for-the-badge&logo=nasa&logoColor=white" />
+</div>
+
+<br/>
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://www.unssc.org/">
+        <img src="assets/certificates/unssc-human-security.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="United Nations System Staff College (UNSSC) & UN Trust Fund - Human Security Certificate" />
+      </a>
+      <br/><br/>
+      <a href="https://www.unssc.org/">
+        <img src="https://img.shields.io/badge/United%20Nations-UNSSC%20Human%20Security-009EDB?style=flat-square&logo=unitednations&logoColor=white" />
+      </a>
+      <br/>
+      <sub><b>Official Certificate Code:</b> <code>9211665664MR</code> | UN Trust Fund for Human Security</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://appliedsciences.nasa.gov/what-we-do/capacity-building/arset">
+        <img src="assets/certificates/nasa-arset.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="NASA Applied Remote Sensing Training (ARSET) Certificate" />
+      </a>
+      <br/><br/>
+      <a href="https://appliedsciences.nasa.gov/what-we-do/capacity-building/arset">
+        <img src="https://img.shields.io/badge/NASA%20ARSET-Remote%20Sensing%20Verified-E03C31?style=flat-square&logo=nasa&logoColor=white" />
+      </a>
+      <br/>
+      <sub><b>Official Verification Code:</b> <code>7745971387MR</code> | NASA Earth Science Division</sub>
+    </td>
+  </tr>
+</table>
+
 ### 🩺 U.S. Federal Government, NIH & Clinical Research Credentials
 
 <div align="center">
