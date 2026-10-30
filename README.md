@@ -507,6 +507,134 @@ impact:
   </tr>
 </table>
 
+<br/>
+
+### ⚡ HackerRank Official Role Certifications & Skills Mastery
+
+<div align="center">
+  <img src="https://img.shields.io/badge/HackerRank-Verified%20Software%20Engineer-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Algorithmic%20%26%20Database-Problem%20Solving%20%7C%20Advanced%20SQL-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</div>
+
+<br/>
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://www.hackerrank.com/certificates">
+        <img src="assets/certificates/hackerrank_software_engineer_role.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="HackerRank Software Engineer Role Certificate" />
+      </a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/HackerRank-Software%20Engineer%20Role%20Verified-00EA64?style=flat-square&logo=hackerrank&logoColor=black" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://www.hackerrank.com/certificates">
+        <img src="assets/certificates/hackerrank_software_engineer_intern.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="HackerRank Software Engineer Intern Certificate" />
+      </a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/HackerRank-Software%20Engineer%20Intern%20Verified-00EA64?style=flat-square&logo=hackerrank&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://www.hackerrank.com/certificates">
+        <img src="assets/certificates/hackerrank_problem_solving_intermediate.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="HackerRank Problem Solving Intermediate Certificate" />
+      </a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/HackerRank-Problem%20Solving%20Intermediate-00EA64?style=flat-square&logo=hackerrank&logoColor=black" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://www.hackerrank.com/certificates">
+        <img src="assets/certificates/hackerrank_sql_advanced.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="HackerRank SQL Advanced Certificate" />
+      </a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/HackerRank-SQL%20Advanced%20Verified-00EA64?style=flat-square&logo=hackerrank&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://www.hackerrank.com/certificates">
+        <img src="assets/certificates/hackerrank_sql_intermediate.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="HackerRank SQL Intermediate Certificate" />
+      </a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/HackerRank-SQL%20Intermediate-00EA64?style=flat-square&logo=hackerrank&logoColor=black" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://www.hackerrank.com/certificates">
+        <img src="assets/certificates/hackerrank_angular_basic.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="HackerRank Angular Basic Certificate" />
+      </a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/HackerRank-Angular%20Frontend%20Verified-00EA64?style=flat-square&logo=angular&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+
+<br/>
+
+### 📊 Kaggle & Google Cloud Verified ML Specializations (14+ Certificates)
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Kaggle-14%20Specialization%20Certificates-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Google-Machine%20Learning%20%7C%20Deep%20Learning%20%7C%20Computer%20Vision-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</div>
+
+<br/>
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="assets/certificates/kaggle-deep-learning.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="Kaggle Deep Learning Certificate" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Kaggle-Deep%20Learning-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="assets/certificates/kaggle-computer-vision.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="Kaggle Computer Vision Certificate" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Kaggle-Computer%20Vision-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="assets/certificates/kaggle-machine-learning.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="Kaggle Machine Learning Certificate" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Kaggle-Intro%20%26%20Intermediate%20ML-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="assets/certificates/kaggle-feature-engineering.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="Kaggle Feature Engineering Certificate" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Kaggle-Feature%20Engineering-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="assets/certificates/kaggle-time-series.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="Kaggle Time Series Certificate" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Kaggle-Time%20Series%20Forecasting-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="assets/certificates/kaggle-explainability.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="Kaggle Machine Learning Explainability Certificate" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Kaggle-ML%20Explainability%20(SHAP)-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="assets/certificates/kaggle-advanced-sql.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="Kaggle Advanced SQL Certificate" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Kaggle-Advanced%20SQL%20%26%20BigQuery-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="assets/certificates/kaggle-pandas.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="Kaggle Pandas Data Analysis Certificate" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Kaggle-Pandas%20Data%20Analysis-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+
 
 
 <br/>
