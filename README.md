@@ -373,7 +373,7 @@ impact:
 ### 🇪🇺 European University ECTS Credits (20.0 ECTS In-Hand | Bologna Process Validated)
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Total%20ECTS%20Locked-20.0%20ECTS%20(5%2C400%20Hours)-003399?style=for-the-badge&logo=europeanunion&logoColor=FFCC00" />
+  <img src="https://img.shields.io/badge/Total%20ECTS%20Locked-20.0%20ECTS%20(540%20Academic%20Hours)-003399?style=for-the-badge&logo=europeanunion&logoColor=FFCC00" />
   &nbsp;
   <img src="https://img.shields.io/badge/Finland%20Public%20Universities-LUT%20%7C%20Turku%20%7C%20Aalto%20%7C%20Helsinki-002F6C?style=for-the-badge" />
 </div>
