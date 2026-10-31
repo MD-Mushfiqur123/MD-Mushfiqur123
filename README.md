@@ -436,6 +436,34 @@ impact:
 
 <br/>
 
+### ⚛️ International Atomic Energy Agency (IAEA Vienna) — Nuclear Medicine & Radiation Protection
+
+<div align="center">
+<img src="https://img.shields.io/badge/IAEA%20Vienna-Atoms%20for%20Peace%20%26%20Development-0072CE?style=for-the-badge&logo=atom&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Medical%20Physics-Radiation%20Protection%20in%20Nuclear%20Medicine-003366?style=for-the-badge&logo=shield&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/United%20Nations%20Family-Vienna%20International%20Centre-009EDB?style=for-the-badge&logo=unitednations&logoColor=white" />
+</div>
+
+<br/>
+
+<table border="0" width="100%">
+<tr>
+<td width="100%" align="center" valign="top">
+<a href="https://elearning.iaea.org/">
+<img src="assets/certificates/iaea-radiation-protection-nuclear-medicine.png" width="75%" style="border-radius:10px;border:1px solid #30363d;" alt="IAEA - Radiation Protection in Nuclear Medicine Certificate" />
+</a>
+<br/><br/>
+<a href="https://elearning.iaea.org/">
+<img src="https://img.shields.io/badge/IAEA%20Vienna-Radiation%20Protection%20in%20Nuclear%20Medicine-0072CE?style=flat-square&logo=atom&logoColor=white" />
+</a>
+<br/>
+<sub><b>Issuing Authority:</b> International Atomic Energy Agency (IAEA, Vienna) | <b>Recipient:</b> Md Mushfiqur Rahim | <b>Date:</b> October 31, 2026</sub>
+</td>
+</tr>
+</table>
+
 ### 🌐 United Nations, 🩺 WHO / PAHO & 🚀 NASA Space Science Credentials
 
 <div align="center">
