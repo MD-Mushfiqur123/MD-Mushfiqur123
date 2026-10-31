@@ -469,11 +469,11 @@ impact:
 ### 🩺 Global Clinical Medicine & Public Health (WHO, PAHO & U.S. NIH)
 
 <div align="center">
-<img src="https://img.shields.io/badge/PAHO%20%2F%20WHO-World%20Health%20Organization-0072CE?style=for-the-badge&logo=worldhealthorganization&logoColor=white" />
+<img src="https://img.shields.io/badge/PAHO%20%2F%20WHO-42%20Hours%20Verified-0072CE?style=for-the-badge&logo=worldhealthorganization&logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/badge/NIH%20Clinical%20Center-Bethesda%2C%20Maryland-003366?style=for-the-badge&logo=nih&logoColor=white" />
+<img src="https://img.shields.io/badge/NIH%20Clinical%20Center-Bethesda%2C%20MD-003366?style=for-the-badge&logo=nih&logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/badge/Clinical%20Track-42%20Hours%20WHO%20Verified-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Clinical%20Track-100%25%20Verified-2ea44f?style=for-the-badge&logo=checkmarx&logoColor=white" />
 </div>
 
 <br/>
