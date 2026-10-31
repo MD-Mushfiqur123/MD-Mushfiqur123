@@ -436,14 +436,14 @@ impact:
 
 <br/>
 
-### 🏛️ Stanford Medicine (Stanford University School of Medicine) – Clinical Neurology, Spine & CME
+### 🏛️ Stanford Medicine (Stanford University School of Medicine) – Clinical Neurology, Spine & Neurophysiology CME (Hat-Trick 👑)
 
 <div align="center">
 <img src="https://img.shields.io/badge/Stanford%20Medicine-School%20of%20Medicine-8C1515?style=for-the-badge&logo=stanford&logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/badge/AMA%20PRA-Category%201%20Credits%E2%84%A2-8C1515?style=for-the-badge&logo=medscape&logoColor=white" />
+<img src="https://img.shields.io/badge/Total%20CME-3.25%20AMA%20PRA%20Category%201%E2%84%A2-8C1515?style=for-the-badge&logo=medscape&logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/badge/Clinical%20Neurology-Migraines%20%26%20Spine%20Care-2ea44f?style=for-the-badge&logo=checkmarx&logoColor=white" />
+<img src="https://img.shields.io/badge/Triad-Neurology%20%7C%20Spine%20%7C%20Neurophysiology-2ea44f?style=for-the-badge&logo=checkmarx&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/ACCME%20Accredited-Joint%20Accreditation-003366?style=for-the-badge&logo=shield&logoColor=white" />
 </div>
@@ -452,27 +452,38 @@ impact:
 
 <table border="0" width="100%">
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="33.33%" align="center" valign="top">
 <a href="https://stanford.cloud-cme.com/default.aspx">
-<img src="assets/certificates/stanford-medicine-migraines-neurology.png" width="100%" style="border-radius:10px;border:1px solid #30363d;box-shadow:0 4px 20px rgba(0,0,0,0.4);" alt="Stanford University School of Medicine - Migraines in Adults in Primary Care and General Neurology Certificate" />
+<img src="assets/certificates/stanford-medicine-migraines-neurology.png" width="100%" style="border-radius:8px;border:1px solid #30363d;box-shadow:0 4px 15px rgba(0,0,0,0.4);" alt="Stanford University School of Medicine - Migraines in Adults in Primary Care and General Neurology Certificate" />
 </a>
 <br/><br/>
 <a href="https://stanford.cloud-cme.com/default.aspx">
-<img src="https://img.shields.io/badge/Stanford%20Medicine-Diagnosis%20%26%20Management%20of%20Migraines-8C1515?style=flat-square&logo=stanford&logoColor=white" />
+<img src="https://img.shields.io/badge/Stanford-Migraines%20Neurology-8C1515?style=flat-square&logo=stanford&logoColor=white" />
 </a>
 <br/>
-<sub><b>Issuing Authority:</b> Stanford Medicine | <b>Recipient:</b> Md Mushfiqur Rahim | <b>Credits:</b> 1.50 AMA PRA Category 1™ | <b>Event ID:</b> 57082</sub>
+<sub><b>1.50 AMA PRA Cat 1™</b> | ID: 57082</sub>
 </td>
-<td width="50%" align="center" valign="top">
+<td width="33.33%" align="center" valign="top">
 <a href="https://stanford.cloud-cme.com/default.aspx">
-<img src="assets/certificates/stanford-medicine-low-back-pain.png" width="100%" style="border-radius:10px;border:1px solid #30363d;box-shadow:0 4px 20px rgba(0,0,0,0.4);" alt="Stanford University School of Medicine - Pain Management: Interventional Low Back Pain Certificate" />
+<img src="assets/certificates/stanford-medicine-low-back-pain.png" width="100%" style="border-radius:8px;border:1px solid #30363d;box-shadow:0 4px 15px rgba(0,0,0,0.4);" alt="Stanford University School of Medicine - Interventional Low Back Pain Certificate" />
 </a>
 <br/><br/>
 <a href="https://stanford.cloud-cme.com/default.aspx">
-<img src="https://img.shields.io/badge/Stanford%20Medicine-Interventional%20Low%20Back%20Pain-8C1515?style=flat-square&logo=stanford&logoColor=white" />
+<img src="https://img.shields.io/badge/Stanford-Interventional%20Spine-8C1515?style=flat-square&logo=stanford&logoColor=white" />
 </a>
 <br/>
-<sub><b>Issuing Authority:</b> Stanford Medicine | <b>Recipient:</b> Md Mushfiqur Rahim | <b>Credits:</b> 0.75 AMA PRA Category 1™ | <b>Event ID:</b> 60337</sub>
+<sub><b>0.75 AMA PRA Cat 1™</b> | ID: 60337</sub>
+</td>
+<td width="33.33%" align="center" valign="top">
+<a href="https://stanford.cloud-cme.com/default.aspx">
+<img src="assets/certificates/stanford-medicine-neuromuscular-monitoring.png" width="100%" style="border-radius:8px;border:1px solid #30363d;box-shadow:0 4px 15px rgba(0,0,0,0.4);" alt="Stanford University School of Medicine - Neuromuscular Monitoring Certificate" />
+</a>
+<br/><br/>
+<a href="https://stanford.cloud-cme.com/default.aspx">
+<img src="https://img.shields.io/badge/Stanford-Neuromuscular%20Monitoring-8C1515?style=flat-square&logo=stanford&logoColor=white" />
+</a>
+<br/>
+<sub><b>1.00 AMA PRA Cat 1™</b> | ID: 49148</sub>
 </td>
 </tr>
 </table>
