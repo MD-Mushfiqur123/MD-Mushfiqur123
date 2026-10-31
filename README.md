@@ -452,28 +452,28 @@ impact:
 <tr>
 <td width="100%" align="center" valign="top">
 <a href="https://elearning.iaea.org/">
-<img src="assets/certificates/iaea-radiation-protection-nuclear-medicine.png" width="75%" style="border-radius:10px;border:1px solid #30363d;" alt="IAEA - Radiation Protection in Nuclear Medicine Certificate" />
+<img src="assets/certificates/iaea-radiation-protection-nuclear-medicine.png" width="75%" style="border-radius:10px;border:1px solid #30363d;box-shadow:0 4px 20px rgba(0,0,0,0.4);" alt="IAEA - Radiation Protection in Nuclear Medicine Certificate" />
 </a>
 <br/><br/>
 <a href="https://elearning.iaea.org/">
 <img src="https://img.shields.io/badge/IAEA%20Vienna-Radiation%20Protection%20in%20Nuclear%20Medicine-0072CE?style=flat-square&logo=atom&logoColor=white" />
 </a>
 <br/>
-<sub><b>Issuing Authority:</b> International Atomic Energy Agency (IAEA, Vienna) | <b>Recipient:</b> Md Mushfiqur Rahim | <b>Date:</b> October 31, 2026</sub>
+<sub><b>Issuing Authority:</b> International Atomic Energy Agency (IAEA, Vienna) | <b>Recipient:</b> Md Mushfiqur Rahim | <b>Completed:</b> October 31, 2026</sub>
 </td>
 </tr>
 </table>
 
-### 🌐 United Nations, 🩺 WHO / PAHO & 🚀 NASA Space Science Credentials
+<br/>
+
+### 🩺 Global Clinical Medicine & Public Health (WHO, PAHO & U.S. NIH)
 
 <div align="center">
-<img src="https://img.shields.io/badge/Pan%20American%20Health%20Organization%20(PAHO)-World%20Health%20Organization-0072CE?style=for-the-badge&logo=worldhealthorganization&logoColor=white" />
+<img src="https://img.shields.io/badge/PAHO%20%2F%20WHO-World%20Health%20Organization-0072CE?style=for-the-badge&logo=worldhealthorganization&logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/badge/Clinical%20Medicine-Type%202%20Diabetes%20Care%20(20h%20%7C%20100%25)-003366?style=for-the-badge&logo=medicare&logoColor=white" />
+<img src="https://img.shields.io/badge/NIH%20Clinical%20Center-Bethesda%2C%20Maryland-003366?style=for-the-badge&logo=nih&logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/badge/Laboratory%20Pathology-Malaria%20Microscopy%20(10h%20%7C%2096.25%25)-E03C31?style=for-the-badge&logo=target&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/United%20Nations%20(UNSSC)-Human%20Security%20Verified-009EDB?style=for-the-badge&logo=unitednations&logoColor=white" />
+<img src="https://img.shields.io/badge/Clinical%20Track-42%20Hours%20WHO%20Verified-success?style=for-the-badge" />
 </div>
 
 <br/>
@@ -516,6 +516,30 @@ impact:
 <sub><b>Verification Code:</b> <code>0215350c-7210-4ab5-9a05-9f2dcf3194fa</code> | <b>Grade:</b> 98.00% | <b>Hours:</b> 12 Hours | <a href="https://campus.paho.org/mooc/mod/simplecertificate/verify.php?code=0215350c-7210-4ab5-9a05-9f2dcf3194fa"><b>Verify Authenticity</b></a></sub>
 </td>
 <td width="50%" align="center" valign="top">
+<a href="https://ocrtraining.cit.nih.gov/">
+<img src="assets/certificates/nih-ippcr.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="NIH - Introduction to the Principles and Practice of Clinical Research (IPPCR)" />
+</a>
+<br/><br/>
+<a href="https://ocrtraining.cit.nih.gov/">
+<img src="https://img.shields.io/badge/NIH%20Clinical%20Center-IPPCR%20Clinical%20Research-003366?style=flat-square&logo=nih&logoColor=white" />
+</a>
+<br/>
+<sub><b>Issuing Authority:</b> National Institutes of Health (NIH), Bethesda, Maryland, USA</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://ocrtraining.cit.nih.gov/">
+<img src="assets/certificates/nih-pharmacology.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="NIH - Principles of Clinical Pharmacology (PCP)" />
+</a>
+<br/><br/>
+<a href="https://ocrtraining.cit.nih.gov/">
+<img src="https://img.shields.io/badge/NIH%20Clinical%20Center-Clinical%20Pharmacology-003366?style=flat-square&logo=nih&logoColor=white" />
+</a>
+<br/>
+<sub><b>Issuing Authority:</b> National Institutes of Health (NIH), Bethesda, Maryland, USA</sub>
+</td>
+<td width="50%" align="center" valign="top">
 <a href="https://www.unssc.org/">
 <img src="assets/certificates/unssc-human-security.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="United Nations System Staff College (UNSSC) & UN Trust Fund - Human Security Certificate" />
 </a>
@@ -528,107 +552,29 @@ impact:
 </td>
 </tr>
 <tr>
-<td colspan="2" align="center" valign="top">
-<a href="https://appliedsciences.nasa.gov/what-we-do/capacity-building/arset">
-<img src="assets/certificates/nasa-arset.png" width="50%" style="border-radius:10px;border:1px solid #30363d;" alt="NASA Applied Remote Sensing Training (ARSET) Certificate" />
+<td width="50%" align="center" valign="top">
+<a href="https://training.fema.gov/is/crslist.aspx?lang=en">
+<img src="assets/certificates/fema-is100c.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="FEMA - Emergency Management Institute (IS-100.c)" />
 </a>
 <br/><br/>
-<a href="https://appliedsciences.nasa.gov/what-we-do/capacity-building/arset">
-<img src="https://img.shields.io/badge/NASA%20ARSET-Remote%20Sensing%20Verified-E03C31?style=flat-square&logo=nasa&logoColor=white" />
+<a href="https://training.fema.gov/is/crslist.aspx?lang=en">
+<img src="https://img.shields.io/badge/FEMA%20EMI-Incident%20Command%20System%20(IS--100.c)-00529B?style=flat-square" />
 </a>
 <br/>
-<sub><b>Official Verification Code:</b> <code>7745971387MR</code> | NASA Earth Science Division</sub>
-</td>
-</tr>
-</table>
-<sub><b>Official Certificate Code:</b> <code>9211665664MR</code> | UN Trust Fund for Human Security</sub>
+<sub><b>Official FEMA SID:</b> <code>SID-0010388526</code> | 0.2 IACET CEU</sub>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://appliedsciences.nasa.gov/what-we-do/capacity-building/arset">
-<img src="assets/certificates/nasa-arset.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="NASA Applied Remote Sensing Training (ARSET) Certificate" />
+<a href="https://www.opswat.com/academy">
+<img src="assets/certificates/opswat-icip.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="OPSWAT Academy - Introduction to Critical Infrastructure Protection (ICIP)" />
 </a>
 <br/><br/>
-<a href="https://appliedsciences.nasa.gov/what-we-do/capacity-building/arset">
-<img src="https://img.shields.io/badge/NASA%20ARSET-Remote%20Sensing%20Verified-E03C31?style=flat-square&logo=nasa&logoColor=white" />
+<a href="https://www.opswat.com/academy">
+<img src="https://img.shields.io/badge/OPSWAT%20Academy-Critical%20Infrastructure%20Protection%20(ICIP)-E31837?style=flat-square" />
 </a>
 <br/>
-<sub><b>Official Verification Code:</b> <code>7745971387MR</code> | NASA Earth Science Division</sub>
+<sub><b>Official Credential ID:</b> <code>65a0b7e289f31a00192e8a71</code></sub>
 </td>
 </tr>
-</table>
-
-### 🩺 U.S. Federal Government, NIH & Clinical Research Credentials
-
-<div align="center">
-  <img src="https://img.shields.io/badge/National%20Institutes%20of%20Health%20(NIH)-Clinical%20Research%20%26%20Pharmacology-003366?style=for-the-badge&logo=medicare&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/U.S.%20DHS%20%2F%20FEMA-Emergency%20Management%20Institute-00529B?style=for-the-badge&logo=shield&logoColor=white" />
-</div>
-
-<br/>
-
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://ocrtraining.cit.nih.gov/">
-        <img src="assets/certificates/nih-ippcr.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="NIH - Introduction to the Principles and Practice of Clinical Research (IPPCR)" />
-      </a>
-      <br/><br/>
-      <a href="https://ocrtraining.cit.nih.gov/">
-        <img src="https://img.shields.io/badge/NIH%20Clinical%20Center-IPPCR%20Clinical%20Research-003366?style=flat-square&logo=nih&logoColor=white" />
-      </a>
-      <br/>
-      <sub><b>Issuing Authority:</b> National Institutes of Health (NIH), Bethesda, Maryland, USA</sub>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://ocrtraining.cit.nih.gov/">
-        <img src="assets/certificates/nih-pharmacology.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="NIH - Principles of Clinical Pharmacology (PCP)" />
-      </a>
-      <br/><br/>
-      <a href="https://ocrtraining.cit.nih.gov/">
-        <img src="https://img.shields.io/badge/NIH%20Clinical%20Center-Clinical%20Pharmacology-003366?style=flat-square&logo=nih&logoColor=white" />
-      </a>
-      <br/>
-      <sub><b>Issuing Authority:</b> National Institutes of Health (NIH), Bethesda, Maryland, USA</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://training.fema.gov/is/crslist.aspx?lang=en">
-        <img src="assets/certificates/fema-is100c.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="FEMA - Emergency Management Institute (IS-100.c)" />
-      </a>
-      <br/><br/>
-      <a href="https://training.fema.gov/is/crslist.aspx?lang=en">
-        <img src="https://img.shields.io/badge/FEMA%20EMI-Incident%20Command%20System%20(IS--100.c)-00529B?style=flat-square" />
-      </a>
-      <br/>
-      <sub><b>Official FEMA SID:</b> <code>SID-0010388526</code> | 0.2 IACET CEU</sub>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://www.opswat.com/academy">
-        <img src="assets/certificates/opswat-icip.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="OPSWAT Academy - Introduction to Critical Infrastructure Protection (ICIP)" />
-      </a>
-      <br/><br/>
-      <a href="https://www.opswat.com/academy">
-        <img src="https://img.shields.io/badge/OPSWAT%20Academy-Critical%20Infrastructure%20Protection%20(ICIP)-E31837?style=flat-square" />
-      </a>
-      <br/>
-      <sub><b>Official Credential ID:</b> <code>65a0b7e289f31a00192e8a71</code></sub>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" width="100%" align="center" valign="top">
-      <a href="https://www.efset.org/cert/r6dKxQ">
-        <img src="assets/certificates/efset-c1.png" width="60%" style="border-radius:10px;border:1px solid #30363d;" alt="EF SET - C1 Advanced English Certification (69/100)" />
-      </a>
-      <br/><br/>
-      <a href="https://www.efset.org/cert/r6dKxQ">
-        <img src="https://img.shields.io/badge/EF%20SET-C1%20Advanced%20(69%2F100%20CEFR)-2B6CB0?style=flat-square" />
-      </a>
-      <br/>
-      <sub><b>Official Verification URL:</b> <code>https://www.efset.org/cert/r6dKxQ</code></sub>
-    </td>
-  </tr>
 </table>
 
 <br/>
