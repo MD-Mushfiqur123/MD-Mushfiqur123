@@ -436,6 +436,44 @@ impact:
 
 <br/>
 
+<br/>
+
+### 🏛️ University of Oxford (The Global Health Network) – International Clinical Research & Trial Governance (ICH-GCP E6(R3))
+
+<div align="center">
+<img src="https://img.shields.io/badge/University%20of%20Oxford-Nuffield%20Dept%20of%20Medicine-002147?style=for-the-badge&logo=oxford&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/ICH--GCP%20E6(R3)-100%25%20Score-008080?style=for-the-badge&logo=checkmarx&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/TransCelerate%20BioPharma-Mutually%20Recognized-003366?style=for-the-badge&logo=shield&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Global%20Health%20Training%20Centre-Certified%20Investigator-2ea44f?style=for-the-badge&logo=worldhealthorganization&logoColor=white" />
+</div>
+
+<br/>
+
+<div align="center">
+<table border="0" width="70%">
+<tr>
+<td align="center" valign="top">
+<a href="https://globalhealthtrainingcentre.tghn.org/elearning/">
+<img src="assets/certificates/oxford-university-ich-gcp-e6-r3.png" width="100%" style="border-radius:8px;border:1px solid #30363d;box-shadow:0 6px 20px rgba(0,0,0,0.45);" alt="University of Oxford TGHN - ICH Good Clinical Practice E6(R3) Certificate - MD MUSHFIQUR RAHIM" />
+</a>
+<br/><br/>
+<a href="https://globalhealthtrainingcentre.tghn.org/elearning/">
+<img src="https://img.shields.io/badge/Oxford%20TGHN-ICH%20GCP%20E6(R3)%20Investigator-002147?style=flat-square&logo=oxford&logoColor=white" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Score-100%25%20Perfect-2ea44f?style=flat-square" />
+<br/>
+<sub><b>Certificate No:</b> <code>c96b54e3-5d01-40dc-a22f-a7b412eb2117</code> | <b>Issued:</b> 01/11/2026 | <b>TransCelerate BioPharma Minimum Criteria Met</b></sub>
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
 ### 🏛️ Stanford Medicine (Stanford University School of Medicine) – Clinical Neurology, Spine & Neurophysiology CME (Hat-Trick 👑)
 
 <div align="center">
