@@ -1,0 +1,827 @@
+# 🎓 Verified Certifications, Academic Credits & Honors
+
+### 🏛️ Top Universities & Global Computer Science Programs
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://cs50.harvard.edu/certificates/9fde6ff7-e81e-4c04-89cf-735b736004dd">
+        <img src="assets/certificates/harvard-cs50x.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="Harvard University — CS50x Certificate" />
+      </a>
+      <br/><br/>
+      <a href="https://cs50.harvard.edu/certificates/9fde6ff7-e81e-4c04-89cf-735b736004dd">
+        <img src="https://img.shields.io/badge/Harvard%20University-CS50x%20Verified-A51C30?style=flat-square&logo=harvard&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/2459f5ce85ad3bee10459f37870e8c84">
+        <img src="assets/certificates/full-stack-open.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="University of Helsinki — Full Stack Open (7 ECTS, Grade 5)" />
+      </a>
+      <br/><br/>
+      <a href="https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/2459f5ce85ad3bee10459f37870e8c84">
+        <img src="https://img.shields.io/badge/University%20of%20Helsinki-Full%20Stack%20Open%20(7%20ECTS)-002F6C?style=flat-square" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://certificates.mooc.fi/validate/1xw084tnsab">
+        <img src="assets/certificates/elements-of-ai.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="University of Helsinki — MinnaLearn — Elements of AI (2 ECTS)" />
+      </a>
+      <br/><br/>
+      <a href="https://certificates.mooc.fi/validate/1xw084tnsab">
+        <img src="https://img.shields.io/badge/University%20of%20Helsinki-Elements%20of%20AI%20(2%20ECTS)-002F6C?style=flat-square" />
+      </a>
+      &nbsp;
+      <img src="https://img.shields.io/badge/University%20of%20Helsinki-Aquatic%20Data%20Science%20(3%20ECTS)-002F6C?style=flat-square" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="assets/certificates/open-university-ai.png" width="60%" style="border-radius:10px;border:1px solid #30363d;" alt="The Open University — Introduction to Artificial Intelligence" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/The%20Open%20University-Intro%20to%20AI-002F6C?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://cs50.harvard.edu/certificates/6d46d2bc-3bfa-418d-9623-9378ed43dbfa">
+        <img src="assets/certificates/harvard-cs50ai.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="Harvard University — CS50AI Certificate" />
+      </a>
+      <br/><br/>
+      <a href="https://cs50.harvard.edu/certificates/6d46d2bc-3bfa-418d-9623-9378ed43dbfa">
+        <img src="https://img.shields.io/badge/Harvard%20University-CS50AI%20Verified-A51C30?style=flat-square&logo=harvard&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://cs50.harvard.edu/certificates/e2666653-f57a-48ff-bfef-a32c3b5eca04">
+        <img src="assets/certificates/harvard-cs50p.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="Harvard University — CS50P Certificate" />
+      </a>
+      <br/><br/>
+      <a href="https://cs50.harvard.edu/certificates/e2666653-f57a-48ff-bfef-a32c3b5eca04">
+        <img src="https://img.shields.io/badge/Harvard%20University-CS50P%20Python%20Verified-A51C30?style=flat-square&logo=python&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+    <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://cs50.harvard.edu/certificates/7bb2e6da-6179-4044-893e-dd4aee53d13f">
+        <img src="assets/certificates/harvard-cs50sql.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="Harvard University - CS50SQL Certificate" />
+      </a>
+      <br/><br/>
+      <a href="https://cs50.harvard.edu/certificates/7bb2e6da-6179-4044-893e-dd4aee53d13f">
+        <img src="https://img.shields.io/badge/Harvard%20University-CS50SQL%20Databases%20Verified-A51C30?style=flat-square&logo=sqlite&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://cs50.harvard.edu/certificates">
+        <img src="assets/certificates/cs50r.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="Harvard University - CS50R Data Science with R Certificate" />
+      </a>
+      <br/><br/>
+      <a href="https://cs50.harvard.edu/certificates">
+        <img src="https://img.shields.io/badge/Harvard%20University-CS50R%20Data%20Science%20Verified-A51C30?style=flat-square&logo=r&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### 🇪🇺 European University ECTS Credits (24.0 ECTS In-Hand | Bologna Process Validated)
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Total%20ECTS%20Locked-24.0%20ECTS%20(648%20Academic%20Hours)-003399?style=for-the-badge&logo=europeanunion&logoColor=FFCC00" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Finland%20Public%20Universities-LUT%20%7C%20Turku%20%7C%20Aalto%20%7C%20Helsinki-002F6C?style=for-the-badge" />
+</div>
+
+<br/>
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="assets/certificates/lut-sustainable-design.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="LUT University - Climate Action: Sustainable Design & Production (2 ECTS)" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/LUT%20University-Sustainable%20Design%20(2.0%20ECTS)-0078D7?style=flat-square" />
+      <br/>
+      <sub><b>Official Certificate ID:</b> <code>WEp2ta2AUs</code></sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="assets/certificates/lut-power-to-x.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="LUT University - Climate Action: Power-to-X (2 ECTS)" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/LUT%20University-Power--to--X%20(2.0%20ECTS)-0078D7?style=flat-square" />
+      <br/>
+      <sub><b>Official Certificate ID:</b> <code>lYsk66DfAs</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="assets/certificates/lut-digital-transformation.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="LUT University - Climate Action: Digital Transformation in Process Industry (2 ECTS)" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/LUT%20University-Digital%20Transformation%20(2.0%20ECTS)-0078D7?style=flat-square" />
+      <br/>
+      <sub><b>Official Certificate ID:</b> <code>8YxxE9I2tS</code></sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="assets/certificates/lut-carbon-neutral-transport.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="LUT University - Climate Action: Solutions for Carbon Neutral Transport (2 ECTS)" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/LUT%20University-Carbon%20Neutral%20Transport%20(2.0%20ECTS)-0078D7?style=flat-square" />
+      <br/>
+      <sub><b>Official Certificate ID:</b> <code>eFTACAtl5U</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="assets/certificates/turku-ai-cybersecurity.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="University of Turku - AI & Cybersecurity (2 ECTS)" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/University%20of%20Turku-AI%20%26%20Cybersecurity%20(2.0%20ECTS)-002F6C?style=flat-square" />
+      <br/>
+      <sub><b>Official Certificate ID:</b> <code>hQIbxA4L4s</code></sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="assets/certificates/aalto-starting-up.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="Aalto University - Starting Up (1 ECTS)" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Aalto%20University-Starting%20Up%20(1.0%20ECTS)-FF595A?style=flat-square" />
+      <br/>
+      <sub><b>Online Verification ID:</b> <code>cf55e7d4-40d8-41a0-9f6e-c0532fd7fbb7</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="assets/certificates/lut-technical-mathematics-2ects.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="LUT University - Basics of Technical Mathematics (2 ECTS)" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/LUT%20University-Technical%20Mathematics%20(2.0%20ECTS)-0078D7?style=flat-square" />
+      <br/>
+      <sub><b>Official Master Cert ID:</b> <code>t936bra1pW</code> | Signed: Provost &amp; Rector</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="assets/certificates/turku-cultural-memory-1ects.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="University of Turku - Cultural Memory and Social Change (1 ECTS)" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/University%20of%20Turku-Cultural%20Memory%20(1.0%20ECTS)-002F6C?style=flat-square" />
+      <br/>
+      <sub><b>Official Verification Code:</b> <code>icE8p6Zv7K</code> | Grade: Pass</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://courses.minnalearn.com/certificate/fi/regenfarming/08f0f207-d6ef-4200-a88d-02c03e1bf80b">
+        <img src="assets/certificates/minnalearn-bsag-regenerative-farming.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="MinnaLearn & Baltic Sea Action Group (BSAG) - Uudistavan viljelyn opisto" />
+      </a>
+      <br/><br/>
+      <a href="https://courses.minnalearn.com/certificate/fi/regenfarming/08f0f207-d6ef-4200-a88d-02c03e1bf80b">
+        <img src="https://img.shields.io/badge/MinnaLearn%20%26%20BSAG-Regenerative%20Farming-2E7D32?style=flat-square" />
+      </a>
+      <br/>
+      <sub><b>Verification ID:</b> <code>08f0f207-d6ef-4200-a88d-02c03e1bf80b</code></sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="assets/certificates/lut-climate-action-for-youth-2ects.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="LUT University - Climate Action for Youth" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/LUT%20University-Climate%20Action%20For%20Youth-0078D7?style=flat-square" />
+      <br/>
+      <sub><b>Official Master Cert ID:</b> <code>03uY3kCSec</code></sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+
+<br/>
+
+<br/>
+
+### 🏛️ University of Oxford (The Global Health Network) – International Clinical Research & Trial Governance (ICH-GCP E6(R3))
+
+<div align="center">
+<img src="https://img.shields.io/badge/University%20of%20Oxford-Nuffield%20Dept%20of%20Medicine-002147?style=for-the-badge&logo=oxford&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/ICH--GCP%20E6(R3)-100%25%20Score-008080?style=for-the-badge&logo=checkmarx&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/TransCelerate%20BioPharma-Mutually%20Recognized-003366?style=for-the-badge&logo=shield&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Global%20Health%20Training%20Centre-Certified%20Investigator-2ea44f?style=for-the-badge&logo=worldhealthorganization&logoColor=white" />
+</div>
+
+<br/>
+
+<div align="center">
+<table border="0" width="70%">
+<tr>
+<td align="center" valign="top">
+<a href="https://globalhealthtrainingcentre.tghn.org/elearning/">
+<img src="assets/certificates/oxford-university-ich-gcp-e6-r3.png" width="100%" style="border-radius:8px;border:1px solid #30363d;box-shadow:0 6px 20px rgba(0,0,0,0.45);" alt="University of Oxford TGHN - ICH Good Clinical Practice E6(R3) Certificate - MD MUSHFIQUR RAHIM" />
+</a>
+<br/><br/>
+<a href="https://globalhealthtrainingcentre.tghn.org/elearning/">
+<img src="https://img.shields.io/badge/Oxford%20TGHN-ICH%20GCP%20E6(R3)%20Investigator-002147?style=flat-square&logo=oxford&logoColor=white" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Score-100%25%20Perfect-2ea44f?style=flat-square" />
+<br/>
+<sub><b>Certificate No:</b> <code>c96b54e3-5d01-40dc-a22f-a7b412eb2117</code> | <b>Issued:</b> 01/11/2026 | <b>TransCelerate BioPharma Minimum Criteria Met</b></sub>
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+### 🏛️ Stanford Medicine (Stanford University School of Medicine) – Clinical Neurology, Spine & Neurophysiology CME (Hat-Trick 👑)
+
+<div align="center">
+<img src="https://img.shields.io/badge/Stanford%20Medicine-School%20of%20Medicine-8C1515?style=for-the-badge&logo=stanford&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Total%20CME-3.25%20AMA%20PRA%20Category%201%E2%84%A2-8C1515?style=for-the-badge&logo=medscape&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Triad-Neurology%20%7C%20Spine%20%7C%20Neurophysiology-2ea44f?style=for-the-badge&logo=checkmarx&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/ACCME%20Accredited-Joint%20Accreditation-003366?style=for-the-badge&logo=shield&logoColor=white" />
+</div>
+
+<br/>
+
+<table border="0" width="100%">
+<tr>
+<td width="33.33%" align="center" valign="top">
+<a href="https://stanford.cloud-cme.com/default.aspx">
+<img src="assets/certificates/stanford-medicine-migraines-neurology.png" width="100%" style="border-radius:8px;border:1px solid #30363d;box-shadow:0 4px 15px rgba(0,0,0,0.4);" alt="Stanford University School of Medicine - Migraines in Adults in Primary Care and General Neurology Certificate" />
+</a>
+<br/><br/>
+<a href="https://stanford.cloud-cme.com/default.aspx">
+<img src="https://img.shields.io/badge/Stanford-Migraines%20Neurology-8C1515?style=flat-square&logo=stanford&logoColor=white" />
+</a>
+<br/>
+<sub><b>1.50 AMA PRA Cat 1™</b> | ID: 57082</sub>
+</td>
+<td width="33.33%" align="center" valign="top">
+<a href="https://stanford.cloud-cme.com/default.aspx">
+<img src="assets/certificates/stanford-medicine-low-back-pain.png" width="100%" style="border-radius:8px;border:1px solid #30363d;box-shadow:0 4px 15px rgba(0,0,0,0.4);" alt="Stanford University School of Medicine - Interventional Low Back Pain Certificate" />
+</a>
+<br/><br/>
+<a href="https://stanford.cloud-cme.com/default.aspx">
+<img src="https://img.shields.io/badge/Stanford-Interventional%20Spine-8C1515?style=flat-square&logo=stanford&logoColor=white" />
+</a>
+<br/>
+<sub><b>0.75 AMA PRA Cat 1™</b> | ID: 60337</sub>
+</td>
+<td width="33.33%" align="center" valign="top">
+<a href="https://stanford.cloud-cme.com/default.aspx">
+<img src="assets/certificates/stanford-medicine-neuromuscular-monitoring.png" width="100%" style="border-radius:8px;border:1px solid #30363d;box-shadow:0 4px 15px rgba(0,0,0,0.4);" alt="Stanford University School of Medicine - Neuromuscular Monitoring Certificate" />
+</a>
+<br/><br/>
+<a href="https://stanford.cloud-cme.com/default.aspx">
+<img src="https://img.shields.io/badge/Stanford-Neuromuscular%20Monitoring-8C1515?style=flat-square&logo=stanford&logoColor=white" />
+</a>
+<br/>
+<sub><b>1.00 AMA PRA Cat 1™</b> | ID: 49148</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+### ⚛️ International Atomic Energy Agency (IAEA Vienna) — Nuclear Medicine & Radiation Protection
+
+<div align="center">
+<img src="https://img.shields.io/badge/IAEA%20Vienna-Atoms%20for%20Peace%20%26%20Development-0072CE?style=for-the-badge&logo=atom&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Medical%20Physics-Radiation%20Protection%20in%20Nuclear%20Medicine-003366?style=for-the-badge&logo=shield&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/United%20Nations%20Family-Vienna%20International%20Centre-009EDB?style=for-the-badge&logo=unitednations&logoColor=white" />
+</div>
+
+<br/>
+
+<table border="0" width="100%">
+<tr>
+<td width="100%" align="center" valign="top">
+<a href="https://elearning.iaea.org/">
+<img src="assets/certificates/iaea-radiation-protection-nuclear-medicine.png" width="75%" style="border-radius:10px;border:1px solid #30363d;box-shadow:0 4px 20px rgba(0,0,0,0.4);" alt="IAEA - Radiation Protection in Nuclear Medicine Certificate" />
+</a>
+<br/><br/>
+<a href="https://elearning.iaea.org/">
+<img src="https://img.shields.io/badge/IAEA%20Vienna-Radiation%20Protection%20in%20Nuclear%20Medicine-0072CE?style=flat-square&logo=atom&logoColor=white" />
+</a>
+<br/>
+<sub><b>Issuing Authority:</b> International Atomic Energy Agency (IAEA, Vienna) | <b>Recipient:</b> Md Mushfiqur Rahim | <b>Completed:</b> October 31, 2026</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 🩺 Global Clinical Medicine & Public Health (WHO, PAHO & U.S. NIH)
+
+<div align="center">
+<img src="https://img.shields.io/badge/PAHO%20%2F%20WHO-42%20Hours%20Verified-0072CE?style=for-the-badge&logo=worldhealthorganization&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/NIH%20Clinical%20Center-Bethesda%2C%20MD-003366?style=for-the-badge&logo=nih&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Clinical%20Track-100%25%20Verified-2ea44f?style=for-the-badge&logo=checkmarx&logoColor=white" />
+</div>
+
+<br/>
+
+<table border="0" width="100%">
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://campus.paho.org/mooc/mod/simplecertificate/verify.php?code=7e68d0d7-0da6-4ca1-a9fa-4900f3aa19af">
+<img src="assets/certificates/paho-who-type-2-diabetes.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="PAHO & WHO - Caring for people with type 2 diabetes mellitus in Primary Health Care settings" />
+</a>
+<br/><br/>
+<a href="https://campus.paho.org/mooc/mod/simplecertificate/verify.php?code=7e68d0d7-0da6-4ca1-a9fa-4900f3aa19af">
+<img src="https://img.shields.io/badge/PAHO%20%2F%20WHO-Type%202%20Diabetes%20Care%20(20%20Hours)-0072CE?style=flat-square&logo=worldhealthorganization&logoColor=white" />
+</a>
+<br/>
+<sub><b>Verification Code:</b> <code>7e68d0d7-0da6-4ca1-a9fa-4900f3aa19af</code> | <b>Grade:</b> 100.00% | <b>Hours:</b> 20 Hours | <a href="https://campus.paho.org/mooc/mod/simplecertificate/verify.php?code=7e68d0d7-0da6-4ca1-a9fa-4900f3aa19af"><b>Verify Authenticity</b></a></sub>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://campus.paho.org/mooc/mod/simplecertificate/verify.php?code=8f099a5f-90c3-4112-a046-84fd4ef981f2">
+<img src="assets/certificates/paho-who-malaria-microscopy.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="PAHO & WHO - Microscopic Diagnosis of Malaria" />
+</a>
+<br/><br/>
+<a href="https://campus.paho.org/mooc/mod/simplecertificate/verify.php?code=8f099a5f-90c3-4112-a046-84fd4ef981f2">
+<img src="https://img.shields.io/badge/PAHO%20%2F%20WHO-Malaria%20Microscopy%20(10%20Hours)-0072CE?style=flat-square&logo=worldhealthorganization&logoColor=white" />
+</a>
+<br/>
+<sub><b>Verification Code:</b> <code>8f099a5f-90c3-4112-a046-84fd4ef981f2</code> | <b>Grade:</b> 96.25% | <b>Hours:</b> 10 Hours | <a href="https://campus.paho.org/mooc/mod/simplecertificate/verify.php?code=8f099a5f-90c3-4112-a046-84fd4ef981f2"><b>Verify Authenticity</b></a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://campus.paho.org/mooc/mod/simplecertificate/verify.php?code=0215350c-7210-4ab5-9a05-9f2dcf3194fa">
+<img src="assets/certificates/paho-who-psychological-first-aid.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="PAHO & WHO - Psychological First Aid in Disaster Management" />
+</a>
+<br/><br/>
+<a href="https://campus.paho.org/mooc/mod/simplecertificate/verify.php?code=0215350c-7210-4ab5-9a05-9f2dcf3194fa">
+<img src="https://img.shields.io/badge/PAHO%20%2F%20WHO-PFA%20Disaster%20Management%20(12%20Hours)-0072CE?style=flat-square&logo=worldhealthorganization&logoColor=white" />
+</a>
+<br/>
+<sub><b>Verification Code:</b> <code>0215350c-7210-4ab5-9a05-9f2dcf3194fa</code> | <b>Grade:</b> 98.00% | <b>Hours:</b> 12 Hours | <a href="https://campus.paho.org/mooc/mod/simplecertificate/verify.php?code=0215350c-7210-4ab5-9a05-9f2dcf3194fa"><b>Verify Authenticity</b></a></sub>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://ocrtraining.cit.nih.gov/">
+<img src="assets/certificates/nih-ippcr.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="NIH - Introduction to the Principles and Practice of Clinical Research (IPPCR)" />
+</a>
+<br/><br/>
+<a href="https://ocrtraining.cit.nih.gov/">
+<img src="https://img.shields.io/badge/NIH%20Clinical%20Center-IPPCR%20Clinical%20Research-003366?style=flat-square&logo=nih&logoColor=white" />
+</a>
+<br/>
+<sub><b>Issuing Authority:</b> National Institutes of Health (NIH), Bethesda, Maryland, USA</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://ocrtraining.cit.nih.gov/">
+<img src="assets/certificates/nih-pharmacology.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="NIH - Principles of Clinical Pharmacology (PCP)" />
+</a>
+<br/><br/>
+<a href="https://ocrtraining.cit.nih.gov/">
+<img src="https://img.shields.io/badge/NIH%20Clinical%20Center-Clinical%20Pharmacology-003366?style=flat-square&logo=nih&logoColor=white" />
+</a>
+<br/>
+<sub><b>Issuing Authority:</b> National Institutes of Health (NIH), Bethesda, Maryland, USA</sub>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://www.unssc.org/">
+<img src="assets/certificates/unssc-human-security.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="United Nations System Staff College (UNSSC) & UN Trust Fund - Human Security Certificate" />
+</a>
+<br/><br/>
+<a href="https://www.unssc.org/">
+<img src="https://img.shields.io/badge/United%20Nations-UNSSC%20Human%20Security-009EDB?style=flat-square&logo=unitednations&logoColor=white" />
+</a>
+<br/>
+<sub><b>Official Certificate Code:</b> <code>9211665664MR</code> | UN Trust Fund for Human Security</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://training.fema.gov/is/crslist.aspx?lang=en">
+<img src="assets/certificates/fema-is100c.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="FEMA - Emergency Management Institute (IS-100.c)" />
+</a>
+<br/><br/>
+<a href="https://training.fema.gov/is/crslist.aspx?lang=en">
+<img src="https://img.shields.io/badge/FEMA%20EMI-Incident%20Command%20System%20(IS--100.c)-00529B?style=flat-square" />
+</a>
+<br/>
+<sub><b>Official FEMA SID:</b> <code>SID-0010388526</code> | 0.2 IACET CEU</sub>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://www.opswat.com/academy">
+<img src="assets/certificates/opswat-icip.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="OPSWAT Academy - Introduction to Critical Infrastructure Protection (ICIP)" />
+</a>
+<br/><br/>
+<a href="https://www.opswat.com/academy">
+<img src="https://img.shields.io/badge/OPSWAT%20Academy-Critical%20Infrastructure%20Protection%20(ICIP)-E31837?style=flat-square" />
+</a>
+<br/>
+<sub><b>Official Credential ID:</b> <code>65a0b7e289f31a00192e8a71</code></sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 🛸 NASA (National Aeronautics and Space Administration) — Applied Remote Sensing & Space Systems
+
+<div align="center">
+
+  <img src="assets/certificates/nasa-arset.png" width="75%" style="border-radius:12px;border:1px solid #30363d;box-shadow:0 4px 20px rgba(0,0,0,0.4);" alt="NASA ARSET — Fundamentals of Remote Sensing Certificate" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/NASA-National%20Aeronautics%20and%20Space%20Administration-0B3D91?style=for-the-badge&logo=nasa&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/ARSET%20Program-Fundamentals%20of%20Remote%20Sensing-E03A3E?style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/Verification%20Code-7745971387MR-1F2937?style=for-the-badge" />
+
+</div>
+
+<br/>
+
+### 🇺🇳 United Nations (UNODC Vienna) — Certified International Legal Standards
+
+<div align="center">
+
+<a href="https://elearningunodc.org/pluginfile.php/1/tool_certificate/issues/1792789961/9470307475MR.pdf">
+  <img src="assets/certificates/unodc-nelson-mandela.png" width="75%" style="border-radius:12px;border:1px solid #30363d;box-shadow:0 4px 20px rgba(0,0,0,0.4);" alt="United Nations Office on Drugs and Crime — The Nelson Mandela Rules Certificate" />
+</a>
+
+<br/><br/>
+
+<a href="https://elearningunodc.org/pluginfile.php/1/tool_certificate/issues/1792789961/9470307475MR.pdf">
+  <img src="https://img.shields.io/badge/United%20Nations-UNODC%20Vienna-009edb?style=for-the-badge&logo=united-nations&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://elearningunodc.org/pluginfile.php/1/tool_certificate/issues/1792789961/9470307475MR.pdf">
+  <img src="https://img.shields.io/badge/The%20Nelson%20Mandela%20Rules-Code:%209470307475MR-1F2937?style=for-the-badge" />
+</a>
+&nbsp;
+<a href="https://elearningunodc.org/pluginfile.php/1/tool_certificate/issues/1792789961/9470307475MR.pdf">
+  <img src="https://img.shields.io/badge/Assessment-100%25%20Verified-success?style=for-the-badge" />
+</a>
+
+</div>
+
+<br/>
+
+### 🤖 Anthropic AI — Certified Developer
+
+<div align="center">
+
+| Certificate | Issuer | Verification |
+| :--- | :--- | :---: |
+| **Claude Code in Action** | Anthropic | [↗ View Credential](https://verify.skilljar.com/c/qp3mi4hhbpdk) |
+| **Claude with Google Vertex AI** | Anthropic | [↗ View Credential](https://verify.skilljar.com/c/6euhyoyfxevg) |
+| **Claude 101** | Anthropic | ✅ Verified |
+| **Claude Code 101** | Anthropic | ✅ Verified |
+| **AI Fluency for Students** | Anthropic × UCC × Ringling × HEA | ✅ Verified |
+| **AI Fluency: Framework & Foundations** | Anthropic × UCC × Ringling × HEA | ✅ Verified |
+
+</div>
+
+<br/>
+
+### 🌐 Official Qualifications & Accreditations
+
+<table border="0" width="100%">
+  <tr>
+    <td width="42%" align="center" valign="middle">
+      <a href="https://cert.efset.org/G7yoSe">
+        <img src="assets/certificates/efset-c1-advanced.jpg" width="100%" style="border-radius:12px;border:1px solid #30363d;" alt="EF SET English Certificate C1 Advanced" />
+      </a>
+      <br/><br/>
+      <a href="https://cert.efset.org/G7yoSe"><img src="https://img.shields.io/badge/EF%20SET-C1%20Advanced%20%7C%20Reading%20%26%20Listening%20C2%20Proficient-000000?style=flat-square" /></a>
+    </td>
+    <td width="58%" align="center" valign="middle">
+      <a href="https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a">
+        <img src="assets/certificates/google-cloud-skills.png" width="100%" style="border-radius:12px;border:1px solid #30363d;" alt="Google Cloud Skills — Diamond League & Arcade Certification" />
+      </a>
+      <br/><br/>
+      <a href="https://www.skills.google/public_profiles/f65660d4-2a1e-48ba-8431-998055be793a"><img src="https://img.shields.io/badge/Google%20Cloud-Skills%20Profile-4285F4?style=flat-square&logo=google-cloud&logoColor=white" /></a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### ⚡ LeetCode — Algorithmic Mastery & Official Study Plan Badges
+
+<div align="center">
+
+<a href="https://leetcode.com/u/mushfiqurH2B/">
+  <img src="https://img.shields.io/badge/LeetCode-mushfiqurH2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+<a href="https://leetcode.com/u/mushfiqurH2B/">
+  <img src="https://img.shields.io/badge/Solved-1089%20Problems-00B8A3?style=for-the-badge" />
+</a>
+<a href="https://leetcode.com/u/mushfiqurH2B/">
+  <img src="https://img.shields.io/badge/Hard-429-EF4743?style=for-the-badge" />
+</a>
+<a href="https://leetcode.com/u/mushfiqurH2B/">
+  <img src="https://img.shields.io/badge/Medium-372-FFC01E?style=for-the-badge" />
+</a>
+<a href="https://leetcode.com/u/mushfiqurH2B/">
+  <img src="https://img.shields.io/badge/Easy-288-00B8A3?style=for-the-badge" />
+</a>
+
+<br/><br/>
+
+<table border="0" width="100%">
+  <tr>
+    <td width="25%" align="center" valign="top">
+      <a href="https://leetcode.com/u/mushfiqurH2B/">
+        <img src="assets/badges/leetcode_top_interview_150.png" width="90%" style="border-radius:12px;border:1px solid #30363d;" alt="LeetCode Top Interview 150 Badge" />
+      </a>
+      <br/><br/>
+      <a href="https://leetcode.com/u/mushfiqurH2B/"><img src="https://img.shields.io/badge/LeetCode-Top%20Interview%20150-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <a href="https://leetcode.com/u/mushfiqurH2B/">
+        <img src="assets/badges/leetcode_75.png" width="90%" style="border-radius:12px;border:1px solid #30363d;" alt="LeetCode 75 Badge" />
+      </a>
+      <br/><br/>
+      <a href="https://leetcode.com/u/mushfiqurH2B/"><img src="https://img.shields.io/badge/LeetCode-LeetCode%2075-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <a href="https://leetcode.com/u/mushfiqurH2B/">
+        <img src="assets/badges/leetcode_top_sql_50.png" width="90%" style="border-radius:12px;border:1px solid #30363d;" alt="LeetCode Top SQL 50 Badge" />
+      </a>
+      <br/><br/>
+      <a href="https://leetcode.com/u/mushfiqurH2B/"><img src="https://img.shields.io/badge/LeetCode-Top%20SQL%2050-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <a href="https://leetcode.com/u/mushfiqurH2B/">
+        <img src="assets/badges/leetcode_introduction_to_pandas.png" width="90%" style="border-radius:12px;border:1px solid #30363d;" alt="LeetCode Introduction to Pandas Badge" />
+      </a>
+      <br/><br/>
+      <a href="https://leetcode.com/u/mushfiqurH2B/"><img src="https://img.shields.io/badge/LeetCode-Intro%20to%20Pandas-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+### 🏆 HackerRank — Verified Certifications & Multi-Domain Badges
+
+<div align="center">
+
+<a href="https://www.hackerrank.com/profile/20mahin2020">
+  <img src="https://img.shields.io/badge/HackerRank-20mahin2020-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</a>
+<a href="https://www.hackerrank.com/profile/20mahin2020">
+  <img src="https://img.shields.io/badge/Badges-7x%20Gold%20⭐⭐⭐⭐⭐-FFD700?style=for-the-badge" />
+</a>
+<a href="https://www.hackerrank.com/profile/20mahin2020">
+  <img src="https://img.shields.io/badge/Certificates-5%20Verified%20Pass-00EA64?style=for-the-badge" />
+</a>
+
+<br/><br/>
+
+#### 📜 Official Verified Skill & Role Certifications
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <b>🏅 SQL (Advanced)</b><br/>
+      <code>Score: 200/200 (100%)</code><br/>
+      <a href="https://www.hackerrank.com/certificates/4f9571ae0dea">
+        <img src="https://img.shields.io/badge/Verified%20Certificate-4f9571ae0dea-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
+      </a>
+      <br/><br/>
+      <a href="https://www.hackerrank.com/certificates/4f9571ae0dea">
+        <img src="assets/certificates/hackerrank_sql_advanced.png" width="95%" style="border-radius:10px;border:1px solid #30363d;" alt="SQL Advanced Certificate" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <b>🏅 SQL (Intermediate)</b><br/>
+      <code>Score: 150/150 (100%)</code><br/>
+      <a href="https://www.hackerrank.com/certificates/2d06d4712260">
+        <img src="https://img.shields.io/badge/Verified%20Certificate-2d06d4712260-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
+      </a>
+      <br/><br/>
+      <a href="https://www.hackerrank.com/certificates/2d06d4712260">
+        <img src="assets/certificates/hackerrank_sql_intermediate.png" width="95%" style="border-radius:10px;border:1px solid #30363d;" alt="SQL Intermediate Certificate" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <b>🏅 Problem Solving (Intermediate)</b><br/>
+      <code>Score: 150/150 (100%)</code><br/>
+      <a href="https://www.hackerrank.com/certificates/c91f738e5e67">
+        <img src="https://img.shields.io/badge/Verified%20Certificate-c91f738e5e67-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
+      </a>
+      <br/><br/>
+      <a href="https://www.hackerrank.com/certificates/c91f738e5e67">
+        <img src="assets/certificates/hackerrank_problem_solving_intermediate.png" width="95%" style="border-radius:10px;border:1px solid #30363d;" alt="Problem Solving Intermediate Certificate" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <b>🏅 Software Engineer Intern</b><br/>
+      <code>Score: 100/100 (100%)</code><br/>
+      <a href="https://www.hackerrank.com/certificates/3382e9d12662">
+        <img src="https://img.shields.io/badge/Verified%20Certificate-3382e9d12662-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
+      </a>
+      <br/><br/>
+      <a href="https://www.hackerrank.com/certificates/3382e9d12662">
+        <img src="assets/certificates/hackerrank_software_engineer_intern.png" width="95%" style="border-radius:10px;border:1px solid #30363d;" alt="Software Engineer Intern Certificate" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <b>🏅 Angular (Basic)</b><br/>
+      <code>Score: 100/100 (100%)</code><br/>
+      <a href="https://www.hackerrank.com/certificates/9ae28a134eb4">
+        <img src="https://img.shields.io/badge/Verified%20Certificate-9ae28a134eb4-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
+      </a>
+      <br/><br/>
+      <a href="https://www.hackerrank.com/certificates/9ae28a134eb4">
+        <img src="assets/certificates/hackerrank_angular_basic.png" width="48%" style="border-radius:10px;border:1px solid #30363d;" alt="Angular Basic Certificate" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+#### ⭐ Multi-Domain Mastery Badges (7x Gold 5-Star & 1x Silver)
+
+<table border="0" width="100%">
+  <tr>
+    <td width="25%" align="center" valign="top">
+      <a href="https://www.hackerrank.com/profile/20mahin2020">
+        <img src="assets/badges/hackerrank_badge_problem_solving.png" width="90%" style="max-width:130px;filter:drop-shadow(0 4px 12px rgba(255,215,0,0.25));" alt="Problem Solving 5-Star" />
+      </a>
+      <br/><br/>
+      <b>Problem Solving</b><br/>
+      <a href="https://www.hackerrank.com/profile/20mahin2020"><img src="https://img.shields.io/badge/5%20Stars-Gold-FFD700?style=flat-square" /></a><br/>
+      <small><code>2,161 pts • 91 Solved</code></small>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <a href="https://www.hackerrank.com/profile/20mahin2020">
+        <img src="assets/badges/hackerrank_badge_sql.png" width="90%" style="max-width:130px;filter:drop-shadow(0 4px 12px rgba(255,215,0,0.25));" alt="SQL 5-Star" />
+      </a>
+      <br/><br/>
+      <b>SQL</b><br/>
+      <a href="https://www.hackerrank.com/profile/20mahin2020"><img src="https://img.shields.io/badge/5%20Stars-Gold-FFD700?style=flat-square" /></a><br/>
+      <small><code>880 pts • 51 Solved</code></small>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <a href="https://www.hackerrank.com/profile/20mahin2020">
+        <img src="assets/badges/hackerrank_badge_java.png" width="90%" style="max-width:130px;filter:drop-shadow(0 4px 12px rgba(255,215,0,0.25));" alt="Java 5-Star" />
+      </a>
+      <br/><br/>
+      <b>Java</b><br/>
+      <a href="https://www.hackerrank.com/profile/20mahin2020"><img src="https://img.shields.io/badge/5%20Stars-Gold-FFD700?style=flat-square" /></a><br/>
+      <small><code>761 pts • 55 Solved</code></small>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <a href="https://www.hackerrank.com/profile/20mahin2020">
+        <img src="assets/badges/hackerrank_badge_python.png" width="90%" style="max-width:130px;filter:drop-shadow(0 4px 12px rgba(255,215,0,0.25));" alt="Python 5-Star" />
+      </a>
+      <br/><br/>
+      <b>Python</b><br/>
+      <a href="https://www.hackerrank.com/profile/20mahin2020"><img src="https://img.shields.io/badge/5%20Stars-Gold-FFD700?style=flat-square" /></a><br/>
+      <small><code>715 pts • 34 Solved</code></small>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" align="center" valign="top">
+      <a href="https://www.hackerrank.com/profile/20mahin2020">
+        <img src="assets/badges/hackerrank_badge_c.png" width="90%" style="max-width:130px;filter:drop-shadow(0 4px 12px rgba(255,215,0,0.25));" alt="C Language 5-Star" />
+      </a>
+      <br/><br/>
+      <b>C Language</b><br/>
+      <a href="https://www.hackerrank.com/profile/20mahin2020"><img src="https://img.shields.io/badge/5%20Stars-Gold-FFD700?style=flat-square" /></a><br/>
+      <small><code>620 pts • 25 Solved</code></small>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <a href="https://www.hackerrank.com/profile/20mahin2020">
+        <img src="assets/badges/hackerrank_badge_ruby.png" width="90%" style="max-width:130px;filter:drop-shadow(0 4px 12px rgba(255,215,0,0.25));" alt="Ruby 5-Star" />
+      </a>
+      <br/><br/>
+      <b>Ruby</b><br/>
+      <a href="https://www.hackerrank.com/profile/20mahin2020"><img src="https://img.shields.io/badge/5%20Stars-Gold-FFD700?style=flat-square" /></a><br/>
+      <small><code>610 pts • 41 Solved</code></small>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <a href="https://www.hackerrank.com/profile/20mahin2020">
+        <img src="assets/badges/hackerrank_badge_cpp.png" width="90%" style="max-width:130px;filter:drop-shadow(0 4px 12px rgba(255,215,0,0.25));" alt="C++ 5-Star" />
+      </a>
+      <br/><br/>
+      <b>C++</b><br/>
+      <a href="https://www.hackerrank.com/profile/20mahin2020"><img src="https://img.shields.io/badge/5%20Stars-Gold-FFD700?style=flat-square" /></a><br/>
+      <small><code>265 pts • 17 Solved</code></small>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <a href="https://www.hackerrank.com/profile/20mahin2020">
+        <img src="assets/badges/hackerrank_badge_javascript_10days.png" width="90%" style="max-width:130px;filter:drop-shadow(0 4px 12px rgba(192,192,192,0.25));" alt="10 Days of JS 4-Star" />
+      </a>
+      <br/><br/>
+      <b>10 Days of JS</b><br/>
+      <a href="https://www.hackerrank.com/profile/20mahin2020"><img src="https://img.shields.io/badge/4%20Stars-Silver-C0C0C0?style=flat-square" /></a><br/>
+      <small><code>19 pts • 19 Solved</code></small>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<details>
+  <summary><b>📊 View Detailed Multi-Domain Track Score Breakdown</b></summary>
+  <br/>
+
+| Domain Track | Stars | Badge Level | Points / Solved | Status |
+| :--- | :---: | :---: | :---: | :---: |
+| 🧩 **Problem Solving** | ⭐⭐⭐⭐⭐ | **Gold 5-Star** | 2,161.0 pts (91 Solved) | Dominant |
+| 🗄️ **SQL** | ⭐⭐⭐⭐⭐ | **Gold 5-Star** | 880.0 pts (51 Solved) | 100% Complete |
+| ☕ **Java** | ⭐⭐⭐⭐⭐ | **Gold 5-Star** | 761.0 pts (55 Solved) | Grand Master |
+| 🐍 **Python** | ⭐⭐⭐⭐⭐ | **Gold 5-Star** | 715.0 pts (34 Solved) | Grand Master |
+| ⚙️ **C Language** | ⭐⭐⭐⭐⭐ | **Gold 5-Star** | 620.0 pts (25 Solved) | 100% Complete |
+| 💎 **Ruby** | ⭐⭐⭐⭐⭐ | **Gold 5-Star** | 610.0 pts (41 Solved) | 100% Complete (41/41) |
+| ⚡ **C++** | ⭐⭐⭐⭐⭐ | **Gold 5-Star** | 265.0 pts (17 Solved) | Grand Master |
+| 🌐 **10 Days of JavaScript** | ⭐⭐⭐⭐ | **Silver 4-Star** | 19.0 pts (19 Solved) | Complete |
+
+</details>
+
+</div>
+
+<br/>
+
+### 🧠 Google & Kaggle — Machine Learning & AI Specializations
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="assets/certificates/kaggle-deep-learning.png" width="100%" style="border-radius:8px" alt="Deep Learning" />
+    </td>
+    <td width="50%" align="center">
+      <img src="assets/certificates/kaggle-computer-vision.png" width="100%" style="border-radius:8px" alt="Computer Vision" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="assets/certificates/kaggle-machine-learning.png" width="100%" style="border-radius:8px" alt="Machine Learning" />
+    </td>
+    <td width="50%" align="center">
+      <img src="assets/certificates/kaggle-explainability.png" width="100%" style="border-radius:8px" alt="ML Explainability" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="assets/certificates/kaggle-game-ai.png" width="100%" style="border-radius:8px" alt="Game AI & RL" />
+    </td>
+    <td width="50%" align="center">
+      <img src="assets/certificates/kaggle-time-series.png" width="100%" style="border-radius:8px" alt="Time Series" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="assets/certificates/kaggle-feature-engineering.png" width="100%" style="border-radius:8px" alt="Feature Engineering" />
+    </td>
+    <td width="50%" align="center">
+      <img src="assets/certificates/kaggle-advanced-sql.png" width="100%" style="border-radius:8px" alt="Advanced SQL" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="assets/certificates/kaggle-data-visualization.png" width="100%" style="border-radius:8px" alt="Data Visualization" />
+    </td>
+    <td width="50%" align="center">
+      <img src="assets/certificates/kaggle-data-cleaning.png" width="100%" style="border-radius:8px" alt="Data Cleaning" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="assets/certificates/kaggle-geospatial.png" width="100%" style="border-radius:8px" alt="Geospatial Analysis" />
+    </td>
+    <td width="50%" align="center">
+      <img src="assets/certificates/kaggle-pandas.png" width="100%" style="border-radius:8px" alt="Pandas" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="assets/certificates/kaggle-python.png" width="100%" style="border-radius:8px" alt="Python" />
+    </td>
+    <td width="50%" align="center">
+      <img src="assets/certificates/kaggle-programming.png" width="100%" style="border-radius:8px" alt="Intro to Programming" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img alt="Md Mushfiqur Rahim — AI & Systems Researcher" src="assets/header-dark.svg" width="100%">
+</picture>
+
+</div>
+
