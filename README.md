@@ -370,10 +370,10 @@ impact:
 
 <br/>
 
-### 🇪🇺 European University ECTS Credits (20.0 ECTS In-Hand | Bologna Process Validated)
+### 🇪🇺 European University ECTS Credits (24.0 ECTS In-Hand | Bologna Process Validated)
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Total%20ECTS%20Locked-20.0%20ECTS%20(540%20Academic%20Hours)-003399?style=for-the-badge&logo=europeanunion&logoColor=FFCC00" />
+  <img src="https://img.shields.io/badge/Total%20ECTS%20Locked-24.0%20ECTS%20(648%20Academic%20Hours)-003399?style=for-the-badge&logo=europeanunion&logoColor=FFCC00" />
   &nbsp;
   <img src="https://img.shields.io/badge/Finland%20Public%20Universities-LUT%20%7C%20Turku%20%7C%20Aalto%20%7C%20Helsinki-002F6C?style=for-the-badge" />
 </div>
@@ -427,6 +427,42 @@ impact:
       <img src="https://img.shields.io/badge/Aalto%20University-Starting%20Up%20(1.0%20ECTS)-FF595A?style=flat-square" />
       <br/>
       <sub><b>Online Verification ID:</b> <code>cf55e7d4-40d8-41a0-9f6e-c0532fd7fbb7</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="assets/certificates/lut-technical-mathematics-2ects.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="LUT University - Basics of Technical Mathematics (2 ECTS)" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/LUT%20University-Technical%20Mathematics%20(2.0%20ECTS)-0078D7?style=flat-square" />
+      <br/>
+      <sub><b>Official Master Cert ID:</b> <code>t936bra1pW</code> | Signed: Provost &amp; Rector</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="assets/certificates/turku-cultural-memory-1ects.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="University of Turku - Cultural Memory and Social Change (1 ECTS)" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/University%20of%20Turku-Cultural%20Memory%20(1.0%20ECTS)-002F6C?style=flat-square" />
+      <br/>
+      <sub><b>Official Verification Code:</b> <code>icE8p6Zv7K</code> | Grade: Pass</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://courses.minnalearn.com/certificate/fi/regenfarming/08f0f207-d6ef-4200-a88d-02c03e1bf80b">
+        <img src="assets/certificates/minnalearn-bsag-regenerative-farming.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="MinnaLearn & Baltic Sea Action Group (BSAG) - Uudistavan viljelyn opisto" />
+      </a>
+      <br/><br/>
+      <a href="https://courses.minnalearn.com/certificate/fi/regenfarming/08f0f207-d6ef-4200-a88d-02c03e1bf80b">
+        <img src="https://img.shields.io/badge/MinnaLearn%20%26%20BSAG-Regenerative%20Farming-2E7D32?style=flat-square" />
+      </a>
+      <br/>
+      <sub><b>Verification ID:</b> <code>08f0f207-d6ef-4200-a88d-02c03e1bf80b</code></sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="assets/certificates/lut-climate-action-for-youth-2ects.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="LUT University - Climate Action for Youth" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/LUT%20University-Climate%20Action%20For%20Youth-0078D7?style=flat-square" />
+      <br/>
+      <sub><b>Official Master Cert ID:</b> <code>03uY3kCSec</code></sub>
     </td>
   </tr>
 </table>
