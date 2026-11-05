@@ -487,15 +487,15 @@ impact:
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <a href="https://courses.minnalearn.com/certificate/fi/regenfarming/08f0f207-d6ef-4200-a88d-02c03e1bf80b">
-        <img src="assets/certificates/minnalearn-bsag-regenerative-farming.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="MinnaLearn & Baltic Sea Action Group (BSAG) - Uudistavan viljelyn opisto" />
+      <a href="https://courses.minnalearn.com/certificate/en/ai-for-built-environment/d1dda2e3-c4f5-444d-aa41-aca03c902d0a">
+        <img src="assets/certificates/ai-for-built-environment.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="MinnaLearn &amp; KIRAHub &amp; Ministry of the Environment Finland — AI for Built Environment" />
       </a>
       <br/><br/>
-      <a href="https://courses.minnalearn.com/certificate/fi/regenfarming/08f0f207-d6ef-4200-a88d-02c03e1bf80b">
-        <img src="https://img.shields.io/badge/MinnaLearn%20%26%20BSAG-Regenerative%20Farming-2E7D32?style=flat-square" />
+      <a href="https://courses.minnalearn.com/certificate/en/ai-for-built-environment/d1dda2e3-c4f5-444d-aa41-aca03c902d0a">
+        <img src="https://img.shields.io/badge/MinnaLearn%20%26%20KIRAHub-AI%20for%20Built%20Environment-FF9800?style=flat-square" />
       </a>
       <br/>
-      <sub><b>Verification ID:</b> <code>08f0f207-d6ef-4200-a88d-02c03e1bf80b</code></sub>
+      <sub><b>Official Certificate ID:</b> <code>d1dda2e3-c4f5-444d-aa41-aca03c902d0a</code></sub>
     </td>
     <td width="50%" align="center" valign="top">
       <img src="assets/certificates/lut-climate-action-for-youth-2ects.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="LUT University - Climate Action for Youth" />
