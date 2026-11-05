@@ -370,10 +370,10 @@ impact:
 
 <br/>
 
-### 🇪🇺 European University ECTS Credits (26.0 ECTS In-Hand | Bologna Process Validated)
+### 🇪🇺 European University ECTS Credits (28.0 ECTS In-Hand | Bologna Process Validated)
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Total%20ECTS%20Locked-26.0%20ECTS%20(702%20Academic%20Hours)-003399?style=for-the-badge&logo=europeanunion&logoColor=FFCC00" />
+  <img src="https://img.shields.io/badge/Total%20ECTS%20Locked-28.0%20ECTS%20(756%20Academic%20Hours)-003399?style=for-the-badge&logo=europeanunion&logoColor=FFCC00" />
   &nbsp;
   <img src="https://img.shields.io/badge/Finland%20Public%20Universities-LUT%20%7C%20Turku%20%7C%20Aalto%20%7C%20Helsinki-002F6C?style=for-the-badge" />
 </div>
@@ -382,6 +382,13 @@ impact:
 
 <table border="0" width="100%">
   <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="assets/certificates/turku-trade-and-policy-2ects.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="University of Turku & DigiCampus — MOOC: Trade and policy: international tensions influencing businesses (2.0 ECTS)" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/University%20of%20Turku-Trade%20%26%20Policy%20(2.0%20ECTS)-002F6C?style=flat-square" />
+      <br/>
+      <sub><b>Official Verification Code:</b> <code>Q6LaOypfWy</code></sub>
+    </td>
     <td width="50%" align="center" valign="top">
       <a href="https://courses.minnalearn.com/certificate/en/rethinking-health/6932dbef-f733-4be5-99dd-16756d846652">
         <img src="assets/certificates/helsinki-rethinking-health-2ects.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="University of Helsinki & MinnaLearn & Gesund Partners — Rethinking Health (2.0 ECTS)" />
@@ -392,13 +399,6 @@ impact:
       </a>
       <br/>
       <sub><b>Official Certificate ID:</b> <code>6932dbef-f733-4be5-99dd-16756d846652</code></sub>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img src="assets/certificates/lut-technical-mathematics.png" width="100%" style="border-radius:10px;border:1px solid #30363d;" alt="LUT University - Basics of Technical Mathematics (2.0 ECTS)" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/LUT%20University-Technical%20Mathematics%20(2.0%20ECTS)-0078D7?style=flat-square" />
-      <br/>
-      <sub><b>Official Certificate ID:</b> <code>t936bra1pW</code></sub>
     </td>
   </tr>
   <tr>
