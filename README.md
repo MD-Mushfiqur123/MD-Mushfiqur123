@@ -121,6 +121,7 @@ impact:
 
 | Project / Monograph | Domain & Core Innovation | Architecture & Proof |
 | :--- | :--- | :---: |
+| 🧬 **[MEG-BAR Preprint](https://github.com)** | **Ligand Fingerprints vs. Protein Foundation Models:** Controlled multi-seed audit on 56,637 measured ChEMBL records across 11 human receptors with ESM-2 650M, wrong-pocket controls, and temporal splits. | [DOI: 10.6084/m9.figshare.35002837](https://doi.org) |
 | 🖼️ **[mif-image-format](https://github.com/MD-Mushfiqur123/mif-image-format)** | **Mushfiqur Image Format (.MIF v2.0):** Single-header C99 codec (`libmif.h`), scanline spatial residual predictors (Sub, Up, Avg, Paeth), 100% bit-perfect CRC-32 & SHA-256 verified, beats PNG on flat art. | `v2.0.0` • C99 / Python |
 | 📸 **[aether-photos-vault](https://github.com/MD-Mushfiqur123/aether-photos-vault)** | **Infinite YouTube Binary Photo Vault:** Converts photo batches into 1080p MP4 optical streams with center-pixel sampling. Immune to YouTube CRF 26 compression with 100% bit-perfect recovery. | `v1.0.0` • Video Codec |
 | 🔬 **[dataset-collector](https://github.com/MD-Mushfiqur123/dataset-collector)** | **Scientific Bengali Dataset Distillation Forge:** Swiss Minimalist architecture, 1-Paste intelligent auto-split, 83% Jaccard duplicate gatekeeper, 1 GB buffer watchdog, 1-click Codespaces & Colab runners. | `v1.0.0` • OWASP 6/6 Pass |
