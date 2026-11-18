@@ -286,6 +286,28 @@ impact:
 
 ## 🎓 Verified Certifications & Credentials
 
+### 🚀 NASA Space Apps Challenge 2026 — Global Honors
+
+<div align="center">
+  <a href="https://github.com/MD-Mushfiqur123/orion-space">
+    <img src="assets/nasa_space_apps_2026_galactic_problem_solver.jpg" width="85%" style="border-radius:12px;border:1px solid #30363d;box-shadow: 0 4px 20px rgba(0,0,0,0.5);" alt="NASA Space Apps Challenge 2026 Galactic Problem Solver Certificate — Md Mushfiqur Rahim" />
+  </a>
+  <br/><br/>
+  <a href="https://github.com/MD-Mushfiqur123/orion-space">
+    <img src="https://img.shields.io/badge/NASA%20Space%20Apps%202026-Galactic%20Problem%20Solver-0B3D91?style=for-the-badge&logo=nasa&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/MD-Mushfiqur123/orion-space">
+    <img src="https://img.shields.io/badge/Team-Orion%20Space-0284c7?style=for-the-badge" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/MD-Mushfiqur123/orion-space">
+    <img src="https://img.shields.io/badge/Local%20Event-Barisal%2C%20Bangladesh-10b981?style=for-the-badge" />
+  </a>
+</div>
+
+<br/>
+
 ### 🏛️ Top Universities & Global Computer Science Programs
 
 <table border="0" width="100%">
